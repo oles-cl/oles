@@ -1,20 +1,26 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
-hero_media: welcome.jpg
+widget: hero
+headless: true
+active: false
+weight: 10
+title: Hugo Academic Starter
+hero_media: hero-academic.png
+cta:
+  label: '**Get Started**'
+  url: https://wowchemy.com/templates/
+cta_alt:
+  label: Ask a question
+  url: https://discord.gg/z8wNYzb
+cta_note:
+  label: >-
+    <a class="js-github-release" href="https://wowchemy.com/updates/" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy site builder for Hugo</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  background:
+    image: "img/logos/oles-logos-1.gif"
 advanced:
-  css_style:
-  css_class:
+  css_class: fullscreen
 ---
+<p class = "cta-btns">
+<a href="https://encuestacovid.uchile.cl/" style="text-decoration:none" target="_blank" rel="noopener" class="btn btn-light btn-lg">Contestar la encuesta</a></p>
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
