@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luciano Sáez Fuentealba | OLES</title>
+    <link>/author/luciano-saez-fuentealba/</link>
+      <atom:link href="/author/luciano-saez-fuentealba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luciano Sáez Fuentealba</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <image>
+      <url>/author/luciano-saez-fuentealba/avatar_hua1e33e258f82cc9a99118f14f1204c4d_22642_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Luciano Sáez Fuentealba</title>
+      <link>/author/luciano-saez-fuentealba/</link>
+    </image>
+    
+  </channel>
+</rss>
