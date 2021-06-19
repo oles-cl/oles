@@ -1,45 +1,42 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Profesora Asistente de la Escuela de Sociología  y Directora del Diplomado en Métodos Cualitativos para la Investigación Social de la Universidad Diego Portales. Es Doctora en Sociología por la Universidad de Nottingham, Reino Unido, Master en Sociologíaa por la Universidad de Warwick y Licenciada en Sociología por la Universidad de Chile. Actualmente es Investigadora Adjunta de la línea de Conflicto Político y Social de COES, así como Investigadora Adjunta del Núcleo Milenio en Autoridad y Asimetrías de Poder (NUMAAP), afiliada al Área de Teoría y Política.  Ha sido investigadora del Programa de Naciones Unidas para el Desarrollo en Chile y Consultora para la Oficina Regional de FAO para América Latina y el Caribe. Sus líneas de interés se centran en la sociología del respeto, sociología de la desigualdad, sociología moral y métodos de investigación mixtos.
+education:
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD en Sociology, 
+    institution: Universidad de Nottingham, Reino Unido
+    year: 2019
+  - course: Master in Sociology 
+    institution: Universidad de Warwick, Reino Unido
+    year: 2010
+  - course: Licenciaa en Sociolog??a 
+    institution: Universidad de Chile
     year: 2008
-email: ""
+email: "macarenaorchard@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sociología de la desigualdad
+- Sociología del Respeto
+- Sociología moral
+- Métodos de Investigación mixtos
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Universidad Diego Portales
+  url: "https://www.icso.cl/investigadores/macarena-orchard/"
+role: Profesora Asistente, Universidad Diego Portales
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: mailto:macarenaorchard@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MacarenaOrchard
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=tu2UQaYAAAAJ&hl=es
 superuser: true
 title: Macarena Orchard
 user_groups:
 - Investigadoras principales
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Profesora Asistente de la Escuela de Sociología  y Directora del Diplomado en Métodos Cualitativos para la Investigación Social de la Universidad Diego Portales. Es Doctora en Sociología por la Universidad de Nottingham, Reino Unido, Master en Sociologíaa por la Universidad de Warwick y Licenciada en Sociología por la Universidad de Chile. Actualmente es Investigadora Adjunta de la línea de Conflicto Político y Social de COES, así como Investigadora Adjunta del Núcleo Milenio en Autoridad y Asimetrías de Poder (NUMAAP), afiliada al Área de Teoría y Política.  Ha sido investigadora del Programa de Naciones Unidas para el Desarrollo en Chile y Consultora para la Oficina Regional de FAO para América Latina y el Caribe. Sus líneas de interés se centran en la sociología del respeto, sociología de la desigualdad, sociología moral y métodos de investigación mixtos.

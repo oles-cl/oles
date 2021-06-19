@@ -12,44 +12,45 @@ weight: 2
 superuser: false
 
 # Role/position
-role: Investigador
+role: Asistente de investigación
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Chile
-  url: "www.uchile.cl"
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Socióloga de la Universidad de Chile y estudiante del Magíster en Economía de la Pontificia Universidad Católica de Chile. Apoyo docente en la Facultad de Ciencias Sociales de la Universidad de Chile y académica adjunta de la Universidad Católica Silva Henríquez. Asistente de investigación del Monitoreo Nacional de Prácticas y Síntomas COVID-19 (MOVID-19) y FONDECYT N°11190229 - Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores, los casos de Argentina y Chile en perspectiva comparada. Sus temas de interés son la economía laboral, relaciones laborales y la desigualdad económica, principalmente desarrollado desde un **enfoque cuantitativo** y orientado por la **ciencia abierta**.
+bio: Asistente de Investigación, profesor de la escuela de Sociología y Trabajo Social de la Universidad Academia de Humanismo Cristiano y de la Escuela de Psicología de la Universidad de Santiago. Historiador, Magíster en Ciencias Sociales del Instituto de Estudios Avanzados de la Universidad de Santiago, Magíster en Psicología mención Psicología Social de la Universidad Diego Portales, estudiante del Doctorado en Ciencias Sociales de la Universidad de Buenos Aires. Sus intereses se centran en violencia policial y represión, estudios sobre memoria e historia reciente, representaciones sociales de justicia y reparación, construcción de verdades oficiales y alternativas en derechos humanos y movimientos sociales acción colectiva.  
 
 interests:
-- Economía laboral
-- Modelamiento temporal y comparado
-- Ciencia abierta
-
+- Violencia Policial
+- Memoria e historia reciente
+- Representaciones sociales de justicia y reparación
+- Construcción de verdades oficiales y alternativas en Derechos Humanos
+- Movimientos Sociales y Acción colectiva 
 
 education:
   courses:
-  - course: Estudiante de Magíster en Economía
-    institution: Pontificia Universidad Católica de Chile
-    year: 2022
-  - course: Socióloga
-    institution: Universidad de Chile
-    year: 2020
-
+  - course: Historiador
+    institution: Universidad Alberto Hurtado
+    year: 2013
+  - course: Magíster en Ciencias Sociales  
+    institution: Instituto de Estudios Avanzados Universidad de Santiago
+    year: 2018
+  - course: Magíster en Psicología, mención Psicología Social
+    institution: Universidad Diego Portales
+    year: in course
+  - course: Doctor en Ciencias Sociales
+    institucion: Universidad de Buenos Aires
+    year: in course
+    
 social:
 - icon: envelope
   icon_pack: fas
-  link: valentinaandrade@uchile.cl
-- icon: "book"
-  icon_pack: "fas"
-  link: https://scholar.google.com/citations?user=pj-D9-oAAAAJ&hl=es
-- icon: github
-  icon_pack: fab
-  link: https://github.com/valentinaandrade
+  link: luciano.saez.fuentealba@gmail.com
 
 user_groups:
 - Asistentes de investigación
 ---
 
-Socióloga de la Universidad de Chile y estudiante del Magíster en Economía de la Pontificia Universidad Católica de Chile. Apoyo docente en la Facultad de Ciencias Sociales de la Universidad de Chile y académica adjunta de la Universidad Católica Silva Henríquez. Asistente de investigación del Monitoreo Nacional de Prácticas y Síntomas COVID-19 (MOVID-19) y FONDECYT N°11190229 - Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores, los casos de Argentina y Chile en perspectiva comparada. Sus temas de interés son la economía laboral, relaciones laborales y la desigualdad económica, principalmente desarrollado desde un **enfoque cuantitativo** y orientado por la **ciencia abierta**.
+Asistente de Investigación, profesor de la escuela de Sociología y Trabajo Social de la Universidad Academia de Humanismo Cristiano y de la Escuela de Psicología de la Universidad de Santiago. Historiador, Magíster en Ciencias Sociales del Instituto de Estudios Avanzados de la Universidad de Santiago, Magíster en Psicología mención Psicología Social de la Universidad Diego Portales, estudiante del Doctorado en Ciencias Sociales de la Universidad de Buenos Aires. Sus intereses se centran en violencia policial y represión, estudios sobre memoria e historia reciente, representaciones sociales de justicia y reparación, construcción de verdades oficiales y alternativas en derechos humanos y movimientos sociales acción colectiva

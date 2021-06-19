@@ -41,8 +41,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: valentinaandrade@uchile.cl
-- icon: "book"
-  icon_pack: "fas"
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=pj-D9-oAAAAJ&hl=es
 - icon: github
   icon_pack: fab

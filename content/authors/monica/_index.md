@@ -50,8 +50,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/monica_gerber?lang=en
-- icon: "book"
-  icon_pack: "fas"
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.es/citations?user=4L5fnNEAAAAJ&hl=es&oi=ao
 - icon: github
   icon_pack: fab
