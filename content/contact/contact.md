@@ -4,9 +4,6 @@ content:
   form:
     formspree:
       id: xpzkrkea
-    netlify:
-      captcha: false
-    provider: netlify
 design:
   columns: "1"
 headless: true
