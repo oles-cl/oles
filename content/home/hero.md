@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["445px", "50px", "20px", "50px"]
+  padding = ["300px", "50px", "20px", "100px"]
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -65,7 +65,7 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- #css_class = "fullscreen"
+ css_class = "fullscreen"
 +++
 
 <p class = "cta-btns" align="right">

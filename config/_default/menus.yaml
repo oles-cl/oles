@@ -4,18 +4,36 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Reciente
-    url: post
+  - name: Somos
+    identifier: somos
+    url: people
     weight: 20
   - name: Equipo
+    parent: somos
     url: people
+    weight: 20
+  - name: Sobre OLES
+    parent: somos
+    url: sobre
     weight: 30
-  - name: Actividades
-    url: event
-    weight: 40
   - name: Publicaciones
     url: publication
+    weight: 30
+  - name: Línea de tiempo OLES
+    url: timeline
+    weight: 40
+  - name: Recientes
+    identifier: news
+    url: post
     weight: 50
+  - name: Noticias
+    parent: news
+    url: post
+    weight: 10
+  - name: Actividades
+    parent: news
+    url: event
+    weight: 20
   - name: Contacto
     url: contact
     weight: 60

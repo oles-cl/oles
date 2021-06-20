@@ -23,7 +23,7 @@ advanced:
 
 <div style="position:absolute; left:0; top:0; width:1377; height:1377; clip:rect(0,381,381,0); background:#FFF;">
 
- <iframe src="https://oles-timeline.netlify.app" width="1050" height="650" marginwidth="0" marginheight="0" frameborder="no" scrolling="yes" style="border-width:2px; border-color:#fff; background:#FFF; border-style:solid;">
+ <iframe src="https://oles-timeline.netlify.app" width="1300" height="650" marginwidth="0" marginheight="0" frameborder="no" scrolling="yes" style="border-width:2px; border-color:#fff; background:#FFF; border-style:solid;">
  </iframe>
 
 </div>

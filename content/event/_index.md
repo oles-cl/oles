@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Events
+title: Eventos recientes y próximos
 view: 2
 ---

@@ -1,0 +1,16 @@
+---
+title: "Mitos y realidades sobre las violencias en la movilización social y la protesta"
+authors: [admin]
+date: 2021-03-30T21:13:14-05:00
+categories: ["Noticias"]
+tags: ["Noticias", "Violencia", "Protesta"]
+image:
+  caption: 'Fuente de imagen: UDP'
+  focal_point: Right
+---
+
+<p class = "cta-btns" align="right">
+<a href="https://socialesehistoria.udp.cl/macaren-orchard-participo-en-foro-sobre-violencias-en-la-movilizacion-social-y-la-protesta/" style="text-decoration:none" target="_blank" rel="noopener" class="btn btn-primary btn-lg">Ir a la noticia</a></p>
+
+
+[Macarena Orchard](/author/macarena-orchard/) partició en **#DebateAFondo** del Fondo de Cultura Económica (FCE Chile). En el [canal de youtube](https://youtu.be/P7ueK2xfe0c) se puede revivir la conversación que contó con la participación de Nicolás Angelcos, Isidora Iñigo, Daniel Miranda, y nuestra investigadora **Macarena Orchard**. La actividad contó con la moderación de Rafael López y Sol Alé, editora de **Saltar el torniquete**

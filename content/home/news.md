@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
+weight: 30
 
-title: Últimas publicaciones
+title: Noticas **OLES**
 subtitle:
 
 content:
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
+  view: 2
   columns: "1"
 ---
