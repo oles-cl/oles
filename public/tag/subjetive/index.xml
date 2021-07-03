@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subjetive | OLES</title>
+    <link>/tag/subjetive/</link>
+      <atom:link href="/tag/subjetive/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subjetive</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu4488ad8c7c745020016c0b121a50c833_17609_300x300_fit_lanczos_2.png</url>
+      <title>Subjetive</title>
+      <link>/tag/subjetive/</link>
+    </image>
+    
+    <item>
+      <title>¿Malestar de qué? A propósito de ciertos malentendidos entre malestar social y sufrimiento psíquico en Chile</title>
+      <link>/publication/fja-maca4/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/fja-maca4/</guid>
+      <description>&lt;p&gt;¿Malestar de qué? A propósito de ciertos malentendidos entre malestar social y sufrimiento psíquico en Chile&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bienestar Subjetivo: El Desafío De Repensar El Desarrollo</title>
+      <link>/publication/ja-maca5/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/ja-maca5/</guid>
+      <description>&lt;p&gt;Spanish Abstract: Hoy está en marcha una conversación pública global relativa al desarrollo. Diversos actores plantean cada vez más la necesidad de poner atención a otras dimensiones además del crecimiento económico (o del modo tradicional de concebirlo), lo cual implica afinar los objetivos, los puntos de llegada, el horizonte normativo, incluso las mediciones estadísticas; obliga a asumir en la acción pública aquello que “importa en última instancia” cuando se aspira al desarrollo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
