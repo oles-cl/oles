@@ -1,0 +1,26 @@
+# Theme metadata
+name = "olesp"
+
+# Is theme light or dark?
+is_light = false
+
+# Primary
+primary = "#147c61"
+
+# Menu
+menu_primary = "#24316f"
+menu_text = "white"
+menu_text_active = "#dc3c4d"
+menu_title = "white"
+
+[dark]
+  # Menu
+  menu_primary = "#274751"
+  menu_text = "#000"
+  menu_text_active = "#000"
+  menu_title = "#000"
+
+  # Backgrounds
+  background = "#000"
+  home_section_odd = "#000"
+  home_section_even = "#000"
