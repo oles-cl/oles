@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: Noticas **OLES**
+title: Noticias **OLES**
 subtitle:
 
 content:
