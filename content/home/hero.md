@@ -3,6 +3,7 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
+
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -22,21 +23,21 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "white"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  gradient_start = "white"
+  gradient_end = "white"
   
   # Background image.
-  image = "img/logos/oles-logos-1.gif"  # Name of image in `static/media/`.
-  image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "img/logos/8.png"  # Name of image in `static/media/`.
+  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "left"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -59,6 +60,7 @@ subtitle = ""
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="valentinaandrade/movid-site">Latest release<!-- V --></a>'
+# <a href="/timeline/" style="text-decoration:none" target="_blank" rel="noopener" class="btn btn-light /# btn-lg">Ir a línea de tiempo OLES</a></p> línea de tiempo oles
 
 [advanced]
  # Custom CSS. 
@@ -69,5 +71,7 @@ subtitle = ""
 +++
 
 <p class = "cta-btns" align="right">
-<a href="/timeline/" style="text-decoration:none" target="_blank" rel="noopener" class="btn btn-light btn-lg">Ir a línea de tiempo OLES</a></p>
+Acá poner resumen que debe enviarme luciano 
+
+
 
