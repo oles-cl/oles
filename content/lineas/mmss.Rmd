@@ -1,0 +1,13 @@
+---
+title: "Movimientos sociales"
+linktitle: "3: Movimientos sociales"
+date: "2022-03-14"
+start_date: "2022-03-14"
+end_date: "2022-03-18"
+menu:
+  content:
+    parent: Líneas de trabajo
+    weight: 5
+type: docs
+toc: true
+---
