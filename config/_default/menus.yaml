@@ -15,9 +15,9 @@ main:
   - name: Sobre OLES
     parent: somos
     url: sobre
-    weight: 30
-  - name: Publicaciones
-    url: publication
+    weight: 25
+  - name: Líneas de trabajo
+    url: lineas
     weight: 30
   - name: Línea de tiempo OLES
     url: timeline
