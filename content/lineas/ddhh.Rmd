@@ -1,0 +1,13 @@
+---
+title: "Derechos humanos"
+linktitle: "2: Derechos humanos"
+date: "2022-03-14"
+start_date: "2022-03-14"
+end_date: "2022-03-18"
+menu:
+  content:
+    parent: Líneas de trabajo
+    weight: 4
+type: docs
+toc: true
+---
