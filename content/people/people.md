@@ -1,11 +1,13 @@
 ---
 content:
   user_groups:
-  - Investigadoras principales
-  - Equipo colaborador
+  - Investigadores principales
+  - Investigadores adjuntos
+  - Asistente coordinador e investigador doctoral
   - Asistentes de investigación
-  - Ayudantes de investigación
-  - Estudiantes 
+  - Tesistas
+  - Asistentes de investigación anteriores
+  - Asistentes estudiantes 
 design:
   show_interests: false
   show_role: true
