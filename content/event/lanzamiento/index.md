@@ -8,9 +8,9 @@ address:
   street: 
 all_day: false
 authors: [oles]
-date: "2021-06-31T13:00:00Z"
-date_end: "2021-07-01T15:00:00Z"
-event: Lanzamiento OLES
+date: "2022-07-01T13:00:00Z"
+date_end: "2022-07-01T15:00:00Z"
+event: Lanzamiento sitio web OLES
 event_url: https://example.org
 featured: false
 image:
@@ -29,5 +29,5 @@ url_slides: ""
 url_video: ""
 ---
 
-Aquí una explicación del evento
+El primero de julio se inaugurará la página del **Observatorio Violencia y Legitimidad Social** (OLES). Rellenar
 
