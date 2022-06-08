@@ -30,9 +30,9 @@ subtitle = ""
   gradient_end = "white"
   
   # Background image.
-  image = "img/logos/8.png"  # Name of image in `static/media/`.
+  image = "img/logos/18.png"  # Name of image in `static/media/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "left"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
@@ -62,6 +62,14 @@ subtitle = ""
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="valentinaandrade/movid-site">Latest release<!-- V --></a>'
 # <a href="/timeline/" style="text-decoration:none" target="_blank" rel="noopener" class="btn btn-light /# btn-lg">Ir a línea de tiempo OLES</a></p> línea de tiempo oles
 
+# <div style="text-align:right">
+# <p style="font-size:7px;">
+# El **Observatorio de Violencia y Legitimidad Social** ( *OLES* ) es una iniciativa académica que tiene por objetivo desarrollar investigación interdisciplinaria que permitan *comprender los procesos de construcción* de **legitimidad social** y su relación con la **violencia y justicia social**.
+# El proyecto está liderado por académicas de la Universidad Diego Portales y la Universidad Academia de Humanismo Cristiano, pero cuenta con la participación de un amplio equipo de investigadoras/es de diversas casas de estudios. 
+# **O L E S** cuenta con el patrocinio de la *Universidad Diego Portales*  (UDP) y el *Centro de Estudios de Conflicto y Cohesión Social*  (COES).
+# </p>
+# </div>
+
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -70,8 +78,6 @@ subtitle = ""
  css_class = "fullscreen"
 +++
 
-<p class = "cta-btns" align="right">
-Acá poner resumen que debe enviarme luciano 
 
 
 
