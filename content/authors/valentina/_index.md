@@ -49,7 +49,7 @@ social:
   link: https://github.com/valentinaandrade
 
 user_groups:
-- Asistentes de investigación
+- Asistentes de investigación anteriores
 ---
 
 Socióloga de la Universidad de Chile y estudiante del Magíster en Economía de la Pontificia Universidad Católica de Chile. Apoyo docente en la Facultad de Ciencias Sociales de la Universidad de Chile y académica adjunta de la Universidad Católica Silva Henríquez. Asistente de investigación del Monitoreo Nacional de Prácticas y Síntomas COVID-19 (MOVID-19) y FONDECYT N°11190229 - Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores, los casos de Argentina y Chile en perspectiva comparada. Sus temas de interés son la economía laboral, relaciones laborales y la desigualdad económica, principalmente desarrollado desde un **enfoque cuantitativo** y orientado por la **ciencia abierta**.
