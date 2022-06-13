@@ -50,7 +50,7 @@ social:
   link: luciano.saez.fuentealba@gmail.com
 
 user_groups:
-- Asistentes de investigación
+- Asistente coordinador e investigador doctoral
 ---
 
 Asistente de Investigación, profesor de la escuela de Sociología y Trabajo Social de la Universidad Academia de Humanismo Cristiano y de la Escuela de Psicología de la Universidad de Santiago. Historiador, Magíster en Ciencias Sociales del Instituto de Estudios Avanzados de la Universidad de Santiago, Magíster en Psicología mención Psicología Social de la Universidad Diego Portales, estudiante del Doctorado en Ciencias Sociales de la Universidad de Buenos Aires. Sus intereses se centran en violencia policial y represión, estudios sobre memoria e historia reciente, representaciones sociales de justicia y reparación, construcción de verdades oficiales y alternativas en derechos humanos y movimientos sociales acción colectiva
