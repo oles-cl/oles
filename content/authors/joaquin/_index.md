@@ -12,7 +12,7 @@ weight: 2
 superuser: false
 
 # Role/position
-role: Académico de la Escuela de Psicología UCN
+role: Académico de la Escuela de Psicología Universidad Católica del Norte.
 
 # Organizations/Affiliations
 organizations:
