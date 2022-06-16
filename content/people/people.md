@@ -2,12 +2,20 @@
 content:
   user_groups:
   - Directora
+  -
+  
   - Subdirectores
+  
   - Investigadores asociados
+  
   - Asistente coordinador e investigador doctoral
+  
   - Asistentes de investigación
+  
   - Tesistas
+  
   - Asistentes de investigación anteriores
+  
   - Asistentes estudiantes 
 design:
   show_interests: false

@@ -12,7 +12,7 @@ weight: 2
 superuser: false
 
 # Role/position
-role: Investigadora adjunta de la línea Conflicto Político y Social de COES y profesora de la Facultad de Derecho de la Universidad Alberto Hurtado
+role: Investigadora adjunta de COES y profesora de la Universidad Alberto Hurtado.
 
 # Organizations/Affiliations
 organizations:
