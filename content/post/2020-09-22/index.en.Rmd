@@ -1,6 +1,6 @@
 ---
 title: "Profesora Monica Gerber se adjudica fondo asociativo UDP 2020 como investigadora principal"
-authors: [monica,admin]
+authors: [monica,macarena]
 date: 2020-09-22T21:13:14-05:00
 categories: ["Noticias"]
 tags: ["Noticias", "Fondos", "Investigación"]

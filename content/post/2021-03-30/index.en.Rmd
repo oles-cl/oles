@@ -1,6 +1,6 @@
 ---
 title: "Mitos y realidades sobre las violencias en la movilización social y la protesta"
-authors: [admin]
+authors: [macarena]
 date: 2021-03-30T21:13:14-05:00
 categories: ["Noticias"]
 tags: ["Noticias", "Violencia", "Protesta"]

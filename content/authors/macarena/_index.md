@@ -9,7 +9,7 @@ education:
   - course: Master in Sociology 
     institution: Universidad de Warwick, Reino Unido
     year: 2010
-  - course: Licenciaa en Sociolog??a 
+  - course: Licenciada en Sociología 
     institution: Universidad de Chile
     year: 2008
 email: "macarenaorchard@gmail.com"

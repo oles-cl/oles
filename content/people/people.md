@@ -2,8 +2,7 @@
 content:
   user_groups:
   - Directora
-  -
-  
+
   - Subdirectores
   
   - Investigadores asociados
