@@ -1,8 +1,9 @@
 ---
 content:
   user_groups:
-  - Investigadores principales
-  - Investigadores adjuntos
+  - Directora
+  - Subdirectores
+  - Investigadores asociados
   - Asistente coordinador e investigador doctoral
   - Asistentes de investigación
   - Tesistas

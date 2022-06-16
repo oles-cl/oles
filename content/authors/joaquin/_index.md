@@ -51,7 +51,7 @@ social:
   link: www.tinyurl.com/bahamondes-scholar
 
 user_groups:
-- Investigadores principales
+- Subdirectores
 ---
 
 Académico de la Escuela de Psicología UCN. Psicólogo de la Universidad Católica del Norte y Doctor en psicología de la University of Auckland, Nueva Zelanda. Investigador colaborador en el NZAVS lab, y co-investigador FONDECYT Regular #1190240. Sus principales líneas de investigación se enmarcan en la psicología social y política, específicamente en comprender cómo diversas formas de ideología impactan las percepciones de justicia/injusticia, con particular interés en sus efectos sobre el bienestar psicológico de minorías sociales. Actualmente imparte cursos en psicología social y análisis de datos avanzados en pre y postgrado.

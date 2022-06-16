@@ -49,7 +49,7 @@ social:
 
 
 user_groups:
-- Investigadores adjuntos
+- Investigadores asociados
 ---
 
 

@@ -44,7 +44,7 @@ social:
   link: loretoqr@gmail.com
 
 user_groups:
-- Investigadores adjuntos
+- Investigadores asociados
 ---
 
 
