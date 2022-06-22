@@ -31,8 +31,21 @@ widget: blank
 
 <br>
 
-El **Observatorio de Violencia y Legitimidad Social** ( *OLES* ) es una iniciativa académica que tiene por objetivo desarrollar investigación interdisciplinaria que permitan *comprender los procesos de construcción* de **legitimidad social** y su relación con la **violencia y justicia social**.
+## ¿Quiénes somos?
 
-El proyecto está liderado por académicas de la Universidad Diego Portales y la Universidad Academia de Humanismo Cristiano, pero cuenta con la participación de un amplio equipo de investigadoras/es de diversas casas de estudios. 
+Desde una mirada multidisciplinar **OLES** agrupa a investigadores/as de diferentes disciplinas en un esfuerzo por comprender los mecanismos de construcción de legitimidad social y problematizar el rol de la violencia y la justicia en diferentes contextos, aportando a la construcción teórica de marcos interpretativos sobre su desenvolvimiento en el escenario actual. Para ello promueve el diálogo y colaboración con actores sociales mediante la difusión y trabajo colaborativo que permita la socialización en espacios de relevancia.
+ 
+El objetivo principal de OLES es el de contribuir a la comprensión de los mecanismos de legitimidad social y justificación de la violencia mediante el desarrollo de investigaciones bajo criterios de Ciencia Abierta y en diálogo con actores sociales. Actualmente cuenta con el apoyo del Centro de Estudios de Conflicto y Cohesión Social (COES), la Universidad Diego Portales (UDP), la Universidad de O’Higgins (UOH) y la Universidad Católica del Norte (UCN). 
 
-**O L E S** cuenta con el patrocinio de la *Universidad Diego Portales*  (UDP) y el *Centro de Estudios de Conflicto y Cohesión Social*  (COES). 
+OLES se encuentra desarrollando los siguientes estudios:
+
+- From compliance to resistance: How do citizens in Chile relate to and position themselves towards the police? Fondecyt Regular Nº 1221805
+
+- Encuesta Longitudinal sobre legitimidad hacia carabineros: violencia, derechos humanos y control social (2020-2022). 
+
+- Evaluación de los aprendizajes en investigación en estudiantes de las Facultades de Psicología y Ciencias Sociales e Historia. La experiencia del proyecto “Legitimidad de Carabineros: violencia, derechos humanos y control social”. 
+
+## Fondos
+
+OLES cuenta con el reconocimiento y apoyo financiero del Centro de Estudios en Conflicto y Cohesión Social (COES), la Universidad Diego Portales (UDP), así como de la European Association of Social Psychology (EASP). Actualmente cuenta además con fondos ANID a través de la adjudicación de un Fondecyt Regular de la Agencia Nacional de Investigación y Desarrollo.
+
