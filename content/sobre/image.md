@@ -21,15 +21,16 @@ subtitle: null
 title: null
 weight: 20
 widget: blank
----
-  <div class="row">
-      <ul class="network-icon fullscreen" aria-hidden="true">
-      <a title=""   href=""><img width="100%" height="60%" alt=""       src="https://upload.wikimedia.org/wikipedia/commons/9/91/Comercial-oles.gif"></a>
-      <p class="count-text "></p>
-      </ul>
-  </div>
 
-<br>
+#   <div class="row">
+#       <ul class="network-icon fullscreen" aria-hidden="true">
+#       <a title=""   href=""><img width="100%" height="60%" alt=""       src="https://upload.wikimedia.org/wikipedia/commons/9/91/Comercial-oles.gif"></a>
+#       <p class="count-text "></p>
+#       </ul>
+#   </div>
+# <br>
+---
+
 
 ## ¿Quiénes somos?
 
