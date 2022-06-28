@@ -19,13 +19,10 @@ main:
   - name: Líneas de trabajo
     url: lineas
     weight: 30
-  - name: Línea de tiempo OLES
-    url: timeline
-    weight: 40
   - name: Recientes
     identifier: news
     url: post
-    weight: 50
+    weight: 40
   - name: Noticias
     parent: news
     url: post
@@ -36,4 +33,4 @@ main:
     weight: 20
   - name: Contacto
     url: contact
-    weight: 60
+    weight: 50
