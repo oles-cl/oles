@@ -8,21 +8,37 @@ main:
     identifier: somos
     url: people
     weight: 20
-  - name: Equipo
-    parent: somos
-    url: people
-    weight: 20
   - name: Sobre OLES
     parent: somos
     url: sobre
+    weight: 20
+  - name: Equipo
+    parent: somos
+    url: people
     weight: 25
+  - name: Publicaciones
+    identifier: publicaciones
+    url: publication
+    weight: 30
+  - name: Publicaciones
+    url: publication
+    parent: publicaciones
+    weight: 30
+  - name: Documentos de trabajo
+    url: docs
+    parent: publicaciones
+    weight: 35
+  - name: Tesis
+    url: tesis
+    parent: publicaciones
+    weight: 38
   - name: Líneas de trabajo
     url: lineas
-    weight: 30
+    weight: 40
   - name: Recientes
     identifier: news
     url: post
-    weight: 40
+    weight: 50
   - name: Noticias
     parent: news
     url: post
@@ -33,4 +49,4 @@ main:
     weight: 20
   - name: Contacto
     url: contact
-    weight: 50
+    weight: 56
