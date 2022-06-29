@@ -1,6 +1,6 @@
 ---
-title: "Movimientos sociales"
-linktitle: "3: Movimientos sociales"
+title: "Protesta social y violencia"
+linktitle: "3: Protesta social y violencia"
 date: "2022-03-14"
 start_date: "2022-03-14"
 end_date: "2022-03-18"
