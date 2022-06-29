@@ -6,7 +6,7 @@
 # Appearance
 
 theme: oles
-day_night: true
+day_night: false
 font: oles
 font_size: L
 
