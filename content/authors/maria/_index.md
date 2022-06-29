@@ -1,6 +1,6 @@
 ---
 # Display name
-title: María Teresa Zambrano
+title: María T. Valeria Zambrano
 
 # Username (this should match the folder name)
 authors:
