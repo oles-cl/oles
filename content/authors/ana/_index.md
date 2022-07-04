@@ -23,12 +23,11 @@ organizations:
 bio: Profesora Asociada del Instituto de Ciencias Sociales de la Universidad de O’Higgins (Rancagua) e Investigadora Asociada de la línea Interacciones Grupales e Individuales de COES. 
 
 interests:
-- Violencia
 - Representaciones de la historia
-- Conflictos históricos
-- Relaciones intergrupales
-- Relaciones entre mayorías y minorías
-- Acción colectiva
+- Relaciones intergrupales e interculturalidad
+- Conflictos social, violencia y legitimidad
+- ideologías postcoloniales
+- Psicología política
 
 education:
   courses:
@@ -66,4 +65,4 @@ user_groups:
 - Subdirectores
 ---
 
-Investigadora Asociada de la línea Interacciones Grupales e Individuales de COES, Profesora asociada Facultad de Psicología UDP, así como directora del Magíster en Psicología, mención Psicología Social en la misma facultad. Socióloga de la Universidad de Chile y Doctora en Métodos de Investigación Social de la London School of Economics and Political Science, Reino Unido. Sus líneas de interés están enfocadas en temas de psicología social y política, relaciones intergrupales, ideologías políticas, actitudes hacia la justicia social y la desigualdad, el castigo de delincuentes y la violencia intergrupal. Tiene un fuerte interés en las metodologías cuantitativas y experimentales de investigación, así como en el análisis cuantitativo de datos. Desde 2021, Ana es miembro del Governing Council de la International Society of Social Psychology (ISPP). Anteriormente, se desempeñó como profesora en la Escuela de Psicología de la Universidad Academia de Humanismo Cristiano y como jefa de carrera de Psicología Diurna en la misma institución. Ana es Psicóloga, Magíster en Psicología Social y Doctora en Psicología Social por la Universidad de Coimbra (Portugal) en conjunto con la Universidad de Amsterdam. Actualmente es investigadora principal del Fondecyt de Iniciación Nº11201211, *“Ideologías poscoloniales, políticas de reconocimiento y reparación, y relaciones intergrupales actuales: Los Mapuche en Chile”*. Sus áreas de interés son: las representaciones de la historia, los conflictos históricos, las relaciones intergrupales, dinámicas de adaptación cultural, las relaciones entre mayorías y minorías, la acción colectiva y la diversidad sexual y cultural.
+Profesora asociada del Instituto de Ciencias Sociales de la Universidad de O’Higgins (Rancagua) e investigadora asociada de la línea Interacciones Grupales e Individuales de COES. Psicóloga, Magíster en Psicología Social y Doctora en Psicología Social por la Universidad de Coimbra (Portugal) en conjunto con la Universidad de Amsterdam. Actualmente es investigadora principal del Fondecyt de Iniciación Nº11201211, “Ideologías poscoloniales, políticas de reconocimiento y reparación, y relaciones intergrupales actuales: Los Mapuche en Chile” y es coinvestigadora en dos proyectos de investigación Fondecyt Regular sobre violencia y legitimidad, y movilización social. Desde 2021, Ana es miembro del Governing Council de la International Society of Social Psychology (ISPP).
