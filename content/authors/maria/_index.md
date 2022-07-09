@@ -45,6 +45,7 @@ social:
 
 user_groups:
 - Tesistas
+- Asistentes estudiantes 
 ---
 
 
