@@ -4,7 +4,7 @@ advanced:
 design:
   background:
     image: contact.jpg
-    image_darken: 0
+    image_darken: 1
     image_parallax: false
     image_position: center
     image_size: cover
