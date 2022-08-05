@@ -8,8 +8,8 @@ address:
   street: 
 all_day: false
 authors: [monica]
-date: "2022-09-16T13:00:00Z"
-date_end: "2022-09-16T15:00:00Z"
+date: "2022-09-30T13:00:00Z"
+date_end: "2022-09-30T15:00:00Z"
 event: Seminario Violencia policial como castigo
 event_url: https://example.org
 featured: false
