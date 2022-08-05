@@ -8,9 +8,9 @@ address:
   street: 
 all_day: false
 authors: [oles]
-date: "2022-11-04T13:00:00Z"
-date_end: "2022-11-04T15:00:00Z"
-event: Seminario Manuela Badilla
+date: "2022-11-18T13:00:00Z"
+date_end: "2022-11-18T15:00:00Z"
+event: Seminario Discursos sobre la Intervención y destrucción de monumentos. Activistas, vándalos, soñadores, y desalmados
 event_url: https://example.org
 featured: false
 image:
@@ -20,9 +20,9 @@ location: Zoom
 projects: null
 publishDate: "2021-01-01T00:00:00Z"
 slides: null
-summary: Seminario Manuela Badilla.
+summary: Seminario "Discursos sobre la Intervención y destrucción de monumentos. Activistas, vándalos, soñadores, y desalmados". Manuela Badilla.
 tags: []
-title: Seminario Manuela Badilla. 
+title: Discursos sobre la Intervención y destrucción de monumentos. Activistas, vándalos, soñadores, y desalmados. 
 url_code: ""
 url_pdf: ""
 url_slides: ""
