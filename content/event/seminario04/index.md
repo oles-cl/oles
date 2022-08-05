@@ -18,7 +18,7 @@ image:
   focal_point: Right
 location: Zoom
 projects: null
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 slides: null
 summary: Seminario Jaime Barrientos Delgado.
 tags: []
