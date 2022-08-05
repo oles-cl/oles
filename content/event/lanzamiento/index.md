@@ -8,8 +8,8 @@ address:
   street: 
 all_day: false
 authors: [oles]
-date: "2022-07-01T13:00:00Z"
-date_end: "2022-07-01T15:00:00Z"
+date: "2022-08-26T13:00:00Z"
+date_end: "2022-08-26T15:00:00Z"
 event: Lanzamiento sitio web OLES
 event_url: https://example.org
 featured: false
@@ -29,5 +29,5 @@ url_slides: ""
 url_video: ""
 ---
 
-El primero de julio se inaugurará la página del **Observatorio Violencia y Legitimidad Social** (OLES). Rellenar
+El 26 de agosto será la inauguración de la página del **Observatorio Violencia y Legitimidad Social** (OLES). 
 
