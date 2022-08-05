@@ -8,9 +8,9 @@ address:
   street: 
 all_day: false
 authors: [loreto]
-date: "2022-08-19T13:00:00Z"
-date_end: "2022-08-19T15:00:00Z"
-event: Seminario Loreto Quiroz
+date: "2022-10-07T13:00:00Z"
+date_end: "2022-10-07T15:00:00Z"
+event: Seminario Emociones de batalla y ceremonias de degradación sobre las relaciones entre linchamientos y derecho
 event_url: https://example.org
 featured: false
 image:
@@ -18,11 +18,11 @@ image:
   focal_point: Right
 location: Zoom
 projects: null
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 slides: null
-summary: Seminario Loreto Quiroz.
+summary: Seminario "Emociones de batalla y ceremonias de degradación sobre las relaciones entre linchamientos y derecho". Loreto Quiroz.
 tags: []
-title: Seminario Loreto Quiroz. 
+title: Emociones de batalla y ceremonias de degradación sobre las relaciones entre linchamientos y derecho.
 url_code: ""
 url_pdf: ""
 url_slides: ""
