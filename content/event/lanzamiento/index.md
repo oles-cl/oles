@@ -1,5 +1,5 @@
 ---
-abstract: Explicación del Lanzamiento
+abstract: Presentación del sitio web y resultados de la Encuesta Longitudinal
 address:
   city: Santiago
   country: Chile
@@ -7,9 +7,9 @@ address:
   region: 
   street: 
 all_day: false
-authors: [oles]
-date: "2022-08-26T13:00:00Z"
-date_end: "2022-08-26T15:00:00Z"
+authors: [oles, monica, ana, luciano, macarena, joaquin]
+date: "2022-08-26T13:30:00Z"
+date_end: "2022-08-26T15:30:00Z"
 event: Lanzamiento sitio web OLES
 event_url: https://example.org
 featured: false
@@ -29,5 +29,5 @@ url_slides: ""
 url_video: ""
 ---
 
-El 26 de agosto será la inauguración de la página del **Observatorio Violencia y Legitimidad Social** (OLES). 
+El 9 de septiembre será la inauguración de la página del **Observatorio Violencia y Legitimidad Social** (OLES). 
 
