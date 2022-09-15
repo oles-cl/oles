@@ -11,6 +11,8 @@ content:
   
   - Asistentes de investigación
   
+  - Estudiante ayudante UDP
+  
   - Tesistas
   
   - Asistentes de investigación anteriores

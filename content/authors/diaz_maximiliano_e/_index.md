@@ -28,6 +28,7 @@ social:
 
 
 user_groups:
+- Estudiante ayudante UDP
 - Asistentes estudiantes 
 ---
 

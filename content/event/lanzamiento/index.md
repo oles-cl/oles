@@ -24,9 +24,9 @@ summary: Lanzamiento del Observatorio de Violencia y Legitimidad Social
 tags: []
 title: Lanzamiento OLES
 url_code: ""
-url_pdf: ""
+url_pdf: "content/event/lanzamiento/lanzamiento_oles2022.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/DPqTKYSvh30"
 ---
 
 El 9 de septiembre será la inauguración de la página del **Observatorio Violencia y Legitimidad Social** (OLES). 
