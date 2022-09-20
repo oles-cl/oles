@@ -7,7 +7,7 @@ address:
   region: 
   street: 
 all_day: false
-authors: [oles, monica, ana, luciano, macarena, joaquin]
+authors: [monica, ana, luciano, macarena, joaquin]
 date: "2022-08-26T13:30:00Z"
 date_end: "2022-08-26T15:30:00Z"
 event: Lanzamiento sitio web OLES
@@ -24,7 +24,7 @@ summary: Lanzamiento del Observatorio de Violencia y Legitimidad Social
 tags: []
 title: Lanzamiento OLES
 url_code: ""
-url_pdf: "content/event/lanzamiento/lanzamiento_oles2022.pdf"
+url_pdf: "https://github.com/oles-cl/oles/raw/main/assets/media/lanzamiento_oles2022.pdf"
 url_slides: ""
 url_video: "https://youtu.be/DPqTKYSvh30"
 ---
