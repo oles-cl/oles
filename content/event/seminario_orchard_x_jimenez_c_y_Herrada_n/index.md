@@ -11,7 +11,7 @@ authors: [oles]
 date: "2022-09-23T13:00:00Z"
 date_end: "2022-09-23T15:00:00Z"
 event: Esa no es la forma. análisis de las coberturas televisivas de la revuelta social
-event_url: https://example.org
+event_url: https://reuna.zoom.us/j/82552626234?pwd=NENOakQ0bERRandQejRDRHVCbUV5dz09
 featured: false
 image:
   caption: 'Seminarios OLES'
