@@ -17,7 +17,7 @@ projects: []
 publication: '*International Journal of Conflict and Violence (IJCV)* 9'
 publication_short: ""
 publication_types:
-- "2"
+- "6"
 publishDate: "2019-01-01T00:00:00Z"
 slides: null
 summary: 'Representations of history and present-day intergroup relations between indigenous and non-indigenous people: The Mapuche in Chile'
