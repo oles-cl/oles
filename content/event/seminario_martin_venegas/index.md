@@ -11,7 +11,7 @@ authors: [martin_e]
 date: "2022-09-30T13:00:00Z"
 date_end: "2022-09-30T15:00:00Z"
 event: Seminario ¿Quién justifica qué? El rol del sentido de injusticia en las justificaciones de violencia en contexto de protesta
-event_url: https://example.org
+event_url: https://reuna.zoom.us/j/87356983106?pwd=ZFFRZW5GTU0xTGVBRkJQUjNCUkhWQT09
 featured: false
 image:
   caption: 'Seminarios OLES'
