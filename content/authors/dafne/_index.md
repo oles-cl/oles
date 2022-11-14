@@ -44,7 +44,7 @@ social:
   link: https://github.com/Dafne-Jaime-Vargas
 
 user_groups:
-- Asistentes de investigación
+- Asistentes de investigación anteriores
 ---
 
 

@@ -1,0 +1,14 @@
+
+---
+title: "Macarena Orchard participó en el podcast 'Hay algo allá afuera' con Alfredo Joignant, en el capítulo titulado '¿Qué es la autoridad?'"
+authors: [macarena]
+date: "2022-11-03T21:13:14-05:00"
+categories: Noticias
+tags: Noticias
+image:
+  caption: 'Fuente de imagen: Tele13 Radio'
+  focal_point: Right
+---
+
+Puedes escuchar este y otros episodios del podcast en el siguiente **[enlace](https://www.tele13radio.cl/podcast/nativos/macarena-orchard-que-es-la-autoridad).**
+

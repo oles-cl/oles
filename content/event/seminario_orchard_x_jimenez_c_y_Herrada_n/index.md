@@ -26,7 +26,7 @@ title: Esa no es la forma. análisis de las coberturas televisivas de la revuelt
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=sxtjgIfLKA4&t=6s"
 ---
 
 

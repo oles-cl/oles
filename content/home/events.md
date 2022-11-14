@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 40
 
-title: Próximos eventos
+title: Nuestros eventos
 subtitle:
 
 content:
@@ -16,7 +16,7 @@ content:
     publication_type: ""
     tag: ""
   offset: 0
-  order: asc
+  order: desc
   page_type: event
 design:
   view: 1

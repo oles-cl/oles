@@ -89,7 +89,7 @@
 - id: publication
   translation: Publicación
 - id: publication_type
-  translation: Tipo
+  translation: Tipos
 - id: date
   translation: Fecha
 - id: last_updated
@@ -101,21 +101,21 @@
 - id: pub_uncat
   translation: Sin categoría
 - id: pub_conf
-  translation: Artículo de conferencia
+  translation: Artículos de conferencias
 - id: pub_journal
-  translation: Artículo de revista
+  translation: Artículos de revistas
 - id: pub_preprint
-  translation: Prepublicación
+  translation: Prepublicaciones
 - id: pub_report
-  translation: Informe
+  translation: Informes
 - id: pub_book
-  translation: Libro
+  translation: Libros
 - id: pub_book_section
-  translation: Capítulo de libro
+  translation: Capítulos de libros
 - id: pub_thesis
   translation: Tesis
 - id: pub_patent
-  translation: Patente
+  translation: Patentes
 - id: open_project_site
   translation: Ir al sitio del proyecto
 - id: posts

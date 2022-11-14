@@ -1,5 +1,5 @@
 ---
-abstract: Explicación del evento
+abstract:  Loreto Quiroz expone sobre las relaciones entre linchamientos y derecho en el 4to Seminario de Prácticas Investigativas OLES. 
 address:
   city: Santiago
   country: Chile
@@ -18,7 +18,7 @@ image:
   focal_point: Right
 location: Zoom
 projects: null
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2022-11-14T00:00:00Z"
 slides: null
 summary: Seminario "Emociones de batalla y ceremonias de degradación sobre las relaciones entre linchamientos y derecho". Loreto Quiroz.
 tags: []
@@ -29,5 +29,4 @@ url_slides: ""
 url_video: ""
 ---
 
-Descripción
 

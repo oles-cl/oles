@@ -1,0 +1,12 @@
+---
+title: "Macarena Orchard analiza la primera Encuesta Nacional de Autoridad y dice: Chile tiene una crisis en el ejercicio de la autoridad"
+authors: [macarena]
+date: 2022-09-06T21:13:14-05:00
+categories: ["Noticias"]
+tags: ["Noticias"]
+image:
+  caption: 'Fuente de imagen: Revista Ya'
+  focal_point: Right
+---
+
+El estudio revela que el 88% de los chilenos les han perdido el respeto a las autoridades. Puedes revisar la nota completa en el siguiente **[link](https://t.co/u3tcq25Hcs)**.
