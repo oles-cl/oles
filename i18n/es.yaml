@@ -116,6 +116,8 @@
   translation: Tesis
 - id: pub_patent
   translation: Patentes
+- id: pub_doc
+  translation: Documentos de trabajo
 - id: open_project_site
   translation: Ir al sitio del proyecto
 - id: posts

@@ -20,18 +20,6 @@ main:
     identifier: publicaciones
     url: publication
     weight: 30
-  - name: Publicaciones
-    url: publication
-    parent: publicaciones
-    weight: 30
-  - name: Documentos de trabajo
-    url: docs
-    parent: publicaciones
-    weight: 35
-  - name: Tesis
-    url: tesis
-    parent: publicaciones
-    weight: 38
   - name: Líneas de trabajo
     url: lineas
     weight: 40
