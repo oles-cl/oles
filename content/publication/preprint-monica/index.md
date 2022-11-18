@@ -8,7 +8,7 @@ authors:
 - Jonathan Jackson
 - Javier Marambio
 - "Sofía Montedónico"
-date: "2021-01-28T00:00:00Z"
+date: "2021-01-28T12:00:00Z"
 doi: "DOI: 10.31234/osf.io/cq87a"
 featured: true
 image:
