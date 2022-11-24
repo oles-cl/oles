@@ -64,7 +64,7 @@ subtitle = ""
 
 # <div style="text-align:right">
 # <p style="font-size:7px;">
-# El **Observatorio de Violencia y Legitimidad Social** ( *OLES* ) es una plataforma que desarrolla investigación colaborativa en temáticas relacionadas con la **violencia**, explorando sus sentidos, formas de **justificación**, así como las diversas formas en que la sociedad chilena ha desarrollado procesos de construcción de **legitimidad social** frente a las autoridades, considerando el rol de la justicia como elemento clave en la comprensión de las transformaciones sociales que vive actualmente el país.
+# El **Observatorio de Violencia y Legitimidad Social** (*OLES*) es una plataforma que desarrolla investigación colaborativa en temáticas relacionadas con la **violencia**, explorando sus sentidos, formas de **justificación**, así como las diversas formas en que la sociedad chilena ha desarrollado procesos de construcción de **legitimidad social** frente a las autoridades, considerando el rol de la justicia como elemento clave en la comprensión de las transformaciones sociales que vive actualmente el país.
 # </p>
 # </div>
 
