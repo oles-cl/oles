@@ -135,7 +135,7 @@
 - id: search_placeholder
   translation: Buscar...
 - id: search_results
-  translation: resultados encontrados
+  translation: Resultados encontrados
 - id: search_no_results
   translation: No se encontraron resultados
 - id: search_common_queries

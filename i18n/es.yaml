@@ -89,7 +89,7 @@
 - id: publication
   translation: Publicación
 - id: publication_type
-  translation: Tipos
+  translation: Todas las publicaciones
 - id: date
   translation: Fecha
 - id: last_updated
