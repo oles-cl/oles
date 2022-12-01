@@ -1,5 +1,5 @@
 ---
-abstract: Próximamente, Manuela Badilla, de la Universidad de Valparaíso, expone en la séptima sesión de los Seminarios de Prácticas Investigativas
+abstract: Manuela Badilla, de la Universidad de Valparaíso, expuso en la séptima sesión de los Seminarios de Prácticas Investigativas
 address:
   city: Santiago
   country: Chile
