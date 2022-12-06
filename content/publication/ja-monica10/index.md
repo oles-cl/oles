@@ -7,7 +7,7 @@ authors:
 - Ismael Puga
 - Cristóbal Moya
 - Monica Gerber
-date: "2013-03-01T00:00:00Z"
+date: "2022-03-01T00:00:00Z"
 doi: "https://doi.org/10.1177/1866802X221127712"
 featured: false
 image:
