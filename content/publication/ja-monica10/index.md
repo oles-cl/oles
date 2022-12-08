@@ -1,5 +1,5 @@
 ---
-abstract: 'The COVID-19 pandemic started in Chile as the country was experiencing massive protests and a deep political crisis. Sanitary measures restricting movement and gatherings were implemented while the process of constitutional change responding to this crisis developed. In this context of conflict, we study why people continued participating in street protests despite the restrictions and the health risks involved. Using two surveys, we test key factors addressed in extant scholarship, as biographical availability, perceived risks, and grievances. We find that grievances related to the pandemic were the most important factor, while biographical availability was much less relevant in the pandemic context. There is no evidence that perceived health risks mattered when deciding whether to join a street protest or not. These results suggest that under conditions of political crisis, grievances related to the administration of the pandemic can motivate political participation even when the latter put people's health at risk.'
+abstract: "The COVID-19 pandemic started in Chile as the country was experiencing massive protests and a deep political crisis. Sanitary measures restricting movement and gatherings were implemented while the process of constitutional change responding to this crisis developed. In this context of conflict, we study why people continued participating in street protests despite the restrictions and the health risks involved. Using two surveys, we test key factors addressed in extant scholarship, as biographical availability, perceived risks, and grievances. We find that grievances related to the pandemic were the most important factor, while biographical availability was much less relevant in the pandemic context. There is no evidence that perceived health risks mattered when deciding whether to join a street protest or not. These results suggest that under conditions of political crisis, grievances related to the administration of the pandemic can motivate political participation even when the latter put people's health at risk."
 author_notes:
 - OLES
 authors:
@@ -10,10 +10,6 @@ authors:
 date: "2022-03-01T00:00:00Z"
 doi: "https://doi.org/10.1177/1866802X221127712"
 featured: false
-image:
-  caption: 'Image credit: [**Clay Banks**](https://unsplash.com/photos/qT7fZVbDcqE)'
-  focal_point: ""
-  preview_only: false
 projects: []
 publication: 'Journal of Politics in Latin America 14(3) - 338-362'
 publication_short: ""
