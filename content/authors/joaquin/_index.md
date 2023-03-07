@@ -20,7 +20,7 @@ organizations:
   url: "http://www.psicologia.ucn.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Académico de la Escuela de Psicología UCN. Psicólogo de la Universidad Católica del Norte y Doctor en psicología de la University of Auckland, Nueva Zelanda. Investigador colaborador en el NZAVS lab, y co-investigador FONDECYT Regular #1190240. Sus principales líneas de investigación se enmarcan en la psicología social y política, específicamente en comprender cómo diversas formas de ideología impactan las percepciones de justicia/injusticia, con particular interés en sus efectos sobre el bienestar psicológico de minorías sociales. Actualmente imparte cursos en psicología social y análisis de datos avanzados en pre y postgrado.
+bio: Académico de la Escuela de Psicología UCN. Psicólogo de la Universidad Católica del Norte y Doctor en psicología por la University of Auckland, Nueva Zelanda. Investigador principal del proyecto FONDECYT #11230903 "Percepción de legitimidad y bienestar psicológico: Avanzando la teoría sobre el efecto paliativo de las creencias ideológicas". Investigador colaborador en el NZAVS lab, y co-investigador en el Proyecto Exploración #13220187 "Legitimidad de las policías en chile: el efecto causal de la violencia y la corrupción desde una perspectiva multi-actor, longitudinal y multimétodos".
 
 interests:
 - Ideología política y bienestar psicológico
@@ -54,4 +54,6 @@ user_groups:
 - Subdirectores
 ---
 
-Académico de la Escuela de Psicología UCN. Psicólogo de la Universidad Católica del Norte y Doctor en psicología de la University of Auckland, Nueva Zelanda. Investigador colaborador en el NZAVS lab, y co-investigador FONDECYT Regular #1190240. Sus principales líneas de investigación se enmarcan en la psicología social y política, específicamente en comprender cómo diversas formas de ideología impactan las percepciones de justicia/injusticia, con particular interés en sus efectos sobre el bienestar psicológico de minorías sociales. Actualmente imparte cursos en psicología social y análisis de datos avanzados en pre y postgrado.
+Académico de la Escuela de Psicología UCN. Psicólogo de la Universidad Católica del Norte y Doctor en psicología por la University of Auckland, Nueva Zelanda. Investigador principal del proyecto FONDECYT #11230903 "Percepción de legitimidad y bienestar psicológico: Avanzando la teoría sobre el efecto paliativo de las creencias ideológicas". Investigador colaborador en el NZAVS lab, y co-investigador en el Proyecto Exploración #13220187 "Legitimidad de las policías en chile: el efecto causal de la violencia y la corrupción desde una perspectiva multi-actor, longitudinal y multimétodos".
+
+Sus principales líneas de investigación se enmarcan en la psicología social y política, específicamente en comprender cómo diversas formas de ideología impactan las percepciones de justicia/injusticia, con particular interés en sus efectos sobre el bienestar psicológico de minorías sociales. Actualmente imparte cursos en psicología social y análisis de datos avanzados en pre y postgrado.
