@@ -42,14 +42,6 @@ education:
     institution: Universidad de Chile
     year: 2023
 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 
-- icon: github
-  icon_pack: fab
-  link:
-
 user_groups:
 - Asistentes de investigación
 ---
