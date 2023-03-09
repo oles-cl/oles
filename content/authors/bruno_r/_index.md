@@ -20,7 +20,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de investigación Proyecto Exploración OLES. Asistente de investigación Fondecyt 11201175.
+bio: Asistente de investigación Proyecto Exploración OLES. Asistente de investigación Fondecyt 11201175. Licenciado en historia, Magister en Ciencias Sociales de la Universidad de Chile. Sus principales líneas de investigación se enmarcan tanto en la sociología moral y política como los estudios urbanos y migratorios. Sus intereses se centran en la relación entre sentimientos de injusticia y las percepciones sobre la política y las instituciones,  la migración y las relaciones de convivencia en espacios urbanos, fronteras simbólicas y desigualdades sociales, sectores populares y su relación con la política.
 
 interests:
 -	Sentimientos de injusticia y comportamiento político
@@ -46,4 +46,4 @@ user_groups:
 - Asistentes de investigación
 ---
 
-Asistente de investigación Proyecto Exploración OLES. Asistente de investigación Fondecyt 11201175. Licenciado en historia, Magister en Ciencias Sociales de la Universidad de Chile. Sus principales líneas de investigación se enmarcan tanto en la sociología moral y política como los estudios urbanos y migratorios. Sus intereses se centran en la relación entre sentimientos de injusticia y las percepciones sobre la política y las instituciones,  la migración y las relaciones de convivencia en espacios urbanos, fronteras simbólicas y desigualdades sociales, sectores populares y su relación con la política.
+
