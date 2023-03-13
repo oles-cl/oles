@@ -46,5 +46,5 @@ social:
 user_groups:
 - Investigadores asociados
 ---
-
+Doctora en Estudios Americanos por la Universidad de Santiago de Chile, Magíster en Ciencias Sociales por la Universidad de Chile y Abogada por la misma universidad. Su tesis doctoral corresponde a un estudio comparativo orientado por el caso, en la investigación analizó la relación entre los linchamientos y el derecho en Chile y Argentina, con el objetivo de contribuir a una comprensión de estas acciones desde una perspectiva sociojurídica. Sus intereses de investigación se relacionan con la sociología jurídica, la legitimidad del derecho y la violencia colectiva de carácter vigilantista, entre otros. Es parte de la coordinación del Grupo de Trabajo de CLACSO sobre vigilantismo y violencia colectiva en América Latina. Entre sus temas de investigación se encuentra la sociología del derecho, legitimidad del derecho, violencia, vigilantismo.
 
