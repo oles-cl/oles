@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valentina Sánchez Berrios | OLES</title>
+    <link>www.oles.cl/author/valentina-sanchez-berrios/</link>
+      <atom:link href="www.oles.cl/author/valentina-sanchez-berrios/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valentina Sánchez Berrios</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <image>
+      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <title>Valentina Sánchez Berrios</title>
+      <link>www.oles.cl/author/valentina-sanchez-berrios/</link>
+    </image>
+    
+  </channel>
+</rss>

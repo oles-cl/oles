@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris G. Sibley | OLES</title>
+    <link>www.oles.cl/author/chris-g.-sibley/</link>
+      <atom:link href="www.oles.cl/author/chris-g.-sibley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris G. Sibley</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <title>Chris G. Sibley</title>
+      <link>www.oles.cl/author/chris-g.-sibley/</link>
+    </image>
+    
+    <item>
+      <title>System Justification or Social Dominance? A Multilevel Test of the Ideological Motivators of Perceived Discrimination</title>
+      <link>www.oles.cl/publication/jb_20221/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>www.oles.cl/publication/jb_20221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System Justification and Perceptions of Group-Based Discrimination. Investigating the Temporal Order of the Ideologically Motivated Minimization (or Exaggeration) of Discrimination Across Low- and High-Status Groups</title>
+      <link>www.oles.cl/publication/jb_20224/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>www.oles.cl/publication/jb_20224/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

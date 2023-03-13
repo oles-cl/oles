@@ -2,24 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retribution | OLES</title>
-    <link>/tag/retribution/</link>
-      <atom:link href="/tag/retribution/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.oles.cl/tag/retribution/</link>
+      <atom:link href="www.oles.cl/tag/retribution/index.xml" rel="self" type="application/rss+xml" />
     <description>Retribution</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/logo_hu4488ad8c7c745020016c0b121a50c833_17609_300x300_fit_lanczos_2.png</url>
+      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Retribution</title>
-      <link>/tag/retribution/</link>
+      <link>www.oles.cl/tag/retribution/</link>
     </image>
     
     <item>
       <title>Retribution as Revenge and Retribution as Just Deserts</title>
-      <link>/publication/ja-monica8/</link>
+      <link>www.oles.cl/publication/ja-monica8/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/ja-monica8/</guid>
-      <description>&lt;h1 id=&#34;objective&#34;&gt;Objective&lt;/h1&gt;
-&lt;p&gt;Public attitudes towards law-breakers shape the tone and tenor of crime-control policy, and the desire for retribution seems to be the main motivation underpinning punitive attitudes towards sentencing. Yet, there is some confusion in the research literature over what retribution really means. In this paper we distinguish between retribution as revenge (as the desire to punish criminal offenders to retaliate a past wrong by making the offender suffer) and retribution as just deserts (as the preference to restore justice through proportional compensation from the offender). Results from an online survey (n = 176) provide evidence of two distinct dimensions of retribution. But we also show that these two dimensions have different ideological and motivational antecedents, and have different consequences in terms of the treatment of criminal offender. We find that retribution as revenge is associated with the motivation to enforce status boundaries with criminal offenders, as well as ideological preferences for power and dominance (as expressed by social dominance orientation) and in-group conformity (as expressed by right-wing authoritarianism). Endorsement of retribution as revenge also predicts the support of harsh punishment and the willingness to deny fair procedures. By contrast, retribution as just deserts is mainly predicted by a value restoration motive and by right-wing authoritarianism. After controlling for revenge, retribution as just deserts predicts support for procedural justice in the criminal courts. We conclude with the idea that beliefs about proportionality and compensation work as a buffer against the negative effects of revenge.&lt;/p&gt;
-</description>
+      <guid>www.oles.cl/publication/ja-monica8/</guid>
+      <description></description>
     </item>
     
   </channel>

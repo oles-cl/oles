@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martín Venegas Márquez | OLES</title>
+    <link>www.oles.cl/author/martin-venegas-marquez/</link>
+      <atom:link href="www.oles.cl/author/martin-venegas-marquez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martín Venegas Márquez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Fri, 30 Sep 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <title>Martín Venegas Márquez</title>
+      <link>www.oles.cl/author/martin-venegas-marquez/</link>
+    </image>
+    
+    <item>
+      <title>¿Quién justifica qué? El rol del sentido de injusticia en las justificaciones de violencia en contexto de protesta</title>
+      <link>www.oles.cl/event/seminario_martin_venegas/</link>
+      <pubDate>Fri, 30 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>www.oles.cl/event/seminario_martin_venegas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

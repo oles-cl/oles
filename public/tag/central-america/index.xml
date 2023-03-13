@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Central America | OLES</title>
+    <link>www.oles.cl/tag/central-america/</link>
+      <atom:link href="www.oles.cl/tag/central-america/index.xml" rel="self" type="application/rss+xml" />
+    <description>Central America</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <title>Central America</title>
+      <link>www.oles.cl/tag/central-america/</link>
+    </image>
+    
+    <item>
+      <title>Homosexuality Justification and Social Distance. A Cross-Cultural Approach from Latin America Using World Values Survey Data</title>
+      <link>www.oles.cl/publication/jb_20223/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>www.oles.cl/publication/jb_20223/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
