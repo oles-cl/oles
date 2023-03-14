@@ -1,7 +1,7 @@
 ---
 title: "Investigadoras e investigadores OLES se adjudican un Proyecto de Exploración 2022, dos Proyectos Fondecyt de iniciación y una Beca Nacional de Doctorado ANID"
 authors: [bruno_r]
-date: 2022-03-22T21:13:14-05:00
+date: 2023-03-13T21:13:14-05:00
 categories: ["Noticias"]
 tags: ["Noticias"]
 image:
