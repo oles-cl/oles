@@ -27,29 +27,18 @@ user_groups: Investigadores
 
 highlight_name: false
 interests:
-- poder punitivo del Estado
+- Poder punitivo del Estado
 - Control Policial
-- estudios socio-legales
-- igualitismo relacional
-- teoría crítica del derecho
+- Estudios socio-legales
+- Igualitismo relacional
+- Teoría crítica del derecho
 
 organizations:
-- name: Universidad Diego Portales
-  url: "https://www.icso.cl/investigadores/macarena-orchard/"
-role: Profesora Asistente, Universidad Diego Portales
+- name: Universidad de Chile
+  url: "https://www.uchile.cl"
+role: Profesora asistente, Facultad de Derecho
 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:macarenaorchard@gmail.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/MacarenaOrchard
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=tu2UQaYAAAAJ&hl=es
 superuser: true
-title: Macarena Orchard
 user_groups:
 - Investigadores asociados
 ---
