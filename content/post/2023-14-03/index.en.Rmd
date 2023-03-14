@@ -1,6 +1,7 @@
 ---
-title: "Investigadoras e investigadores OLES se adjudican un Proyecto de Exploración 2022, dos Proyectos Fondecyt de iniciación y una Beca Nacional de Doctorado ANID"
-authors: [OLES]
+title: Investigadoras e investigadores OLES se adjudican un Proyecto de Exploración
+  2022, dos Proyectos Fondecyt de iniciación y una Beca Nacional de Doctorado ANID
+authors: OLES
 date: "2023-13-03T21:13:14-05:00"
 categories: Noticias
 tags: Noticias
@@ -9,7 +10,8 @@ image:
   focal_point: Right
 ---
 
-**Investigadoras e investigadores del Observatorio de Legitimidad y Violencia suman nuevos proyectos financiados por la Agencia Nacional de Investigación y Desarrollo (ANID). A través de la Subdirección de Proyectos de Investigación se integran a nuestra plataforma colaborativa un Proyecto Exploración 2022, dos Fondecyt de Iniciación y una Beca Nacional de Doctorado.**
+**Investigadoras e investigadores del Observatorio de Violencia y Legitimidad Social suman nuevos proyectos financiados por la Agencia Nacional de Investigación y Desarrollo (ANID). A través de la Subdirección de Proyectos de Investigación se integran a nuestra plataforma colaborativa un Proyecto Exploración 2022, dos Fondecyt de Iniciación y una Beca Nacional de Doctorado.**
+
 
 Entre diciembre del 2022 y marzo del 2023, investigadoras e investigadores del OLES se adjudicaron distintos concursos desarrollados por ANID. Así, cuatro proyectos pasan a formar parte de nuestra plataforma colaborativa. A cargo de la directora de OLES, la profesora Mónica Gerber (UDP), junto distintos coinvestigadores que forman parte de OLES, se adjudicaron el Proyecto Exploración 2022 con su propuesta "Legitimidad de las policías en chile: el efecto causal de la violencia y la corrupción desde una perspectiva multi-actor, longitudinal y multimétodos". El profesor de psicología Joaquín Bahamondes (U Católica del Norte) se adjudicó un proyecto Fondecyt de iniciación titulado "Percepción de legitimidad y bienestar psicológico: Avanzando la teoría sobre el efecto paliativo de las creencias ideológicas". Al mismo tiempo, la profesora Macarena Orchard (sociología UDP) se adjudicó el proyecto Fondecyt regular "Construyendo respeto y dignidad. Un estudio sobre el movimiento de parto respetado". Por último, el profesor Luciano Sáez (UDP) y asistente coordinador del OLES se adjudicó una Beca Nacional de Doctorado. Estos proyectos permitirán dar continuidad y proyectar las labores investigativas y formativas en el estudio sobre la violencia y los proceso de construcción de legitimidad social desarrolladas por el OLES.
 
