@@ -4,7 +4,7 @@ title: Bruno Rojas Soto
 
 # Username (this should match the folder name)
 authors:
-- bruno
+- bruno_r
 
 weight: 2 
 
