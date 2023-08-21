@@ -46,7 +46,7 @@ social:
   link: https://github.com/nataliariquelme
 
 user_groups:
-- Asistentes de investigación
+- Asistentes de investigación anteriores
 ---
 
 
