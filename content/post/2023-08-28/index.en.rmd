@@ -1,11 +1,11 @@
 ---
 title: "Equipo OLES organiza y participa en el Seminario: «Estrategias frente a la inseguridad en América Latina»"
-authors: [bruno_r]
-date: 2023-08-28T10:00:00-05:00
+authors: [bruno_r, pinto_matias_e]
+date: 2023-08-28T00:00:00-01:00
 categories: ["Noticias"]
 tags: ["Noticias"]
 image:
-  caption: 'Fuente de imagen: Observatorio de violencia y legitimidad social'
+  caption: 'Fuente de imagen: Observatorio de Violencia y Legitimidad Social'
   focal_point: Right
 ---
 
