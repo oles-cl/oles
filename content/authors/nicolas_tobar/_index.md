@@ -47,6 +47,6 @@ user_groups:
 - Asistentes de investigación
 ---
 
-
+Asistente cuantitativo de investigación en OLES. Sociólogo titulado de la Universidad de Chile. Sus principales líneas de investigación se enmarcan la teorías críticas, la aceleración social y la legitimidad de las instituciones políticas. También trabaja temas vinculados a las desigualdades digitales y teorías constitucionales.
 
 
