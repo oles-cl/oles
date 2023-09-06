@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Publicaciones
+title: Artículos Académicos
 view: 4
 ---

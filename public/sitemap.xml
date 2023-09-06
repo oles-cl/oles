@@ -4,12 +4,12 @@
   
   <url>
     <loc>www.oles.cl/author/monica-m.-gerber/</loc>
-    <lastmod>2022-09-12T21:13:14-05:00</lastmod>
+    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.oles.cl/author/ana-figueiredo/</loc>
-    <lastmod>2022-08-26T13:30:00+00:00</lastmod>
+    <lastmod>2023-08-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -17,8 +17,28 @@
   </url>
   
   <url>
+    <loc>www.oles.cl/author/bruno-rojas-soto/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/author/matias-pinto-laulie/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/author/claudio-fuentes/</loc>
+    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>www.oles.cl/author/loreto-quiroz/</loc>
-    <lastmod>2022-10-07T13:00:00+00:00</lastmod>
+    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/author/luciano-saez-fuentealba/</loc>
+    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,11 +48,6 @@
   
   <url>
     <loc>www.oles.cl/author/joaquin-bahamondes/</loc>
-    <lastmod>2022-09-12T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/author/luciano-saez-fuentealba/</loc>
     <lastmod>2022-09-12T21:13:14-05:00</lastmod>
   </url>
   
@@ -66,10 +81,6 @@
   
   <url>
     <loc>www.oles.cl/author/borami-yu/</loc>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/author/bruno-rojas-soto/</loc>
   </url>
   
   <url>
@@ -141,7 +152,7 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/author/cristobal-ortiz/</loc>
+    <loc>www.oles.cl/author/cristobal-moya/</loc>
   </url>
   
   <url>
@@ -305,10 +316,6 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/author/matias-pinto-laulie/</loc>
-  </url>
-  
-  <url>
     <loc>www.oles.cl/author/maximiliano-diaz/</loc>
   </url>
   
@@ -346,6 +353,10 @@
   
   <url>
     <loc>www.oles.cl/author/omar-sarmiento/</loc>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/author/paz-irarrazabal-gonzalez/</loc>
   </url>
   
   <url>
@@ -429,6 +440,71 @@
   </url>
   
   <url>
+    <loc>www.oles.cl/authors/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/categories/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/post/2023-08-28/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/tag/noticias/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/category/noticias/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/tags/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/post/</loc>
+    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/event/</loc>
+    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/event/seminario_inseguridad_latam/</loc>
+    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/post/2023-08-01/</loc>
+    <lastmod>2023-08-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/author/macarena-orchard/</loc>
+    <lastmod>2023-08-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/post/2023-03-13/</loc>
+    <lastmod>2023-03-13T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>www.oles.cl/publication-type/2/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -444,22 +520,12 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/authors/</loc>
+    <loc>www.oles.cl/publication/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.oles.cl/author/monica-gerber/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/publication/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -484,11 +550,6 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/tags/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.oles.cl/author/vania-martinez/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -504,23 +565,8 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/event/</loc>
-    <lastmod>2022-11-25T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.oles.cl/author/oles/</loc>
     <lastmod>2022-11-25T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/categories/</loc>
-    <lastmod>2022-11-03T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/author/macarena-orchard/</loc>
-    <lastmod>2022-11-03T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -530,21 +576,6 @@
   
   <url>
     <loc>www.oles.cl/post/2022-11-03/</loc>
-    <lastmod>2022-11-03T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/tag/noticias/</loc>
-    <lastmod>2022-11-03T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/category/noticias/</loc>
-    <lastmod>2022-11-03T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/post/</loc>
     <lastmod>2022-11-03T21:13:14-05:00</lastmod>
   </url>
   
@@ -1254,6 +1285,10 @@
   
   <url>
     <loc>www.oles.cl/sobre/</loc>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/study/</loc>
   </url>
   
   <url>

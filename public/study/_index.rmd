@@ -1,0 +1,26 @@
+---
+type: widget_page
+title: Repositorio de estudios
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+El Observatorio de violencia y legitimidad social cuenta con encuestas de libre acceso, en concordancia con la misión de **ciencia abierta** del que dispone el equipo de investigadoras e investigadores. Las encuestas levantadas por OLES son compartidas según los principios propuestos por el [Laboratorio de Ciencia Social Abierta (LISA)](https://lisa-coes.netlify.app/02componentes/). 
+
+En este sitio se encuentran alojados los documentos necesarios para trabajar con los datos producto de las investigaciones de OLES.
+
+#### Encuesta de Legitimidad de Carabineros: violencia, derechos humanos y control social (2021 - 2022)
+
+En el año 2021 y 2022 OLES llevó a cabo una encuesta longitudinal de tipo panel busca analizar el cambio en las percepciones, actitudes y creencias en torno a la vinculación entre Carabineros de Chile y la ciudadanía. En particular, se realizó una medición sistemática en tres periodos de tiempo, lo cual permite comprender la evolución de la legitimidad de Carabineros, así como evaluar los antecedentes y consecuencias de dicha legitimidad. Más específicamente, la encuesta busca alcanzar los siguientes objetivos:
+
+-   Medir de manera sistemática en el tiempo las percepciones de legitimidad de Carabineros de Chile.
+-   Evaluar el efecto de las percepciones de justicia en el trato y los procedimientos utilizados por Carabineros al interactuar con la ciudadanía en:
+    -   La percepción de legitimidad de los mismos.
+    -   La percepción de legitimidad de la institución policial.
+    -   La justificación de la violencia como forma de reivindicar derechos por parte de manifestantes.
+    
+![icon_word](docs.svg) [Manual Metodológico](https://nicolastobarj.quarto.pub/manual_encuesta_oles/)
+  
+  

@@ -18,8 +18,15 @@ main:
     weight: 25
   - name: Publicaciones
     identifier: publicaciones
-    url: publication
     weight: 30
+  - name: Artículos académicos
+    parent: publicaciones
+    url: publication
+    weight: 46
+  - name: Repositorio de estudios
+    parent: publicaciones
+    url: study
+    weight: 47
   - name: Líneas de trabajo
     url: lineas
     weight: 40

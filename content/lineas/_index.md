@@ -1,10 +1,10 @@
 ---
 type: widget_page
-title: Lineas de trabajo
+title: Líneas de trabajo
 
 menu:
   content:
-    parent: Líneas de trabajo
+    parent: ""
     weight: 2
 type: docs
 ---
