@@ -1,3 +1,7 @@
+---
+type: widget_page
+---
+
 ## Encuesta de Legitimidad de Carabineros. Violencia, Derechos Humanos y Control Social (2021 - 2022)
 
 En el año 2021 y 2022 OLES llevó a cabo una encuesta longitudinal de tipo panel busca analizar el cambio en las percepciones, actitudes y creencias en torno a la vinculación entre Carabineros de Chile y la ciudadanía. En particular, se realizó una medición sistemática en tres periodos de tiempo, lo cual permite comprender la evolución de la legitimidad de Carabineros, así como evaluar los antecedentes y consecuencias de dicha legitimidad. Más específicamente, la encuesta busca alcanzar los siguientes objetivos:
