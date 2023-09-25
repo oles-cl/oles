@@ -18,13 +18,14 @@ main:
     weight: 25
   - name: Publicaciones
     identifier: publicaciones
-    weight: 30
-  - name: Artículos académicos
-    parent: publicaciones
     url: publication
     weight: 46
-  - name: Repositorio de estudios
-    parent: publicaciones
+  - name: Repositorio
+    identifier: repositorio
+    url: repo
+    weight: 47
+  - name: Encuesta 2021-2022
+    parent: repositorio
     url: study
     weight: 47
   - name: Líneas de trabajo
