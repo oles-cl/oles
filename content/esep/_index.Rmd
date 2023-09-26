@@ -1,0 +1,11 @@
+---
+type: widget_page
+---
+
+## Estudio de Percepciones de Seguridad y Policías en Chile 2023-2025
+
+Desde marzo de 2023 OLES se encuentra levantando nuevos datos cuantitativos longitudinales que tienen como objetivo conocer las percepciones sobre la delincuencia en el país, así como la manera en que las personas se vinculan con las policías en zonas urbanas de Chile. 
+
+Actualmente la encuesta se encuentra en el trabajo de campo de su primera ola de medición. Está planificado llevar a cabo 10 olas de medición en tres años. Se espera publicar a mediados de 2024 las bases de datos de las mediciones iniciales.
+
+Para más información, se recomienda acceder al [sitio web de ESEP](https://esep.netlify.app/)

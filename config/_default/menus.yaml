@@ -28,6 +28,10 @@ main:
     parent: repositorio
     url: study
     weight: 47
+  - name: ESEP 2023-2025
+    parent: repositorio
+    url: esep
+    weight: 48
   - name: Líneas de trabajo
     url: lineas
     weight: 40
