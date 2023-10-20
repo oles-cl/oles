@@ -51,7 +51,7 @@ Para acceder a la base de datos de este estudio, y orientar su manipulación, se
     </style>
   </head>
   <body>
-    <a class="button" href="https://nicolastobarj.quarto.pub/manual_encuesta_oles/" aria-label="Learn about the HTML button tag" target="_blank">
+    <a class="button" href="https://manual-2022-oles.netlify.app" aria-label="Learn about the HTML button tag" target="_blank">
       <span class="icon">📖</span>
       <span>Ver Manual Metodológico Encuesta de Legitimidad de Carabineros 2021-2022</span>
     </a>
