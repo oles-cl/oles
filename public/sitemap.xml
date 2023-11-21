@@ -440,8 +440,38 @@
   </url>
   
   <url>
+    <loc>www.oles.cl/publication-type/7/</loc>
+    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/publication/</loc>
+    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>www.oles.cl/authors/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/author/fernanda-cancino-norambuena/</loc>
+    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/publication/tesis_f_cancino/</loc>
+    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/</loc>
+    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/publication_types/</loc>
+    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -461,11 +491,6 @@
   
   <url>
     <loc>www.oles.cl/category/noticias/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/</loc>
     <lastmod>2023-08-28T00:00:00-01:00</lastmod>
   </url>
   
@@ -520,17 +545,7 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/publication/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.oles.cl/author/monica-gerber/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/publication_types/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -925,11 +940,6 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/publication-type/7/</loc>
-    <lastmod>2021-01-28T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.oles.cl/author/francisca-baeza/</loc>
     <lastmod>2021-01-28T12:00:00+00:00</lastmod>
   </url>
@@ -1268,7 +1278,15 @@
   </url>
   
   <url>
+    <loc>www.oles.cl/esep/</loc>
+  </url>
+  
+  <url>
     <loc>www.oles.cl/people/</loc>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/study/</loc>
   </url>
   
   <url>
@@ -1284,11 +1302,11 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/sobre/</loc>
+    <loc>www.oles.cl/repo/</loc>
   </url>
   
   <url>
-    <loc>www.oles.cl/study/</loc>
+    <loc>www.oles.cl/sobre/</loc>
   </url>
   
   <url>

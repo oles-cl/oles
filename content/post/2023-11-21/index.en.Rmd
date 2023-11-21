@@ -1,7 +1,7 @@
 ---
 title: "Investigadoras e investigadores OLES participan de la X Conferencia anual de COES"
 authors: [bruno_r,pinto_matias_e,nicolas_tobar]
-date: 2023-11-21T21:13:14-05:00
+date: 2023-11-20T21:13:14-05:00
 categories: ["Noticias"]
 tags: ["Noticias"]
 image:

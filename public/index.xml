@@ -5,7 +5,7 @@
     <link>www.oles.cl/</link>
       <atom:link href="www.oles.cl/index.xml" rel="self" type="application/rss+xml" />
     <description>OLES</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 -0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 19 Oct 2023 12:00:00 +0000</lastBuildDate>
     <image>
       <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>OLES</title>
@@ -22,6 +22,14 @@
  &lt;/iframe&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Interacciones entre la ciudadanía y carabineros. Experiencias sobre justicia procedimental y legitimidad.</title>
+      <link>www.oles.cl/publication/tesis_f_cancino/</link>
+      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>www.oles.cl/publication/tesis_f_cancino/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -778,6 +786,14 @@ Estructurales.  El  principal  hallazgo  es  que  identificación  con  manifest
 &lt;h4 id=&#34;descargar-la-presentaciónhttpsgithubcomoles-clolesrawmainassetsmediamarburg2022_gerberpptx&#34;&gt;&lt;a href=&#34;https://github.com/oles-cl/oles/raw/main/assets/media/marburg2022_gerber.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargar la presentación&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;a puedes=&#34;&#34; descargar=&#34;&#34; el=&#34;&#34; programa=&#34;&#34; apretando=&#34;&#34; siguiente=&#34;&#34; botón=&#34;&#34; class=&#34;btn btn-primary&#34; href=&#34;https://github.com/oles-cl/oles/raw/main/assets/media/marburg2022_gerber.pptx&#34; role=&#34;button&#34;&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>OLES</title>
+      <link>www.oles.cl/repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>www.oles.cl/repo/</guid>
+      <description></description>
     </item>
     
     <item>
