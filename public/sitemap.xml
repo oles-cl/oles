@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.oles.cl/author/monica-m.-gerber/</loc>
-    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
+    <loc>www.oles.cl/author/ana-figueiredo/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
   </url>
   
   <url>
-    <loc>www.oles.cl/author/ana-figueiredo/</loc>
-    <lastmod>2023-08-01T21:13:14-05:00</lastmod>
+    <loc>www.oles.cl/author/monica-m.-gerber/</loc>
+    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -17,13 +17,18 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/author/bruno-rojas-soto/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+    <loc>www.oles.cl/author/matias-pinto-laulie/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
   </url>
   
   <url>
-    <loc>www.oles.cl/author/matias-pinto-laulie/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
+    <loc>www.oles.cl/author/nicolas-tobar-jorquera/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/author/bruno-rojas-soto/</loc>
+    <lastmod>2023-11-20T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -348,10 +353,6 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/author/nicolas-tobar-jorquera/</loc>
-  </url>
-  
-  <url>
     <loc>www.oles.cl/author/omar-sarmiento/</loc>
   </url>
   
@@ -440,17 +441,67 @@
   </url>
   
   <url>
+    <loc>www.oles.cl/authors/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/categories/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/tag/investigacion/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/post/2023-18-12/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/tag/noticias/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/category/noticias/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/tag/ponencias/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/tags/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/post/</loc>
+    <lastmod>2023-12-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.oles.cl/post/2023-11-21/</loc>
+    <lastmod>2023-11-20T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>www.oles.cl/publication-type/7/</loc>
     <lastmod>2023-10-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.oles.cl/publication/</loc>
-    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/authors/</loc>
     <lastmod>2023-10-19T12:00:00+00:00</lastmod>
   </url>
   
@@ -465,42 +516,12 @@
   </url>
   
   <url>
-    <loc>www.oles.cl/</loc>
-    <lastmod>2023-10-19T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.oles.cl/publication_types/</loc>
     <lastmod>2023-10-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.oles.cl/categories/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.oles.cl/post/2023-08-28/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/tag/noticias/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/category/noticias/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/tags/</loc>
-    <lastmod>2023-08-28T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/post/</loc>
     <lastmod>2023-08-28T00:00:00-01:00</lastmod>
   </url>
   
@@ -671,11 +692,6 @@
   
   <url>
     <loc>www.oles.cl/tag/fondecyt/</loc>
-    <lastmod>2022-06-03T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.oles.cl/tag/investigacion/</loc>
     <lastmod>2022-06-03T21:13:14-05:00</lastmod>
   </url>
   
