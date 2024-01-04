@@ -1,0 +1,16 @@
+---
+title: "Investigador Luciano Sáez fue entrevistado por la Universidad Diego Portales"
+authors: [luciano,pinto_matias_e,nicolas_tobar]
+date: 2023-12-18T00:00:00-01:00
+categories: ["Noticias"]
+tags: ["Noticias", "Entrevistas"]
+image:
+  caption: 'Fuente de imagen: UDP'
+  focal_point: Right
+---
+
+Recientemente ha sido publicada la entrevista que la Universidad Diego Portales ha realizado a Luciano Sáez, investigador de OLES y académico de la misma universidad, acerca de su participación en el proyecto ANID-Exploración “Legitimidad de las policías en Chile: el efecto causal de la violencia y la corrupción desde una perspectiva multi-actor, longitudinal y multi-métodos”. Sobre este estudio, Luciano señala que “integra una serie de metodologías de frontera en la producción de conocimiento multi-métodos y experimental, que integra estudios cuantitativos y cualitativos a nivel longitudinal”.
+
+La entrevista toca diferentes aspectos tales como su contribución en este proyecto, el desarrollo de este, algunos fenómenos y conclusiones que han logrado como equipo identificar en el estudio y las expectativas sobre el estudio. Además, Luciano señala su visión respecto al trabajo interdisciplinar tanto en este proyecto como en las Ciencias Sociales en general. Sobre esto destaca: “La promoción y desarrollo de proyectos interdisciplinarios permite incorporar nuevas dimensiones teóricas y metodológicas que enriquecen la aproximación a este tipo de problemas, así como en todo tipo de problemas en general, facilitando el desarrollo de nuevas interrogantes a través del diálogo entre diferentes disciplinas”.
+
+Para ver la entrevista completa, ingresar al siguiente link: [https://www.udp.cl/luciano-saez-estudiante-del-doctorado-en-ciencias-sociales-fren[…]mplejos-la-mirada-interdisciplinar-se-hace-necesaria-y-urgente/](https://www.udp.cl/luciano-saez-estudiante-del-doctorado-en-ciencias-sociales-fren[…]mplejos-la-mirada-interdisciplinar-se-hace-necesaria-y-urgente/)
