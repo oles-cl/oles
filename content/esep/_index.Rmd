@@ -4,8 +4,40 @@ type: widget_page
 
 ## Estudio de Percepciones de Seguridad y Policías en Chile 2023-2025
 
-Desde marzo de 2023 OLES se encuentra levantando nuevos datos cuantitativos longitudinales que tienen como objetivo conocer las percepciones sobre la delincuencia en el país, así como la manera en que las personas se vinculan con las policías en zonas urbanas de Chile. 
+El Estudio de Percepciones de Seguridad y Policías de Chile (ESEP) diseñado por el Observatorio de Violencia y Legitimidad Social tiene como objetivo conocer las percepciones de la ciudadanía sobre la delincuencia en el país, así como sobre la manera en que las personas se vinculan con las policías. 
 
-Actualmente la encuesta se encuentra en el trabajo de campo de su primera ola de medición. Está planificado llevar a cabo 10 olas de medición en tres años. Se espera publicar a mediados de 2024 las bases de datos de las mediciones iniciales.
+El estudio considera la aplicación de una encuesta longitudinal, esto es, una encuesta donde los y las participantes reportan sus actitudes de manera regular para poder entender cómo estos fenómenos van cambiando en el tiempo. Los y las participantes en esta encuesta corresponden a hombres y mujeres de entre 18 y 65 años de edad, residentes de zonas urbanas del país. Los y las encuestados fueron seleccionados a través de un muestreo probabilístico polietápico para participar en este estudio. 
+
+Este estudio se encuentra financiado por la Universidad Diego Portales y la Agencia Nacional de Investigación y Desarrollo (ANID) a través de los fondos Fondecyt Regular N. 1221805 y ANID Exploración N. 13220187. Además, la recopilación de datos fue realizado por la consultora Statcom Datavoz. El estudio es dirigido por la [Dra. Monica Gerber](https://oles2.netlify.app/author/monica-m.-gerber/), profesora titular de la Facultad de Psicología de la Universidad Diego Portales.
 
 Para más información, se recomienda acceder al [sitio web de ESEP](https://esep.netlify.app/)
+
+## Ola 0
+
+<div style="display: flex; justify-content: center;">
+  <iframe width="800" height="400" marginheight="0" marginwidth="0" src="https://olescl.quarto.pub/prealas-esep/#/title-slide"></iframe>
+</div>
+
+La ola 0 es la medición inicial que fue llevada a cabo entre junio de 2023 y febrero de 2024 de manera presencial para definir el panel inicial de participantes para el estudio longitudinal. El trabajo de campo fue realizado en apoyo con la consultora [Datavoz Statcom](https://datavoz.cl/) a partir de entrevistas presenciales (cara a cara), y se recolectaron 5304 participantes representativos de las zonas urbanas a nivel nacional. Las siguientes olas de medición se harán a través de encuestas levantadas al panel de la ola 0, pero con métodos de contacto online (CAWI). 
+
+Para conocer los resultados y especificidades metodológicas de la ola 0, el usuario puede descargar el reporte de la ola haciendo click en el botón a continuación.
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botón Informe</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <a href="https://raw.githack.com/oles-cl/esep_presentations/main/report/w0_report.pdf" class="report-button" download>
+        <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24">
+            <path d="M0 0h24v24H0z" fill="none"/>
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm3 15h-6v-2h6v2zm0-4h-6v-2h6v2zm0-4h-6V7h6v2z"/>
+        </svg>
+        Descargar Reporte ESEP ola 0
+    </a>
+
+    <p><strong>Advertencia:</strong> Las ola 1 de ESEP se encuentra en proceso de preparativos para iniciar el levantamiento de datos, y los datos de la ola 0 aún se están procesando para poder ser publicados.</p>
+</body>
+</html>
