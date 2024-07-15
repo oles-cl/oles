@@ -1,0 +1,64 @@
+---
+title: "Convocatoria OLES: Práctica Electiva Interdisciplinaria Legitimidad de las policías en Chile: empoderamiento, violencia y corrupción desde datos administrativos"
+authors: [luciano]
+date: 2024-07-11T21:13:14-05:00
+categories: ["Noticias"]
+tags: ["Noticias", "Publiaciones", "Prensa"]
+image:
+  caption: 'Fuente de imagen: OLES'
+  focal_point: Right
+---
+
+## Resumen
+
+El objetivo general del proyecto es analizar diferentes factores que pueden influir la percepción de los niveles de legitimidad y justicia procedimental de las fuerzas policiales. Considerando el contexto
+actual marcado por el incremento de las percepciones de inseguridad ciudadana y los llamados a un
+mayor empoderamiento policial es clave examinar cómo diferentes eventos, como casos de
+corrupción, abusos policiales y reformas legales pueden afectar el aumento o disminución sobre
+dichas percepciones.
+
+Para lograrlo, esta práctica propone analizar estos eventos desde el análisis de un variado corpus de
+datos administrativos producidos por diferentes entidades estatales (datos legislativos, policiales,
+judiciales), así como de organizaciones de la sociedad civil (ong’s, fundaciones, entre otras). Con
+ello, se busca reflexionar sobre el rol y naturaleza de datos administrativos para el análisis de
+las prácticas policiales. Esta investigación se enmarca en el Observatorio de Violencia y
+Legitimidad Social (OLES).
+
+## Objetivos
+
+-   **Analizar** los factores que influyen en la percepción de la legitimidad y justicia procedimental
+de las fuerzas policiales, utilizando datos administrativos en el contexto de creciente
+inseguridad ciudadana y demandas de empoderamiento policial.
+-   **Evaluar** el impacto de eventos específicos, como casos de corrupción, abusos policiales y
+reformas legales, en la percepción pública de la seguridad y el empoderamiento policial.
+-   **Explorar** el uso de datos administrativos de diversas entidades estatales y organizaciones de
+la sociedad civil para el análisis de las prácticas policiales.
+
+## Perfil requerido
+-   Ser estudiante regular de la Universidad Diego Portales cursando 5° semestre o superior de la
+carrera de Sociología o Ciencia Política.
+-   Tener aprobado cursos de Metodología de la Investigación social (o equivalentes) con buenas
+evaluaciones (nota superior a 5,0 en cursos).
+-   Poseer conocimiento práctico en técnicas cualitativas y/p cuantitativas (deseable conocimiento de
+estrategias básica de codificación y análisis cualitativo y/o de estrategia de análisis estadístico
+bivariado en Rstudio)
+-   Ser capaz de leer textos de Ciencias Sociales en español e inglés de manera autónoma.
+-   Poseer capacidades para la planificación y el levantamiento de información.
+-   Poseer capacidades de comunicación efectiva de información.
+
+## Para la elección se considerará
+-   Antecedentes académicos: 50%
+-   Carta de Motivación: 30% (dirigida a Luciano Sáez)
+-   Entrevista: 20%
+
+## Etapas del proceso
+- Postular adjuntando registro de notas y carta de motivación al correo
+[contacto.oles@gmail.com](mailto:contacto.oles@gmail.com) con copia (cc) al mail [luciano.saez@mail.udp.cl](milto:luciano.saez@mail.udp.cl) con el asunto
+“Práctica Electiva Legitimidad de las policías”
+- Período de postulación: desde el viernes 12 de julio hasta el martes 23 de julio a las 23.59
+- Entrevistas: jueves 25 y viernes 26 de julio
+- Resultados: lunes 30 de Julio
+- Inicio de la práctica: Agosto
+- Consultas al mail [contacto.oles@gmal.com](mailto:contacto.oles@gmail.com)
+
+[Conovocatoria en PDF](convocatoria.pdf)
