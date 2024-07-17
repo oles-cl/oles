@@ -5,12 +5,28 @@
     <link>www.oles.cl/publication/</link>
       <atom:link href="www.oles.cl/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Artículos Académicos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 19 Oct 2023 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Tue, 16 Jul 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Artículos Académicos</title>
       <link>www.oles.cl/publication/</link>
     </image>
+    
+    <item>
+      <title>El lugar de la violencia hacia los pobladores durante la dictadura cívico-militar en Chile. disputas y silenciamientos en la construcción de narrativas oficiales (1973-2023).</title>
+      <link>www.oles.cl/publication/luciano1/</link>
+      <pubDate>Tue, 16 Jul 2024 12:00:00 +0000</pubDate>
+      <guid>www.oles.cl/publication/luciano1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Significados atribuidos a la investigación en estudiantes de pregrado. La experiencia de participación en un observatorio de investigación universitario</title>
+      <link>www.oles.cl/publication/pel_2024/</link>
+      <pubDate>Fri, 19 Apr 2024 12:00:00 +0000</pubDate>
+      <guid>www.oles.cl/publication/pel_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interacciones entre la ciudadanía y carabineros. Experiencias sobre justicia procedimental y legitimidad.</title>

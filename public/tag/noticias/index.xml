@@ -5,12 +5,233 @@
     <link>www.oles.cl/tag/noticias/</link>
       <atom:link href="www.oles.cl/tag/noticias/index.xml" rel="self" type="application/rss+xml" />
     <description>Noticias</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Mon, 18 Dec 2023 00:00:00 -0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 11 Jul 2024 21:13:14 -0500</lastBuildDate>
     <image>
       <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Noticias</title>
       <link>www.oles.cl/tag/noticias/</link>
     </image>
+    
+    <item>
+      <title>Convocatoria OLES: Práctica Electiva Interdisciplinaria Legitimidad de las policías en Chile: empoderamiento, violencia y corrupción desde datos administrativos</title>
+      <link>www.oles.cl/post/2024-07-15/</link>
+      <pubDate>Thu, 11 Jul 2024 21:13:14 -0500</pubDate>
+      <guid>www.oles.cl/post/2024-07-15/</guid>
+      <description>
+
+
+&lt;div id=&#34;resumen&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resumen&lt;/h2&gt;
+&lt;p&gt;El objetivo general del proyecto es analizar diferentes factores que pueden influir la percepción de los niveles de legitimidad y justicia procedimental de las fuerzas policiales. Considerando el contexto
+actual marcado por el incremento de las percepciones de inseguridad ciudadana y los llamados a un
+mayor empoderamiento policial es clave examinar cómo diferentes eventos, como casos de
+corrupción, abusos policiales y reformas legales pueden afectar el aumento o disminución sobre
+dichas percepciones.&lt;/p&gt;
+&lt;p&gt;Para lograrlo, esta práctica propone analizar estos eventos desde el análisis de un variado corpus de
+datos administrativos producidos por diferentes entidades estatales (datos legislativos, policiales,
+judiciales), así como de organizaciones de la sociedad civil (ong’s, fundaciones, entre otras). Con
+ello, se busca reflexionar sobre el rol y naturaleza de datos administrativos para el análisis de
+las prácticas policiales. Esta investigación se enmarca en el Observatorio de Violencia y
+Legitimidad Social (OLES).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Analizar&lt;/strong&gt; los factores que influyen en la percepción de la legitimidad y justicia procedimental
+de las fuerzas policiales, utilizando datos administrativos en el contexto de creciente
+inseguridad ciudadana y demandas de empoderamiento policial.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Evaluar&lt;/strong&gt; el impacto de eventos específicos, como casos de corrupción, abusos policiales y
+reformas legales, en la percepción pública de la seguridad y el empoderamiento policial.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Explorar&lt;/strong&gt; el uso de datos administrativos de diversas entidades estatales y organizaciones de
+la sociedad civil para el análisis de las prácticas policiales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;perfil-requerido&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Perfil requerido&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ser estudiante regular de la Universidad Diego Portales cursando 5° semestre o superior de la
+carrera de Sociología o Ciencia Política.&lt;/li&gt;
+&lt;li&gt;Tener aprobado cursos de Metodología de la Investigación social (o equivalentes) con buenas
+evaluaciones (nota superior a 5,0 en cursos).&lt;/li&gt;
+&lt;li&gt;Poseer conocimiento práctico en técnicas cualitativas y/p cuantitativas (deseable conocimiento de
+estrategias básica de codificación y análisis cualitativo y/o de estrategia de análisis estadístico
+bivariado en Rstudio)&lt;/li&gt;
+&lt;li&gt;Ser capaz de leer textos de Ciencias Sociales en español e inglés de manera autónoma.&lt;/li&gt;
+&lt;li&gt;Poseer capacidades para la planificación y el levantamiento de información.&lt;/li&gt;
+&lt;li&gt;Poseer capacidades de comunicación efectiva de información.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;para-la-elección-se-considerará&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Para la elección se considerará&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Antecedentes académicos: 50%&lt;/li&gt;
+&lt;li&gt;Carta de Motivación: 30% (dirigida a Luciano Sáez)&lt;/li&gt;
+&lt;li&gt;Entrevista: 20%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;etapas-del-proceso&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Etapas del proceso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Postular adjuntando registro de notas y carta de motivación al correo
+&lt;a href=&#34;mailto:contacto.oles@gmail.com&#34;&gt;contacto.oles@gmail.com&lt;/a&gt; con copia (cc) al mail &lt;a href=&#34;milto:luciano.saez@mail.udp.cl&#34;&gt;luciano.saez@mail.udp.cl&lt;/a&gt; con el asunto
+“Práctica Electiva Legitimidad de las policías”&lt;/li&gt;
+&lt;li&gt;Período de postulación: desde el viernes 12 de julio hasta el martes 23 de julio a las 23.59&lt;/li&gt;
+&lt;li&gt;Entrevistas: jueves 25 y viernes 26 de julio&lt;/li&gt;
+&lt;li&gt;Resultados: lunes 30 de Julio&lt;/li&gt;
+&lt;li&gt;Inicio de la práctica: Agosto&lt;/li&gt;
+&lt;li&gt;Consultas al mail &lt;a href=&#34;mailto:contacto.oles@gmail.com&#34;&gt;contacto.oles@gmal.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;convocatoria.pdf&#34;&gt;Conovocatoria en PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OLES participa en el Encuentro anual del ISPP</title>
+      <link>www.oles.cl/post/2024-07-12/</link>
+      <pubDate>Thu, 11 Jul 2024 21:13:14 -0500</pubDate>
+      <guid>www.oles.cl/post/2024-07-12/</guid>
+      <description>
+
+
+&lt;p&gt;Del 4 al 6 de julio tuvo lugar en Santiago el Annual Scientific Meeting realizado por el International Society of Political Psychology (ISPP). Este importante congreso internacional tuvo como centro temático las raíces psicológicas de los conflictos relacionados con el creciente autoritarismo y su impacto en las sociedades democráticas. Con el título de ‘Dismantling Democracy: Insecurity, Emotions and Authoritarian Populism’, a lo largo de tres días, se presentaron 13 paneles y más de 80 ponencias en las que participaron investigadoras e investigadores provenientes de distintas disciplinas, como la psicología social, la ciencia política y la sociología, entre otras.&lt;/p&gt;
+&lt;p&gt;Investigadoras e investigadores del equipo OLES participaron activamente en este congreso, presentando avances de sus más recientes investigaciones.&lt;/p&gt;
+&lt;p&gt;La investigadora Ana Figueiredo (UOH), además de participar en la organización del congreso, presentó en dos paneles y participó como discussant en otras mesas. En términos de sus presentaciones, participó primero en el Panel 76: Insecurity and Distance from Democracy in Majorities and Minorities during Global Crisis and Uncertainty. En este panel, la investigadora presentó su trabajo titulado: “Distrust in democratic processes of change among the Mapuche people in Chile: an analysis of the 2020-2022 constitutional process”. Su presentación se centró en la desconfianza y la distancia del Estado que han desarrollado los grupos minoritarios, en particular el pueblo Mapuche, durante el proceso de cambio constitucional del Estado chileno.&lt;/p&gt;
+&lt;p&gt;Luego, participó en el Panel 97: Double Standards in Migration, Ethnicity and Intergroup Relations. En este panel, presentó su ponencia “Double standards in intergroup relations: a theoretical reflection on coloniality and racialized communities”. Esta presentación teórica abordó el concepto de colonialidad y su impacto en las comunidades racializadas a nivel global, destacando los dobles estándares que privilegian a ciertos grupos sobre otros. La investigadora ilustró su argumento en el caso de la violencia estructural y sistémica contra el pueblo Mapuche en Chile para mostrar cómo las relaciones intergrupales se ven afectadas por matrices de dominación y opresión. Por último, la investigadora participó como discussant en dos paneles: “Political Resistance in Authoritarian Contexts. Part 2: Repression and Resistance” y “Towards a Comprehensive Account of Neo-Colonial Ideological Phenomena: Predictors and Impact on Longstanding Colonial Inequalities”, aportando en la discusión sobre resistencia política y los fenómenos ideológicos neocoloniales.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ana_ispp.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;La directora del observatorio y académica de la UDP, Mónica Gerber, presentó la ponencia titulada “Police use of force promotes protester violence: the mediating role of social identity and perceived procedural justice in the context of police-protester relationships.” En su trabajo mostró cómo la experiencia de violencia policial incide en la percepción de justicia procedimental y en la identificación de las personas con los manifestantes, y cómo esto tiene un efecto en la justificación de la violencia de los manifestantes hacia la policía. Utilizando en conjunto el enfoque de la Justicia Procedimental y el Elaborated Social Identity Model, su trabajo avanza en la comprensión de los mecanismos detrás de la acción colectiva.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;monica_ispp.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Joaquín Bahamondes, profesor de la escuela de psicología de la Universidad Católica del Norte, presentó en el Panel 84: “Towards a comprehensive account of neocolonial ideological phenomena: Predictors and impact on longstanding colonial inequalities”. En este panel, el investigador del equipo OLES presentó su ponencia “Postcolonial ideology in the Chilean constitutional process: Historical negation predicts distrust and opposition to constitutional change among the Mapuche”. En este trabajo, el autor analizó en qué medida las personas Mapuche internalizaron los discursos críticos con las políticas de reconocimiento indígena llevadas a cabo en el proceso de cambio constitucional. Para eso analizó específicamente si las creencias que minimizan las historias de injusticia que enfrentan los Mapuche y los imperativos por reparación, junto a las afirmaciones de la exclusión de los símbolos Mapuche de la identidad nacional, podían predecir oposición al cambio constitucional del 2019 y desconfianza en la asamblea constitucional durante 2022. Sus resultados destacaron el rol de la negación histórica en predecir oposición y desconfianza en el cambio constitucional, lo que se alineó con una concepción consensual de la ideología como una manifestación de falsa conciencia que mina el apoyo a los intereses del grupo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;joaquin_ispp.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Finalmente, Luciano Sáez, estudiante y académico de la Universidad Diego Portales, presentó la ponencia “Compromiso, resistencia y evitación: ¿Cómo se vincula la ciudadanía con las policías en Chile?”. En su trabajo analizó cómo diversos grupos sociales (derecha, izquierda, indígenas, inmigrantes y manifestantes) expresan diferentes niveles de legitimidad y despliegan diferentes posturas hacia la policía en Chile. Dialogando con los estudios sobre legitimidad policial, justicia procedimental y posturas motivacionales, el investigador profundizó en las experiencias de vinculación con la policía, explorando tres posturas motivacionales para comprender la distancia que las personas en Chile movilizan frente a Carabineros: el compromiso, la resistencia y la evitación.&lt;/p&gt;
+&lt;p&gt;De esta forma, las investigadoras e investigadores de OLES hicieron contribuciones significativas al desarrollo de la psicología política a través de sus presentaciones. Este congreso no solo resaltó las agendas de investigación que se desarrollan al interior de nuestro observatorio, sino que también abrió nuevos caminos para la colaboración interdisciplinaria, fortaleciendo la psicología política como campo esencial para abordar los desafíos democráticos contemporáneos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nuestra directora Mónica Gerber participa de Anatomia del caos (Podcast Chile 21)</title>
+      <link>www.oles.cl/post/2024-06-24/</link>
+      <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
+      <guid>www.oles.cl/post/2024-06-24/</guid>
+      <description>
+
+
+&lt;p&gt;Puedes revisar su participación aquí 👇🏻&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tYuPSJnTc4Q&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OLES publica columna de opinión sobre los hallazgos de ESEP, ola 0</title>
+      <link>www.oles.cl/post/2024-06-07/</link>
+      <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
+      <guid>www.oles.cl/post/2024-06-07/</guid>
+      <description>
+
+
+&lt;p&gt;📚📊 &lt;a href=&#34;mailto:L@s&#34; class=&#34;email&#34;&gt;L@s&lt;/a&gt; &lt;a href=&#34;mailto:académic@s&#34; class=&#34;email&#34;&gt;académic@s&lt;/a&gt; Mónica Gerber (UDP) y Claudio Fuentes (UDP), junto al equipo OLES, publicaron la columna “Mayor empoderamiento de las policías: el delicado llamado que hace la ciudadanía” en el medio El Mostrador.&lt;/p&gt;
+&lt;p&gt;🗃️📉 En ella abordaron cómo el aumento de poderes a Carabineros, que hoy es exigido por la ciudadanía, debe ir inextricablemente ligado a un compromiso inquebrantable con el respeto y la promoción activa de los derechos humanos, al mismo tiempo en que se debe asegurar que las acciones policiales se realicen bajo estrictos criterios de derechos y justica, con el fin de darle sostenibilidad en el tiempo a la legitimidad policial.&lt;/p&gt;
+&lt;p&gt;🗂️📂 A partir de los resultados de la encuesta (ESEP), realizada por el Observatorio de Violencia y Legitimidad Social, la columna llama la atención sobre la fragilidad de la legitimidad policial y los problemas asociados a los procesos de empoderamiento policial. Como afirman en la columna: “La posible falta de imparcialidad, sumada a un alejamiento de su carácter de institución ciudadana, podrían generar una menor legitimidad y una percepción de baja justicia en los procedimientos a través de los cuales se exige a Carabineros rendir cuentas de su trabajo. Empoderarlos a través de ese mecanismo podría terminar socavando la ya frágil confianza en la institución.”&lt;/p&gt;
+&lt;p&gt;📊Los invitamos a leer esta columna en el siguiente link: &lt;a href=&#34;https://www.elmostrador.cl/noticias/opinion/columnas/2024/06/05/mayor-empoderamiento-de-las-policias-el-delicado-llamado-que-hace-la-ciudadania/&#34;&gt;https://www.elmostrador.cl/noticias/opinion/columnas/2024/06/05/mayor-empoderamiento-de-las-policias-el-delicado-llamado-que-hace-la-ciudadania/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🗂️También los invitamos a ver los resultados descriptivos de la encuesta ESEP: &lt;a href=&#34;https://oles2.netlify.app/esep/&#34;&gt;https://oles2.netlify.app/esep/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¡Equipo OLES publica nuevo artículo! Significados atribuidos a la investigación en estudiantes de pregrado. la experiencia de participación en un observatorio de investigación universitario</title>
+      <link>www.oles.cl/post/2024-05-14/</link>
+      <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
+      <guid>www.oles.cl/post/2024-05-14/</guid>
+      <description>
+
+
+&lt;p&gt;La enseñanza de métodos de investigación en la educación superior ha sido un tema de creciente interés en los últimos años, especialmente en el ámbito de las ciencias sociales. Pese a los avances que se han desarrollado en la literatura sobre la formación en métodos de investigación, son escasas las investigaciones que han examinado las experiencias y significados asociados a participaciones colectivas de estudiantes en observatorios de investigación aplicada. En este contexto, un equipo de investigadoras/es del Observatorio de Violencia y Legitimidad Social (OLES) ha publicado el artículo “Significados atribuidos a la investigación en estudiantes de pregrado: la experiencia de participación en un observatorio de investigación universitario”, el cual analiza y sistematiza la experiencia de estudiantes de pregrado en Ciencias Sociales en el observatorio durante los años 2020 y 2021.&lt;/p&gt;
+&lt;p&gt;A través de entrevistas individuales y grupos focales, se analizaron los cambios en la percepción de los estudiantes sobre la investigación tras su participación en el OLES. Así, este trabajo pretende entregar nuevas miradas sobre las experiencias de participación de estudiantes en instancias de investigación y así explorar los cambios que estos sujetos experimentaron en sus modos de comprender la investigación.&lt;/p&gt;
+&lt;p&gt;En términos amplios, los hallazgos del artículo identifican una valoración positiva de la experiencia de participación en distintas tareas del observatorio, lo que ha producido cambios interesantes respecto del modo en que el estudiantado entiende el proceso de investigación. Como nos dicen los autores “Las actividades desarrolladas por el observatorio fomentan sentidos previos asociados a la investigación adquiridos en instancias formativas, pero a su vez fomentan significados más prácticos y democratizadores en torno a la investigación.”&lt;/p&gt;
+&lt;p&gt;Al mismo tiempo, los resultados muestran que los estudiantes reconocen el valor de la práctica investigativa para la generación de conocimiento y para el cambio social, permitiéndoles revalorar las carreras que cursaban y ampliar sus perspectivas en el campo de la investigación. Además, se resalta la importancia de la inserción temprana en prácticas de investigación y la creatividad que proporciona el observatorio como espacio para involucrarse en la actividad investigativa. Estos resultados, destacan las autoras/es “refuerzan la importancia de estudiar las percepciones y actitudes hacia la investigación en estudiantes de pregrado, como lo han demostrado estudios recientes (Romaní-Romaní &amp;amp; Gutiérrez, 2022), que sugieren que las experiencias positivas en investigación se forman luego de la participación en proyectos de investigación integrados a la actividad curricular.”&lt;/p&gt;
+&lt;p&gt;Además, este trabajo ofrece recomendaciones para futuras investigaciones, como la inclusión de muestras más amplias y el uso de metodologías mixtas para comprender mejor las actitudes y percepciones de los estudiantes hacia la investigación. Así, las autoras/es terminan afirmando que entre las “principales implicancias, a nivel teórico, esta investigación realiza un aporte en la reflexión sobre instancias extracurriculares en la formación en investigación sobre las cuales existe escasa evidencia. En términos prácticos, los resultados entregan un diagnóstico preliminar sobre la enseñanza de métodos de investigación y de estrategias de inserción del estudiantado en dichas prácticas, que informan sobre los potenciales desafíos a los que se pueden enfrentar futuras experiencias de inserción temprana de investigación.”&lt;/p&gt;
+&lt;p&gt;Además, este trabajo ofrece recomendaciones para futuras investigaciones, como la inclusión de muestras más amplias y el uso de metodologías mixtas para comprender mejor las actitudes y percepciones de los estudiantes hacia la investigación. Así, las autoras/es terminan afirmando que entre las “principales implicancias, a nivel teórico, esta investigación realiza un aporte en la reflexión sobre instancias extracurriculares en la formación en investigación sobre las cuales existe escasa evidencia. En términos prácticos, los resultados entregan un diagnóstico preliminar sobre la enseñanza de métodos de investigación y de estrategias de inserción del estudiantado en dichas prácticas, que informan sobre los potenciales desafíos a los que se pueden enfrentar futuras experiencias de inserción temprana de investigación.”&lt;/p&gt;
+&lt;p&gt;Les invitamos a leer este trabajo publicado en la &lt;a href=&#34;https://pensamientoeducativo.uc.cl/index.php/pel/article/view/63905&#34;&gt;revista Pensamiento Educativo, Revista de Investigación Educacional Latinoamericana haciendo click aqui&lt;/a&gt;. Creemos que si bien este campo de investigación sigue abierto a nuevos aportes, este trabajo representa un paso significativo en la comprensión de la formación en investigación en el contexto de las ciencias sociales y destaca el compromiso de nuestro Observatorio con la excelencia académica y la innovación educativa.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OLES en el XII Congreso chileno de sociología 2024</title>
+      <link>www.oles.cl/post/2024-05-06/</link>
+      <pubDate>Mon, 06 May 2024 21:13:14 -0500</pubDate>
+      <guid>www.oles.cl/post/2024-05-06/</guid>
+      <description>
+
+
+&lt;p&gt;Investigadoras e investigadores de OLES participaron en el XII Congreso chileno de
+sociología 2024 el día viernes 3 de mayo. Nuestro equipo expuso los avances de nuestros
+trabajos más recientes lo que permitió un diálogo con académicos y estudiantes sobre
+cómo desarrollar y proyectar la investigación en ciencias sociales sobre la relación entre
+policías y sociedad.&lt;/p&gt;
+&lt;p&gt;El congreso, organizado en colaboración entre la Universidad Diego Portales y la
+Universidad Alberto Hurtado, y respaldado por la Socio-RED y la Asociación
+Latinoamericana de Sociología, se desarrolló entre los días 2 y 4 de mayo en las
+instalaciones de ambas universidades. Contó con la participación de cientos de
+estudiantes y académicos que presentaron sus investigaciones y análisis sobre los
+cambios en la sociedad contemporánea y en la evolución de la sociología como disciplina.&lt;/p&gt;
+&lt;p&gt;El equipo OLES coordinó el Panel 14 Policías y sociedad en el Chile contemporáneo que
+buscó comunicar los resultados de investigaciones en curso de nuestro observatorio.
+Nuestra directora, Mónica Gerber (Psicología-UDP) expuso los hallazgos descriptivos de
+la más reciente encuesta producida por OLES, el Estudio de Percepciones de Seguridad y
+Policías en Chile (ESEP). En su presentación, dimos a conocer datos con representación
+a nivel nacional sobre las percepciones de la ciudadanía sobre las policías, las
+tendencias que actualmente pueden estar marcando esa relación, cuestiones que
+seguirán siendo observadas en el desarrollo de la segunda ola de esta encuesta
+longitudinal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;public2.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Luego, la profesora Macarena Orchard (Sociología-UDP) expuso los
+resultados más recientes de su estudio sobre el respeto hacia Carabineros en base a un
+trabajo cualitativo desarrollado en Santiago, Antofagasta y Temuco, proponiendo la
+distinción entre tipos de respeto y las tendencias actuales de esta dinámica clave en la
+relación entre ciudadanía y policías. Luego, la investigadora Ana Figueiredo (U Bernardo
+O’Higgins) expuso su proyecto de investigación sobre la relación entre carabineros y
+grupos desaventajados, trabajo en el que nos propuso un marco analítico común para
+pensar la relación entre carabineros y grupos atravesados por desigualdades de clase,
+raza y género.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;macarena.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Finalmente, el investigador Luciano Sáez (Ciencia Sociales, UDP) presentó
+una investigación sobre una aplicación de la teoría de las posturas motivacionales en la
+relación entre carabineros y ciudadanía desde un punto de vista cualitativo. Trabajo que
+nos permitió conocer las relaciones de distancia y cercanía que la ciudadanía moviliza en
+su relación con las policías.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Luciano.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Estas presentaciones generaron un enriquecedor debate entre los asistentes, brindando
+al equipo de OLES un valioso feedback para sus investigaciones.&lt;/p&gt;
+&lt;p&gt;Durante la mañana del viernes, el investigador Luciano Sáez presentó los avances de su
+investigación en curso titulada “Exceso y ausencia policial: percepciones sobre violencia y
+trato diferencial de Carabineros hacia diferentes grupos de la sociedad chilena”. En su
+exposición, abordó fenómenos como el under and over policing en la sociedad
+contemporánea, así como la percepción que distintos grupos ideológicos tienen sobre las
+fuerzas policiales.&lt;/p&gt;
+&lt;p&gt;En la misma jornada, Bruno Rojas (UCH), miembro del equipo de OLES, compartió los
+primeros resultados de un trabajo de campo sobre la politización de la inseguridad en el
+contexto de Antofagasta.&lt;/p&gt;
+&lt;p&gt;Estas presentaciones marcaron el cierre de una jornada intensa de trabajo y reflexión.
+Prometen continuar fomentando la investigación en el ámbito policial desde una
+perspectiva interdisciplinaria y multimétodo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;public.jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigador Luciano Sáez fue entrevistado por la Universidad Diego Portales</title>
+      <link>www.oles.cl/post/2024-01-04/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 -0100</pubDate>
+      <guid>www.oles.cl/post/2024-01-04/</guid>
+      <description>
+
+
+&lt;p&gt;Recientemente ha sido publicada la entrevista que la Universidad Diego Portales ha realizado a Luciano Sáez, investigador de OLES y académico de la misma universidad, acerca de su participación en el proyecto ANID-Exploración “Legitimidad de las policías en Chile: el efecto causal de la violencia y la corrupción desde una perspectiva multi-actor, longitudinal y multi-métodos”. Sobre este estudio, Luciano señala que “integra una serie de metodologías de frontera en la producción de conocimiento multi-métodos y experimental, que integra estudios cuantitativos y cualitativos a nivel longitudinal”.&lt;/p&gt;
+&lt;p&gt;La entrevista toca diferentes aspectos tales como su contribución en este proyecto, el desarrollo de este, algunos fenómenos y conclusiones que han logrado como equipo identificar en el estudio y las expectativas sobre el estudio. Además, Luciano señala su visión respecto al trabajo interdisciplinar tanto en este proyecto como en las Ciencias Sociales en general. Sobre esto destaca: “La promoción y desarrollo de proyectos interdisciplinarios permite incorporar nuevas dimensiones teóricas y metodológicas que enriquecen la aproximación a este tipo de problemas, así como en todo tipo de problemas en general, facilitando el desarrollo de nuevas interrogantes a través del diálogo entre diferentes disciplinas”.&lt;/p&gt;
+&lt;p&gt;Para ver la entrevista completa, ingresar al siguiente link: &lt;a href=&#34;https://www.udp.cl/luciano-saez-estudiante-del-doctorado-en-ciencias-sociales-fren%5B…%5Dmplejos-la-mirada-interdisciplinar-se-hace-necesaria-y-urgente/&#34;&gt;https://www.udp.cl/luciano-saez-estudiante-del-doctorado-en-ciencias-sociales-fren[…]mplejos-la-mirada-interdisciplinar-se-hace-necesaria-y-urgente/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Investigadora Ana Figueiredo participa en Congreso de Psicología en Buenos Aires</title>

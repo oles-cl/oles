@@ -5,12 +5,32 @@
     <link>www.oles.cl/event/</link>
       <atom:link href="www.oles.cl/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Eventos recientes y próximos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 17 Aug 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 02 May 2024 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Eventos recientes y próximos</title>
       <link>www.oles.cl/event/</link>
     </image>
+    
+    <item>
+      <title>Congreso de Sociología de Chile (Pre-Alas) 2024</title>
+      <link>www.oles.cl/event/congreso_sociologia_2024/</link>
+      <pubDate>Thu, 02 May 2024 13:00:00 +0000</pubDate>
+      <guid>www.oles.cl/event/congreso_sociologia_2024/</guid>
+      <description>&lt;p&gt;📊📄 Les invitamos a asistir a las presentaciones que como equipo OLES vamos a realizar en el marco del XII Congreso chileno de sociología 2024. Estaremos con presentaciones a lo largo del día viernes 3 de mayo en la Universidad Alberto Hurtado y en la Universidad Diego Portales. Nuestro panel y presentaciones son:&lt;/p&gt;
+&lt;p&gt;🚓📊 Panel 14: Policías y sociedad en el Chile contemporáneo
+17:15 – Sala E46, Universidad Alberto Hurtado.
+Presentadoras/es: Mónica Gerber (UDP), Macarena Orchard (UDP), Ana Figueiredo (UOH) y Luciano Sáez (UDP)&lt;/p&gt;
+&lt;p&gt;🗃️📊 GT18: Estados y violencias
+9:00 – Sala B31, Universidad Diego Portales.
+Presentación: Exceso y ausencia policial: percepciones sobre violencia y trato diferencial de Carabineros a diferentes grupos de la sociedad chilena
+Presentador: Luciano Sáez (UDP)&lt;/p&gt;
+&lt;p&gt;📄🗃️ GT18: Estados y violencia
+12:30 – Sala B31, Universidad Diego Portales
+Presentación: La politización de la inseguridad en Antofagasta. Sectores populares y su relación con la política ante el crimen y la migración.
+Presentador: Bruno Rojas (Uchile)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Seminario Internacional. Estrategias frente a la inseguridad en América Latina. Entre la gestión pública y la privada de la violencia</title>
