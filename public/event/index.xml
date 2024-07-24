@@ -5,12 +5,23 @@
     <link>www.oles.cl/event/</link>
       <atom:link href="www.oles.cl/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Eventos recientes y próximos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 02 May 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 25 Jul 2024 18:30:00 +0000</lastBuildDate>
     <image>
       <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Eventos recientes y próximos</title>
       <link>www.oles.cl/event/</link>
     </image>
+    
+    <item>
+      <title>Mapuche en el sur. La CAM y la justificación de la violencia.</title>
+      <link>www.oles.cl/event/seminario_cep/</link>
+      <pubDate>Thu, 25 Jul 2024 18:30:00 +0000</pubDate>
+      <guid>www.oles.cl/event/seminario_cep/</guid>
+      <description>&lt;p&gt;Tenemos el agrado de invitarle al seminario «Mapuche en el sur: la CAM y la justificación de la violencia», que abordará capítulos del libro «Mapuche en el sur de Chile. Sociedad e identidad», editado por Aldo Mascareño y Carmen Le Foulon.&lt;/p&gt;
+&lt;p&gt;En este encuentro contaremos con las intervenciones de Mónica Gerber, doctora en sociología, académica UDP e investigadora COES, y Jorge Vergara, doctor en sociología y académico UdeC.&lt;/p&gt;
+&lt;p&gt;El evento se realizará el jueves 25 de julio, a las 18:30 horas en el auditorio del CEP (Monseñor Sótero Sanz 162, Providencia – Metro Pedro de Valdivia).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Congreso de Sociología de Chile (Pre-Alas) 2024</title>
