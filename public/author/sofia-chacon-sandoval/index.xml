@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sofía Chacón Sandoval | OLES</title>
+    <link>www.oles.cl/author/sofia-chacon-sandoval/</link>
+      <atom:link href="www.oles.cl/author/sofia-chacon-sandoval/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sofía Chacón Sandoval</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <image>
+      <url>/www.oles.cl/author/sofia-chacon-sandoval/featured.jpg</url>
+      <title>Sofía Chacón Sandoval</title>
+      <link>www.oles.cl/author/sofia-chacon-sandoval/</link>
+    </image>
+    
+  </channel>
+</rss>
