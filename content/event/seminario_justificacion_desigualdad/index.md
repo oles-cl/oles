@@ -8,8 +8,8 @@ address:
   street: Vergara 275
 all_day: false
 authors: [nicolas_tobar]
-date: "2024-12-12T18:30:00Z"
-date_end: "2024-12-12T20:30:00Z"
+date: "2024-12-13T13:00:00Z"
+date_end: "2024-12-13T14:00:00Z"
 event: Justificación de la desigualdad. Antecedentes y Consecuencias
 event_url: https://zoom.us/meeting/register/tJYsdeqvqTwiH9NPOF0N14cl3SXeV6_hwDFT#/registration
 featured: false
