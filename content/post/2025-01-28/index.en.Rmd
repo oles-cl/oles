@@ -11,8 +11,6 @@ image:
 
 
 
-
-
 ![](featured.jpg)
-
+Hola.
 
