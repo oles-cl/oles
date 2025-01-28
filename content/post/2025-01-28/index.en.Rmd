@@ -9,7 +9,10 @@ image:
   focal_point: Right
 ---
 
-Hola
 
+
+
+
+![](featured.jpg)
 
 
