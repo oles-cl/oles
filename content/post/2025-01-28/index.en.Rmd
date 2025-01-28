@@ -5,7 +5,7 @@ date: 2025-01-28T10:13:14-05:00
 categories: ["Noticias"]
 tags: ["Noticias", "Fondos", "Investigación"]
 image:
-  caption: 'Fuente de imagen: UDP'
+  caption: 'Fuente de imagen: Reunión OLES'
   focal_point: Right
 ---
 
