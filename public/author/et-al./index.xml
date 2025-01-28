@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>et al. | OLES</title>
+    <link>www.oles.cl/author/et-al./</link>
+      <atom:link href="www.oles.cl/author/et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>et al.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <image>
+      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <title>et al.</title>
+      <link>www.oles.cl/author/et-al./</link>
+    </image>
+    
+    <item>
+      <title>Cultural Collectivism and Tightness Moderate Responses to Norm Violators: Effects on Power Perception, Moral Emotions, and Leader Support</title>
+      <link>www.oles.cl/publication/ja-ana1/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>www.oles.cl/publication/ja-ana1/</guid>
+      <description>&lt;p&gt;Responses to norm violators are poorly understood. On one hand, norm violators are perceived as powerful, which may help them to get ahead. On the other hand, norm violators evoke moral outrage, which may frustrate their upward social mobility. We addressed this paradox by considering the role of culture. Collectivistic cultures value group harmony and tight cultures value social order. We therefore hypothesized that collectivism and tightness moderate reactions to norm violators. We presented 2,369 participants in 19 countries with a norm violation or a norm adherence scenario. In individualistic cultures, norm violators were considered more powerful than norm abiders and evoked less moral outrage, whereas in collectivistic cultures, norm violators were considered less powerful and evoked more moral outrage. Moreover, respondents in tighter cultures expressed a stronger preference for norm followers as leaders. Cultural values thus influence responses to norm violators, which may have downstream consequences for violators’ hierarchical positions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Representations of history and present-day intergroup relations between indigenous and non-indigenous people: The Mapuche in Chile</title>
+      <link>www.oles.cl/publication/ja-ana2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>www.oles.cl/publication/ja-ana2/</guid>
+      <description>&lt;p&gt;Representations of history and present-day intergroup relations between indigenous and non-indigenous people: The Mapuche in Chile&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

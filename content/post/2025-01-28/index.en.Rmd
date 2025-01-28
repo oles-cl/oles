@@ -1,0 +1,15 @@
+---
+title: "Jornada OLES y proyecciones 2025"
+authors: [matias_deneken]
+date: 2025-01-28T10:13:14-05:00
+categories: ["Noticias"]
+tags: ["Noticias", "Fondos", "Investigación"]
+image:
+  caption: 'Fuente de imagen: UDP'
+  focal_point: Right
+---
+
+Hola
+
+
+
