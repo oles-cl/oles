@@ -35,7 +35,7 @@ main:
   - name: ESEP-NP 
     parent: repositorio
     url: esep-np
-    weight: 48    
+    weight: 49    
   - name: Líneas de trabajo
     url: lineas
     weight: 40
