@@ -2,7 +2,7 @@
 type: widget_page
 ---
 
-## Estudio No Probablilístico
+## ## Estudio de Percepciones de Seguridad y Policías en Chile - No Probabilístoco (2024-2026)
 
 
 Próximamente....
