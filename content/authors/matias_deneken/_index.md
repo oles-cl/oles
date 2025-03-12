@@ -50,4 +50,4 @@ user_groups:
 - Asistentes de investigación
 ---
 
-Sociólogo, Magíster en Sociología y candidato a Magíster en Data Science. Actualmente desempeña labores en investigación social aplicada en el Centro CIIR y OLES, con temáticas vinculadas a interculturalidad y violencia.
+Sociólogo, Magíster en Sociología y candidato a Magíster en Data Science. Actualmente desempeña labores en investigación social aplicada en el Centro CIIR y OLES, con temáticas vinculadas a interculturalidad y violencia. Dentro de sus méritos académicos fue Premio Universidad de Concepción, Becario ANID - Magíster Nacional y es beneficiario del programa Fulbright para iniciar un PhD en Estados Unidos.
