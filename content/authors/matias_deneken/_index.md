@@ -20,7 +20,7 @@ organizations:
   url: "coes.cl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sociólogo, Magíster en Sociología y candidato a Magíster en Data Science. Actualmente desempeña labores en investigación social aplicada en el Centro CIIR y OLES, con temáticas vinculadas a interculturalidad y violencia.
+bio: Sociólogo, Magíster en Sociología y candidato a Magíster en Data Science. Actualmente desempeña labores en investigación social aplicada en el Centro CIIR y OLES, con temáticas vinculadas a interculturalidad y violencia.  Dentro de sus méritos académicos fue Premio Universidad de Concepción, Becario ANID - Magíster Nacional y es beneficiario del programa Fulbright para iniciar un PhD en Estados Unidos.
 
 interests:
 - Relaciones Intergrupales
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Licenciatura en Sociología
+  - course: Sociólogo
     institution: Universidad de Concepción
   - course: Magíster en Sociología
     institution: Pontificia Universidad Católica de Chile

@@ -47,9 +47,9 @@ social:
   link: https://github.com/Rosario-Astorga
 
 user_groups:
-- Asistentes de investigación
+- Asistentes de investigación anteriores
 ---
 
-Asistente cuantitativo de investigación en OLES. Socióloga con Minor en Antropología de la Universidad Alberto Hurtado y estudiante de Diplomado de Data Science de la Pontificia Universidad Católica de Chile. Ella está interesada en áreas que requieran la aplicación de modelos estadísticos, visualización y análisis de datos. Además, tiene un gran interés en los estudios de género, la marginalidad urbana, la desigualdad social y las relaciones laborales desde la perspectiva del feminismo de datos..
+Asistente cuantitativo de investigación en OLES. Socióloga con Minor en Antropología de la Universidad Alberto Hurtado y estudiante de Diplomado de Data Science de la Pontificia Universidad Católica de Chile. Ella está interesada en áreas que requieran la aplicación de modelos estadísticos, visualización y análisis de datos. Además, tiene un gran interés en los estudios de género, la marginalidad urbana, la desigualdad social y las relaciones laborales desde la perspectiva del feminismo de datos.
 
 
