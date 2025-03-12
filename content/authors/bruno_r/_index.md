@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Matías Deneken
+title: Bruno Rojas
 
 # Username (this should match the folder name)
 authors:
-- matias_deneken
+- bruno_r
 
 weight: 2
 
@@ -12,11 +12,11 @@ weight: 2
 superuser: false
 
 # Role/position
-role: Sociólogo
+role: Licenciado en Historia y Sociólogo
 
 # Organizations/Affiliations
 organizations:
-- name: Asistente de Investigación en el área cuantitativa
+- name: Asistente de Investigación 
   url: "coes.cl"
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,10 +39,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: matdknu@gmail.com
-- icon: github
-  icon_pack: fab
-  link: https://github.com/matdknu
+  link: bruno.rojas@gmail.com
+
 
 user_groups:
 - Asistentes de investigación
