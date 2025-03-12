@@ -7,12 +7,7 @@ role: Profesor Asociado, Escuela de Gobierno, Universidad Central.
 organizations:
 - name: Universidad Central
   url: https://www.ucentral.cl/
-bio: "Es sociólogo, y se ha desempeñado como académico e investigador en distintas
-  instituciones nacionales e internacionales, publicando en revistas como Social Forces,
-  Social Movement Studies, Feminist Economics, o la Revista Internacional de Sociología.
-  Actualmente es Investigador Responsable del proyecto Fondecyt Regular \"Legitimation,
-  ideology, and contentious collective action\", y Co-Investigador del proyecto Fondecyt
-  Regular \"From Compliance to Resistance\"."
+bio: Es sociólogo, y se ha desempeñado como académico e investigador en distintas instituciones nacionales e internacionales, publicando en revistas como Social Forces, Social Movement Studies, Feminist Economics, o la Revista Internacional de Sociología. Actualmente es Investigador Responsable del proyecto Fondecyt Regular Legitimation, ideology, and contentious collective action, y Co-Investigador del proyecto Fondecyt Regular From Compliance to Resistance.
 interests:
 - Legitimación del orden y la ideología
 - Acción colectiva y los conflictos políticos
@@ -36,6 +31,5 @@ social:
   link: ismael.puga@gmail.com
 user_groups: Investigadores asociados
 ---
-
 
 Es sociólogo, y se ha desempeñado como académico e investigador en distintas instituciones nacionales e internacionales, publicando en revistas como Social Forces, Social Movement Studies, Feminist Economics, o la Revista Internacional de Sociología. Actualmente es Investigador Responsable del proyecto Fondecyt Regular "Legitimation, ideology, and contentious collective action", y Co-Investigador del proyecto Fondecyt Regular "From Compliance to Resistance".
