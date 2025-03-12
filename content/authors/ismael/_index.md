@@ -1,35 +1,46 @@
 ---
-title: "Ismael Puga"
-authors: ismael
-weight: 2
+# Display name
+title: Ismael Puga
+
+# Username (this should match the folder name)
+authors:
+- ismael
+
+weight: 2 
+
+# Is this the primary user of the site?
 superuser: false
-role: Profesor Asociado, Escuela de Gobierno, Universidad Central.
+
+# Role/position
+role: Research Fellow de la Facultad de Sociología de Universität Bielefeld
+
+# Organizations/Affiliations
 organizations:
-- name: Universidad Central
-  url: https://www.ucentral.cl/
-bio: Es sociólogo, y se ha desempeñado como académico e investigador en distintas instituciones nacionales e internacionales, publicando en revistas como Social Forces, Social Movement Studies, Feminist Economics, o la Revista Internacional de Sociología. Actualmente es Investigador Responsable del proyecto Fondecyt Regular Legitimation, ideology, and contentious collective action, y Co-Investigador del proyecto Fondecyt Regular From Compliance to Resistance.
+- name: Universidad de Chile
+  url: "https://www.uchile.cl/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: Research Fellow de la Facultad de Sociología de Universität Bielefeld. Sociólogo de la Universidad de Chile. Sus líneas de interés están enfocadas en temas de desigualdades sociales, justicia social, mercados laborales y conflictos políticos. Tiene un fuerte interés en la investigación social cuantitativa, la inferencia causal y la sociología analítica.
+
 interests:
-- Legitimación del orden y la ideología
-- Acción colectiva y los conflictos políticos
-- Justificación de la violencia y la relación entre la población y la policía
-- Clase social, estratificación y desigualdad
-- Métodos de investigación cuantitativos y mixtos
-- Teoría social crítica
-- Sociología analítica
+- Desigualdades sociales
+- Justicia social
+- Mercados laborales
+- Conflictos políticos
+
+
 education:
   courses:
-  - course: Doctor en Sociología
-    institution: Universidad Humboldt de Berlín
-  - course: Licenciado en Sociología
+  - course: Sociólogo
     institution: Universidad de Chile
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: ismael.puga@ucentral.cl
-- icon: envelope
-  icon_pack: fas
-  link: ismael.puga@gmail.com
-user_groups: Investigadores asociados
----
+  link:  cristobalmoya@gmail.com
 
-Es sociólogo, y se ha desempeñado como académico e investigador en distintas instituciones nacionales e internacionales, publicando en revistas como Social Forces, Social Movement Studies, Feminist Economics, o la Revista Internacional de Sociología. Actualmente es Investigador Responsable del proyecto Fondecyt Regular "Legitimation, ideology, and contentious collective action", y Co-Investigador del proyecto Fondecyt Regular "From Compliance to Resistance".
+user_groups:
+- Investigadores asociados
+---
+Research Fellow de la Facultad de Sociología de Universität Bielefeld. Sociólogo de la Universidad de Chile. Sus líneas de interés están enfocadas en temas de desigualdades sociales, justicia social, mercados laborales y conflictos políticos. Tiene un fuerte interés en la investigación social cuantitativa, la inferencia causal y la sociología analítica.
+
