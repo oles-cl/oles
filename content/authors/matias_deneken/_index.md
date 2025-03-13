@@ -24,10 +24,9 @@ bio: Sociólogo, Magíster en Sociología y candidato a Magíster en Data Scienc
 
 interests:
 - Relaciones Intergrupales
-- Legitimación de la Violencia
 - Historia de la Sociología Chilena
-- Ecuaciones estructurales
 - Ciencias Sociales Computacionales
+- Text as data
 
 education:
   courses:
