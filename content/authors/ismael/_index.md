@@ -12,28 +12,27 @@ weight: 2
 superuser: false
 
 # Role/position
-role: Profesor Asociado, Escuela de Gobierno Universidad Central
+role: Profesor Asociado, Universidad Central
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad Central
-  url: "https://www.ucentral.cl/"
+  url: "https://www.ucn.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Es sociólogo, y se ha desempeñado como académico e investigador en distintas   instituciones nacionales e internacionales, publicando en revistas como Social Forces,   Social Movement Studies, Feminist Economics, o la Revista Internacional de Sociología.   Actualmente es Investigador Responsable del proyecto Fondecyt Regular \"Legitimation,   ideology, and contentious collective action\", y Co-Investigador del proyecto Fondecyt   Regular \"From Compliance to Resistance\".
+bio: Doctor en Sociología de la Universidad Humboldt de Berlín, Alemania. Sociólogo, Universidad Alberto Hurtado. Maestría en Ciencias Sociales en FLACSO.
 
 interests:
-- Legitimación del orden y la ideología
-- Acción colectiva y los conflictos políticos
-- Métodos de investigación cuantitativos y mixtos
-- Teoría social crítica
-- Sociología analítica
+- Acción Colectiva
+- Legitimación de desigualdades
+- Ideología
+- Cambio social
+
 
 education:
+  courses:
   - course: Doctor en Sociología
     institution: Universidad Humboldt de Berlín
-  - course: Licenciado en Sociología
-    institution: Universidad de Chile
 
 social:
 - icon: envelope
@@ -44,8 +43,5 @@ user_groups:
 - Investigadores asociados
 ---
 
-Es sociólogo, y se ha desempeñado como académico e investigador en distintas   instituciones nacionales e internacionales, publicando en revistas como Social Forces,   Social Movement Studies, Feminist Economics, o la Revista Internacional de Sociología.   Actualmente es Investigador Responsable del proyecto Fondecyt Regular \"Legitimation,   ideology, and contentious collective action\", y Co-Investigador del proyecto Fondecyt   Regular \"From Compliance to Resistance\".
-
-
-
+Doctor en Sociología de la Universidad Humboldt de Berlín, Alemania. Sociólogo, Universidad Alberto Hurtado. Maestría en Ciencias Sociales en FLACSO.
 

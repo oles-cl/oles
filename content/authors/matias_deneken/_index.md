@@ -35,7 +35,7 @@ education:
     institution: Universidad de Concepción
   - course: Magíster en Sociología
     institution: Pontificia Universidad Católica de Chile
-  - course: Candidato a Magíster en Data Science
+  - course: Magíster en Data Science
     institution: Universidad de Concepción
     
 social:
