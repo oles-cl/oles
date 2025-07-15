@@ -1,7 +1,7 @@
 ---
 title: "Mónica Gerber en Radio ADN:  El Estado de Excepción no puede ser la norma"
 authors: [matias_deneken, monica]
-date: 2025-03-07T10:13:14-05:00
+date: 2025-07-07T10:13:14-05:00
 categories: ["Noticias"]
 tags: ["Noticias", "Fondos", "Investigación"]
 image:

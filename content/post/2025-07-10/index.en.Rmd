@@ -1,7 +1,7 @@
 ---
 title: "OLES en el Congreso ISPP 2025"
 authors: [matias_deneken, bruno_r]
-date: 2025-05-08T10:13:14-05:00
+date: 2025-07-10T10:13:14-05:00
 categories: ["Noticias"]
 tags: ["Noticias"]
 image:
