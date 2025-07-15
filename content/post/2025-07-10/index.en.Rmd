@@ -1,11 +1,11 @@
 ---
 title: "OLES en el Congreso ISPP 2025"
-authors: [matias_deneken, monica, bruno_r]
-date: 2025-05-07T10:13:14-05:00
+authors: [matias_deneken, bruno_r]
+date: 2025-05-08T10:13:14-05:00
 categories: ["Noticias"]
-tags: ["Noticias", "Fondos", "Investigación"]
+tags: ["Noticias"]
 image:
-  caption: 'Fuente de imagen: Mónica Gerber'
+  caption: 'Fuente de imagen: OLES'
   focal_point: Right
 ---
 
