@@ -2,7 +2,7 @@
 type: widget_page
 ---
 
-## Estudio de Percepciones de Seguridad y Policías en Chile - No Probabilístico (2024-2026)
+## Estudio Panel de Percepciones de Seguridad y Policías en Chile  (2024-2026)
 
 
 Próximamente novedades...
@@ -46,7 +46,7 @@ Próximamente novedades...
   <body>
     <a class="button" href="https://support.heberjahiz.com/hc/article_attachments/21013076295570" aria-label="Learn about the HTML button tag" target="_blank">
       <span class="icon">📖</span>
-      <span>Ver Manual Metodológico Encuesta ESEP - NP</span>
+      <span>Ver Manual Metodológico Encuesta EPSEP </span>
     </a>
   </body>
 </html>

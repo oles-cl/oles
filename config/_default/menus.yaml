@@ -32,9 +32,9 @@ main:
     parent: repositorio
     url: esep
     weight: 48
-  - name: ESEP-NP 
+  - name: EPSEP 
     parent: repositorio
-    url: esep-np
+    url: epsep
     weight: 49    
   - name: Líneas de trabajo
     url: lineas
