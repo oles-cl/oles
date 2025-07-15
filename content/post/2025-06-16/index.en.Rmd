@@ -1,0 +1,19 @@
+---
+title: "Investigadora OLES en el podcast Tras las Líneas"
+authors: [matias_deneken, bruno_r]
+date: 2025-06-16T10:13:14-05:00
+categories: ["Noticias"]
+tags: ["Noticias", "Fondos", "Investigación"]
+image:
+  caption: 'Fuente de imagen: Macarena Orchard'
+  focal_point: Right
+---
+
+
+La investigadora del Observatorio de Desigualdades, académica de la Escuela de Sociología y directora del Magíster en Métodos para la Investigación Social UDP, Macarena Orchard, fue invitada al podcast Tras las Líneas, conducido por el sociólogo Manuel Antonio Garretón.
+
+En el capítulo titulado “Desigualdad y dignidad” —estrenado el 10 de junio— conversan sobre cómo la desigualdad no solo se expresa en lo material, sino también en las experiencias cotidianas de trato injusto, reconocimiento y dignidad. Una conversación profunda y muy contingente.
+
+Revisa el episodio completo en YouTube: https://t.ly/yFqEz
+
+![](featured.jpg)
