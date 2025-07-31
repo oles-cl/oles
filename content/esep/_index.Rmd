@@ -41,6 +41,6 @@ Para conocer los resultados y especificidades metodológicas de la ola 0, el usu
         Descargar Reporte ESEP ola 0
     </a>
 
-    <p><strong>Advertencia:</strong> ESEP no prosperó como encuesta longitudinal y los datos obtenidos solo corresponden al reclutamiento. El Estudio Panel de Percepciones de Seguridad y Policías en Chile (EPSEP) iniciado desde noviembre 2024 y ha finalizar en enero de 2026 considero una diseño longitudinal, aunque con muestras y técnicas recolección distintas </p>
+    <p><strong>Advertencia:</strong> ESEP no prosperó como una encuesta longitudinal y los datos obtenidos solo corresponden al reclutamiento. El Estudio Panel de Percepciones de Seguridad y Policías en Chile (EPSEP) iniciado desde noviembre 2024 y ha finalizar en enero de 2026 consideró una diseño longitudinal, aunque con muestras y técnicas recolección distintas </p>
 </body>
 </html>
