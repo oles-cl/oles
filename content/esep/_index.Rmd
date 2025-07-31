@@ -2,7 +2,7 @@
 type: widget_page
 ---
 
-## Estudio de Percepciones de Seguridad y Policías en Chile 2023-2024.
+## Estudio de Percepciones de Seguridad y Policías en Chile (2023).
 
 El Estudio de Percepciones de Seguridad y Policías de Chile (ESEP), diseñado por el Observatorio de Violencia y Legitimidad Social, tiene como objetivo conocer las percepciones de la ciudadanía sobre la delincuencia en el país y la manera en que las personas se vinculan con las policías.
 

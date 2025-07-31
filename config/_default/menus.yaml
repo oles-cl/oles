@@ -28,7 +28,7 @@ main:
     parent: repositorio
     url: study
     weight: 47
-  - name: ESEP 2023
+  - name: ESEP 
     parent: repositorio
     url: esep
     weight: 48
