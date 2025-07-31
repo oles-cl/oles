@@ -28,11 +28,11 @@ main:
     parent: repositorio
     url: study
     weight: 47
-  - name: ESEP 2023-2025
+  - name: ESEP 2023
     parent: repositorio
     url: esep
     weight: 48
-  - name: EPSEP 
+  - name: EPSEP 2024 - 2026
     parent: repositorio
     url: epsep
     weight: 49    
