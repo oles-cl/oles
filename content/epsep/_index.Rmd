@@ -6,7 +6,7 @@ type: widget_page
 
 
 
-## Informe EPSA: Ola 1 a ola 4.
+## Informe EPSEP: Ola 1 a ola 4.
 
 <div style="display: flex; justify-content: center;">
   <iframe width="800" height="400" marginheight="0" marginwidth="0" src="https://olescl.quarto.pub/presentacion/presentacion-quarto.html#/title-slide/"></iframe>
