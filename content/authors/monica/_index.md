@@ -12,15 +12,14 @@ weight: 1
 superuser: false
 
 # Role/position
-role: Profesora titular, Universidad Diego Portales
+role: Profesor, Escuela de Gobierno UC
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Diego Portales
-  url: "https://psicologia.udp.cl/?persona=monica-gerber-pluss"
+- name: Pontificia Universidad Católica de Chile
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesora titular de la Facultad de Psicología de la Universidad Diego Portales. Socióloga de la Universidad de Chile y Doctora en Métodos de Investigación Social de la London School of Economics and Political Science, Reino Unido. Actualmente es investigadora asociada del Centro de Estudios de Conflicto y Cohesión Social (COES). Sus líneas de interés están enfocadas en temas de psicología social y política, relaciones intergrupales, ideologías políticas, actitudes hacia la justicia social y la desigualdad, el castigo de delincuentes y la violencia intergrupal. Tiene un fuerte interés en las metodologías cuantitativas y experimentales de investigación, así como en el análisis cuantitativo de datos.
+bio: Profesora de la Escuela de Gobierno de la Pontificia Universidad Católica de Chile. Socióloga de la Universidad de Chile y Doctora en Métodos de Investigación Social de la London School of Economics and Political Science, Reino Unido. Actualmente es investigadora asociada del Centro de Estudios de Conflicto y Cohesión Social (COES). Sus líneas de interés están enfocadas en temas de psicología social y política, relaciones intergrupales, ideologías políticas, actitudes hacia la justicia social y la desigualdad, el castigo de delincuentes y la violencia intergrupal. Tiene un fuerte interés en las metodologías cuantitativas y experimentales de investigación, así como en el análisis cuantitativo de datos.
 
 interests:
 - Actitudes hacia la Justicia Social
@@ -47,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link:  "mailto:mgerber@udp.cl"
+  link:  "mailto:mgerber@uc.cl"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/monica_gerber?lang=en
@@ -72,6 +71,6 @@ user_groups:
 - Directora
 ---
 
-Profesora titular de la Facultad de Psicología de la Universidad Diego Portales. Socióloga de la Universidad de Chile y Doctora en Métodos de Investigación Social de la London School of Economics and Political Science, Reino Unido. Actualmente es investigadora asociada del Centro de Estudios de Conflicto y Cohesión Social (COES). Sus líneas de interés están enfocadas en temas de psicología social y política, relaciones intergrupales, ideologías políticas, actitudes hacia la justicia social y la desigualdad, el castigo de delincuentes y la violencia intergrupal. Tiene un fuerte interés en las metodologías cuantitativas y experimentales de investigación, así como en el análisis cuantitativo de datos.
+Profesora de la Escuela de Gobierno de la Pontificia Universidad Católica de Chile. Socióloga de la Universidad de Chile y Doctora en Métodos de Investigación Social de la London School of Economics and Political Science, Reino Unido. Actualmente es investigadora asociada del Centro de Estudios de Conflicto y Cohesión Social (COES). Sus líneas de interés están enfocadas en temas de psicología social y política, relaciones intergrupales, ideologías políticas, actitudes hacia la justicia social y la desigualdad, el castigo de delincuentes y la violencia intergrupal. Tiene un fuerte interés en las metodologías cuantitativas y experimentales de investigación, así como en el análisis cuantitativo de datos.
 
 
