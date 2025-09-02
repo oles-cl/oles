@@ -1,0 +1,28 @@
+---
+title: "Seminario: ¿Por qué obecemos e invocamos la ley?"
+subtitle: "Invitados internacionales de LSE y UCL y resultados preliminares del Estudio Panel de Percepciones de Seguridad y Policía"
+authors: [matias_deneken]
+date: 2025-09-02T10:09:14-05:00
+categories: ["Noticias"]
+tags: ["Noticias", "Fondos", "Investigación"]
+image:
+  caption: 'Fuente de imagen: Eventos OLES'
+  focal_point: Right
+---
+
+El jueves 28 de agosto de 2025 se llevó a cabo el seminario “¿Por qué obedecemos e invocamos la ley?” en el Centro de Extensión de la Pontificia Universidad Católica de Chile. El evento fue organizado por el Observatorio de Violencia y Legitimidad Social (OLES) y el Centro de Estudios de Conflicto y Cohesión Social (COES).
+
+La actividad contó con la participación de Mónica Gerber, directora de OLES; Jonathan Jackson, académico de la London School of Economics; Ben Bradford, académico de la University College London; Lucía Dammert, académica de la Universidad de Santiago de Chile; y Ana Figueiredo, académica de la Universidad de O’Higgins.
+
+El seminario fue una instancia para presentar los resultados preliminares del Estudio Panel de Percepciones de Seguridad y Policía, un estudio longitudinal que busca comprender las percepciones de seguridad y la legitimidad policial en Chile. Además, Ben Bradford y Jonathan Jackson expusieron sus investigaciones sobre la relación entre policía y comunidad en el Reino Unido, mientras que Lucía Dammert actuó como comentadora de las presentaciones.
+
+Finalmente, se abrió un espacio de preguntas y discusión, que permitió un intercambio enriquecedor entre los expositores y el público asistente.
+
+Aquí algunas fotos del evento:
+
+![](foto1.jpg){width="320"} ![](foto2.jpg){width="321"} 
+![](foto3.jpg){width="320"} ![](foto4.jpg){width="321"}
+![](foto6.JPG){width="320"} ![](foto7.JPG){width="321"}
+![](foto8.JPG){width="320"} ![](foto9.JPG){width="321"}
+
+![](featured.jpg){width="700"}
