@@ -1,33 +1,17 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: OLES  # Website name
-baseurl: 'www.oles.cl' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
-
-############################
-## LANGUAGE
-############################
+title: OLES
+baseURL: "https://www.oles.cl/"
+copyright: ""
 
 defaultContentLanguage: es
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-############################
-## MODULES
-############################
+canonifyURLs: true
 
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
-
-############################
-## ADVANCED
-############################
 
 enableGitInfo: false
 summaryLength: 30
@@ -74,3 +58,4 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
