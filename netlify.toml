@@ -3,6 +3,7 @@
   publish = "public"
 
 [build.environment]
+  # Sube la versión si tu tema lo requiere (0.83.1 es antigua para Wowchemy recientes)
   HUGO_VERSION = "0.83.1"
   HUGO_ENABLEGITINFO = "true"
 
@@ -19,3 +20,45 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+###############################################
+## REDIRECTS: forzar dominio propio siempre  ##
+###############################################
+
+# 1) Cualquier visita al subdominio Netlify → www.oles.cl
+#    Reemplaza 'oles2' por tu subdominio real si es otro
+[[redirects]]
+  from = "/*"
+  to = "https://www.oles.cl/:splat"
+  status = 301
+  force = true
+  conditions = { Host = ["oles2.netlify.app"] }
+
+# 2) Apex → www (consolida todo en www.oles.cl)
+[[redirects]]
+  from = "http://oles.cl/*"
+  to = "https://www.oles.cl/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://oles.cl/*"
+  to = "https://www.oles.cl/:splat"
+  status = 301
+  force = true
+
+# (opcional) Si tuvieses otros subdominios Netlify, repite un bloque como el #1 cambiando 'Host'
+
+###############################################
+## HEADERS (opcional pero recomendado)       ##
+###############################################
+
+# Fuerza HTTPS en navegadores (HSTS) y protege framing
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
