@@ -12,7 +12,7 @@ weight: 1
 superuser: false
 
 # Role/position
-role: Profesor, Escuela de Gobierno
+role: Profesora, Escuela de Gobierno
 
 # Organizations/Affiliations
 organizations:
