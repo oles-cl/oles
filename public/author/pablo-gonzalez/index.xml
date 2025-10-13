@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pablo Gonzalez | OLES</title>
-    <link>www.oles.cl/author/pablo-gonzalez/</link>
-      <atom:link href="www.oles.cl/author/pablo-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.oles.cl/author/pablo-gonzalez/</link>
+      <atom:link href="https://www.oles.cl/author/pablo-gonzalez/index.xml" rel="self" type="application/rss+xml" />
     <description>Pablo Gonzalez</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Pablo Gonzalez</title>
-      <link>www.oles.cl/author/pablo-gonzalez/</link>
+      <link>https://www.oles.cl/author/pablo-gonzalez/</link>
     </image>
     
     <item>
       <title>Bienestar Subjetivo: El Desafío De Repensar El Desarrollo</title>
-      <link>www.oles.cl/publication/ja-maca5/</link>
+      <link>https://www.oles.cl/publication/ja-maca5/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>www.oles.cl/publication/ja-maca5/</guid>
+      <guid>https://www.oles.cl/publication/ja-maca5/</guid>
       <description>&lt;p&gt;Spanish Abstract: Hoy está en marcha una conversación pública global relativa al desarrollo. Diversos actores plantean cada vez más la necesidad de poner atención a otras dimensiones además del crecimiento económico (o del modo tradicional de concebirlo), lo cual implica afinar los objetivos, los puntos de llegada, el horizonte normativo, incluso las mediciones estadísticas; obliga a asumir en la acción pública aquello que “importa en última instancia” cuando se aspira al desarrollo.&lt;/p&gt;
 </description>
     </item>

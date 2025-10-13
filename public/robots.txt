@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: www.oles.cl/sitemap.xml
+Sitemap: https://www.oles.cl/sitemap.xml

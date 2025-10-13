@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academia | OLES</title>
-    <link>www.oles.cl/tag/academia/</link>
-      <atom:link href="www.oles.cl/tag/academia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.oles.cl/tag/academia/</link>
+      <atom:link href="https://www.oles.cl/tag/academia/index.xml" rel="self" type="application/rss+xml" />
     <description>Academia</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Mon, 13 May 2024 21:13:14 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Mon, 13 May 2024 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Academia</title>
-      <link>www.oles.cl/tag/academia/</link>
+      <link>https://www.oles.cl/tag/academia/</link>
     </image>
     
     <item>
       <title>OLES publica columna de opinión sobre los hallazgos de ESEP, ola 0</title>
-      <link>www.oles.cl/post/2024-06-07/</link>
+      <link>https://www.oles.cl/post/2024-06-07/</link>
       <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-06-07/</guid>
+      <guid>https://www.oles.cl/post/2024-06-07/</guid>
       <description>
 
 
@@ -30,9 +30,9 @@
     
     <item>
       <title>¡Equipo OLES publica nuevo artículo! Significados atribuidos a la investigación en estudiantes de pregrado. la experiencia de participación en un observatorio de investigación universitario</title>
-      <link>www.oles.cl/post/2024-05-14/</link>
+      <link>https://www.oles.cl/post/2024-05-14/</link>
       <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-05-14/</guid>
+      <guid>https://www.oles.cl/post/2024-05-14/</guid>
       <description>
 
 
@@ -48,9 +48,9 @@
     
     <item>
       <title>OLES en el XII Congreso chileno de sociología 2024</title>
-      <link>www.oles.cl/post/2024-05-06/</link>
+      <link>https://www.oles.cl/post/2024-05-06/</link>
       <pubDate>Mon, 06 May 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-05-06/</guid>
+      <guid>https://www.oles.cl/post/2024-05-06/</guid>
       <description>
 
 

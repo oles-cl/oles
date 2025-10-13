@@ -2,21 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matías Deneken | OLES</title>
-    <link>www.oles.cl/author/matias-deneken/</link>
-      <atom:link href="www.oles.cl/author/matias-deneken/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.oles.cl/author/matias-deneken/</link>
+      <atom:link href="https://www.oles.cl/author/matias-deneken/index.xml" rel="self" type="application/rss+xml" />
     <description>Matías Deneken</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 10 Jul 2025 10:13:14 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Tue, 02 Sep 2025 07:00:00 -0400</lastBuildDate>
     <image>
-      <url>/www.oles.cl/author/matias-deneken/avatar_hu7a96b8e5b121dc5279c4d6bff5140ace_240327_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://www.oles.cl/author/matias-deneken/avatar_hu7a96b8e5b121dc5279c4d6bff5140ace_240327_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Matías Deneken</title>
-      <link>www.oles.cl/author/matias-deneken/</link>
+      <link>https://www.oles.cl/author/matias-deneken/</link>
     </image>
     
     <item>
+      <title>Seminario: ¿Por qué obecemos e invocamos la ley?</title>
+      <link>https://www.oles.cl/post/2025-09-02/</link>
+      <pubDate>Tue, 02 Sep 2025 07:00:00 -0400</pubDate>
+      <guid>https://www.oles.cl/post/2025-09-02/</guid>
+      <description>
+
+
+&lt;p&gt;El jueves 28 de agosto de 2025 se llevó a cabo el seminario “¿Por qué obedecemos e invocamos la ley?” en el Centro de Extensión de la Pontificia Universidad Católica de Chile. El evento fue organizado por el Observatorio de Violencia y Legitimidad Social (OLES) y el Centro de Estudios de Conflicto y Cohesión Social (COES).&lt;/p&gt;
+&lt;p&gt;La actividad contó con la participación de Monica Gerber, directora de OLES y académica de la Escuela de Gobierno de la Pontificia Universidad Católica de Chile; Jonathan Jackson, académico de la London School of Economics; Ben Bradford, académico de la University College London; Lucía Dammert, académica de la Universidad de Santiago de Chile; y Ana Figueiredo, subdirectora de OLES y académica del Instituto de Ciencias Sociales en la Universidad de O’Higgins.&lt;/p&gt;
+&lt;p&gt;El seminario fue una instancia para presentar los resultados preliminares del Estudio Panel de Percepciones de Seguridad y Policía, un estudio longitudinal que busca comprender las percepciones de seguridad y la legitimidad policial en Chile. Además, Ben Bradford y Jonathan Jackson expusieron sus investigaciones sobre la relación entre policía y comunidad en el Reino Unido, mientras que Lucía Dammert actuó como comentadora de las presentaciones.&lt;/p&gt;
+&lt;p&gt;Finalmente, se abrió un espacio de preguntas y discusión, que permitió un intercambio enriquecedor entre los expositores y el público asistente.&lt;/p&gt;
+&lt;p&gt;Aquí algunas fotos del evento:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;foto1.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto2.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto3.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto4.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto6.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto7.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto8.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto9.JPG&#34; width=&#34;700&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.JPG&#34; width=&#34;700&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OLES en el Congreso ISPP 2025</title>
-      <link>www.oles.cl/post/2025-07-10/</link>
+      <link>https://www.oles.cl/post/2025-07-10/</link>
       <pubDate>Thu, 10 Jul 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-07-10/</guid>
+      <guid>https://www.oles.cl/post/2025-07-10/</guid>
       <description>
 
 
@@ -36,9 +61,9 @@
     
     <item>
       <title>Mónica Gerber en Radio ADN:  El Estado de Excepción no puede ser la norma</title>
-      <link>www.oles.cl/post/2025-07-05/</link>
+      <link>https://www.oles.cl/post/2025-07-05/</link>
       <pubDate>Mon, 07 Jul 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-07-05/</guid>
+      <guid>https://www.oles.cl/post/2025-07-05/</guid>
       <description>
 
 
@@ -54,9 +79,9 @@
     
     <item>
       <title>Investigadora OLES en el podcast Tras las Líneas</title>
-      <link>www.oles.cl/post/2025-06-16/</link>
+      <link>https://www.oles.cl/post/2025-06-16/</link>
       <pubDate>Mon, 16 Jun 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-06-16/</guid>
+      <guid>https://www.oles.cl/post/2025-06-16/</guid>
       <description>
 
 
@@ -69,9 +94,9 @@
     
     <item>
       <title>Equipo OLES en LASA 2025</title>
-      <link>www.oles.cl/post/2025-05-26/</link>
+      <link>https://www.oles.cl/post/2025-05-26/</link>
       <pubDate>Mon, 26 May 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-05-26/</guid>
+      <guid>https://www.oles.cl/post/2025-05-26/</guid>
       <description>
 
 
@@ -98,9 +123,9 @@
     
     <item>
       <title>Taller “Policía y Márgenes Urbanos: Perspectivas interseccionales de investigación”</title>
-      <link>www.oles.cl/post/2025-04-09/</link>
+      <link>https://www.oles.cl/post/2025-04-09/</link>
       <pubDate>Wed, 09 Apr 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-04-09/</guid>
+      <guid>https://www.oles.cl/post/2025-04-09/</guid>
       <description>
 
 
@@ -117,9 +142,9 @@
     
     <item>
       <title>Jornada OLES y proyecciones 2025</title>
-      <link>www.oles.cl/post/2025-01-28/</link>
+      <link>https://www.oles.cl/post/2025-01-28/</link>
       <pubDate>Tue, 28 Jan 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-01-28/</guid>
+      <guid>https://www.oles.cl/post/2025-01-28/</guid>
       <description>
 
 
@@ -134,9 +159,9 @@
     
     <item>
       <title>Asistentes de Investigación de OLES obtienen Beca de Doctorado FullBright 📢</title>
-      <link>www.oles.cl/post/2024-12-04/</link>
+      <link>https://www.oles.cl/post/2024-12-04/</link>
       <pubDate>Wed, 04 Dec 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-12-04/</guid>
+      <guid>https://www.oles.cl/post/2024-12-04/</guid>
       <description>
 
 
@@ -149,9 +174,9 @@
     
     <item>
       <title>OLES en el XII Congreso chileno de sociología 2024</title>
-      <link>www.oles.cl/post/2024-05-06/</link>
+      <link>https://www.oles.cl/post/2024-05-06/</link>
       <pubDate>Mon, 06 May 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-05-06/</guid>
+      <guid>https://www.oles.cl/post/2024-05-06/</guid>
       <description>
 
 
@@ -207,6 +232,21 @@ contexto de Antofagasta.&lt;/p&gt;
 Prometen continuar fomentando la investigación en el ámbito policial desde una
 perspectiva interdisciplinaria y multimétodo.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;public.jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigador OLES Claudio Fuentes asiste a CNN Chile</title>
+      <link>https://www.oles.cl/post/2025-10-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.oles.cl/post/2025-10-10/</guid>
+      <description>
+
+
+&lt;p&gt;El día 7 de octubre de 2025, Claudio Fuentes—investigador OLES y director del ICSO-UDP—fue a Tolerancia Cero (CNN Chile) para analizar la carrera presidencial.&lt;/p&gt;
+&lt;p&gt;Con datos de la Encuesta ICSO-UDP, describió un escenario con Jeannette Jara (27%) y José Antonio Kast (25%) a la cabeza, seguidos por Evelyn Matthei (12%), Johannes Kaiser (9%), Franco Parisi (9%) y Harold Mayne-Nicholls (5%); Eduardo Artés y Marco Enríquez-Ominami alcanzan 1%. Proyectó que “lo más probable” es un gobierno de derecha y subrayó que, aunque el apoyo de Kast se mantiene estable (≈27–30%), cambió su composición: parte de los segmentos D/E habría migrado hacia Kaiser y Parisi. Agregó que Jara sostiene respaldo femenino sin crecimiento marcado, evaluó la campaña de Matthei como errática y destacó un dato novedoso: la juventud se divide entre Kast y Jara, algo inédito en Chile.&lt;/p&gt;
+&lt;p&gt;Sobre los temores vitales, el investigador OLES explicó que son miedos cotidianos y materiales (delincuencia, perder el empleo, dificultades económicas) que se consolidaron tras el estallido social y el proceso constituyente. Estos temores empujan a una parte del electorado hacia opciones de derecha y, en particular, ultraderecha, donde mensajes de orden y seguridad encuentran terreno fértil. En ese marco, debates como “Chao préstamo” y la propuesta de ajuste fiscal por US$ 6.000 millones en 18 meses han reordenado preferencias en sectores populares y medios. Fuentes añadió que, a diferencia de 2021, hoy “se le perdió el miedo” a Kast, a quien parte del electorado percibe más establecimiento y moderado que Kaiser.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;foto1.jpg&#34; width=&#34;700&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

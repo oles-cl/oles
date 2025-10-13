@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Líneas de trabajo | OLES</title>
-    <link>www.oles.cl/lineas/</link>
-      <atom:link href="www.oles.cl/lineas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.oles.cl/lineas/</link>
+      <atom:link href="https://www.oles.cl/lineas/index.xml" rel="self" type="application/rss+xml" />
     <description>Líneas de trabajo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Líneas de trabajo</title>
-      <link>www.oles.cl/lineas/</link>
+      <link>https://www.oles.cl/lineas/</link>
     </image>
     
     <item>
       <title>Policía y legitimidad</title>
-      <link>www.oles.cl/lineas/violencia/</link>
+      <link>https://www.oles.cl/lineas/violencia/</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>www.oles.cl/lineas/violencia/</guid>
+      <guid>https://www.oles.cl/lineas/violencia/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Derechos humanos</title>
-      <link>www.oles.cl/lineas/ddhh/</link>
+      <link>https://www.oles.cl/lineas/ddhh/</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>www.oles.cl/lineas/ddhh/</guid>
+      <guid>https://www.oles.cl/lineas/ddhh/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Protesta social y violencia</title>
-      <link>www.oles.cl/lineas/mmss/</link>
+      <link>https://www.oles.cl/lineas/mmss/</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>www.oles.cl/lineas/mmss/</guid>
+      <guid>https://www.oles.cl/lineas/mmss/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;

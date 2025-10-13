@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ismael Puga | OLES</title>
-    <link>www.oles.cl/author/ismael-puga/</link>
-      <atom:link href="www.oles.cl/author/ismael-puga/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.oles.cl/author/ismael-puga/</link>
+      <atom:link href="https://www.oles.cl/author/ismael-puga/index.xml" rel="self" type="application/rss+xml" />
     <description>Ismael Puga</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Ismael Puga</title>
-      <link>www.oles.cl/author/ismael-puga/</link>
+      <link>https://www.oles.cl/author/ismael-puga/</link>
     </image>
     
     <item>
       <title>Is it Worth the Risk? Grievances and Street Protest Participation During the COVID-19 Pandemic in Chile</title>
-      <link>www.oles.cl/publication/ja-monica10/</link>
+      <link>https://www.oles.cl/publication/ja-monica10/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>www.oles.cl/publication/ja-monica10/</guid>
+      <guid>https://www.oles.cl/publication/ja-monica10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>¿ Qué hacer? Repertorios de accion frente a las injusticias percibidas en los lugares de trabajo en Santiago de Chile</title>
-      <link>www.oles.cl/publication/ja-monica11/</link>
+      <link>https://www.oles.cl/publication/ja-monica11/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>www.oles.cl/publication/ja-monica11/</guid>
+      <guid>https://www.oles.cl/publication/ja-monica11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Police violence as punishment: Does excessive use of force serve to punish those who threaten status and power hierarchies in society?</title>
-      <link>www.oles.cl/publication/preprint-monica/</link>
+      <link>https://www.oles.cl/publication/preprint-monica/</link>
       <pubDate>Thu, 28 Jan 2021 12:00:00 +0000</pubDate>
-      <guid>www.oles.cl/publication/preprint-monica/</guid>
+      <guid>https://www.oles.cl/publication/preprint-monica/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;p&gt;Why do some people view excessive police violence as acceptable? We reason that excessive police violence not only seeks to control crime, but also to punish criminal offenders. We propose the concept of police violence for punishment and explore its associations with different forms of punishment and punishment motivations. We reason that some people support excessive police violence to reinforce status and power hierarchies with minority groups.&lt;/p&gt;
 &lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
@@ -46,17 +46,17 @@
     
     <item>
       <title>Acting collectively to confront injustice</title>
-      <link>www.oles.cl/publication/ja-monica0/</link>
+      <link>https://www.oles.cl/publication/ja-monica0/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>www.oles.cl/publication/ja-monica0/</guid>
+      <guid>https://www.oles.cl/publication/ja-monica0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control Social y Justificación de la Violencia en Chile. Resultados Encuesta Nacional UDP 2015</title>
-      <link>www.oles.cl/publication/ac-monica/</link>
+      <link>https://www.oles.cl/publication/ac-monica/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>www.oles.cl/publication/ac-monica/</guid>
+      <guid>https://www.oles.cl/publication/ac-monica/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

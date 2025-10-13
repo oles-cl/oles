@@ -2,21 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noticias | OLES</title>
-    <link>www.oles.cl/tag/noticias/</link>
-      <atom:link href="www.oles.cl/tag/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.oles.cl/tag/noticias/</link>
+      <atom:link href="https://www.oles.cl/tag/noticias/index.xml" rel="self" type="application/rss+xml" />
     <description>Noticias</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><lastBuildDate>Thu, 10 Jul 2025 10:13:14 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Tue, 02 Sep 2025 07:00:00 -0400</lastBuildDate>
     <image>
-      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>Noticias</title>
-      <link>www.oles.cl/tag/noticias/</link>
+      <link>https://www.oles.cl/tag/noticias/</link>
     </image>
     
     <item>
+      <title>Seminario: ¿Por qué obecemos e invocamos la ley?</title>
+      <link>https://www.oles.cl/post/2025-09-02/</link>
+      <pubDate>Tue, 02 Sep 2025 07:00:00 -0400</pubDate>
+      <guid>https://www.oles.cl/post/2025-09-02/</guid>
+      <description>
+
+
+&lt;p&gt;El jueves 28 de agosto de 2025 se llevó a cabo el seminario “¿Por qué obedecemos e invocamos la ley?” en el Centro de Extensión de la Pontificia Universidad Católica de Chile. El evento fue organizado por el Observatorio de Violencia y Legitimidad Social (OLES) y el Centro de Estudios de Conflicto y Cohesión Social (COES).&lt;/p&gt;
+&lt;p&gt;La actividad contó con la participación de Monica Gerber, directora de OLES y académica de la Escuela de Gobierno de la Pontificia Universidad Católica de Chile; Jonathan Jackson, académico de la London School of Economics; Ben Bradford, académico de la University College London; Lucía Dammert, académica de la Universidad de Santiago de Chile; y Ana Figueiredo, subdirectora de OLES y académica del Instituto de Ciencias Sociales en la Universidad de O’Higgins.&lt;/p&gt;
+&lt;p&gt;El seminario fue una instancia para presentar los resultados preliminares del Estudio Panel de Percepciones de Seguridad y Policía, un estudio longitudinal que busca comprender las percepciones de seguridad y la legitimidad policial en Chile. Además, Ben Bradford y Jonathan Jackson expusieron sus investigaciones sobre la relación entre policía y comunidad en el Reino Unido, mientras que Lucía Dammert actuó como comentadora de las presentaciones.&lt;/p&gt;
+&lt;p&gt;Finalmente, se abrió un espacio de preguntas y discusión, que permitió un intercambio enriquecedor entre los expositores y el público asistente.&lt;/p&gt;
+&lt;p&gt;Aquí algunas fotos del evento:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;foto1.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto2.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto3.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto4.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto6.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto7.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto8.JPG&#34; width=&#34;700&#34; /&gt;
+&lt;img src=&#34;foto9.JPG&#34; width=&#34;700&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.JPG&#34; width=&#34;700&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OLES en el Congreso ISPP 2025</title>
-      <link>www.oles.cl/post/2025-07-10/</link>
+      <link>https://www.oles.cl/post/2025-07-10/</link>
       <pubDate>Thu, 10 Jul 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-07-10/</guid>
+      <guid>https://www.oles.cl/post/2025-07-10/</guid>
       <description>
 
 
@@ -36,9 +61,9 @@
     
     <item>
       <title>Mónica Gerber en Radio ADN:  El Estado de Excepción no puede ser la norma</title>
-      <link>www.oles.cl/post/2025-07-05/</link>
+      <link>https://www.oles.cl/post/2025-07-05/</link>
       <pubDate>Mon, 07 Jul 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-07-05/</guid>
+      <guid>https://www.oles.cl/post/2025-07-05/</guid>
       <description>
 
 
@@ -54,9 +79,9 @@
     
     <item>
       <title>Investigadora OLES en el podcast Tras las Líneas</title>
-      <link>www.oles.cl/post/2025-06-16/</link>
+      <link>https://www.oles.cl/post/2025-06-16/</link>
       <pubDate>Mon, 16 Jun 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-06-16/</guid>
+      <guid>https://www.oles.cl/post/2025-06-16/</guid>
       <description>
 
 
@@ -69,9 +94,9 @@
     
     <item>
       <title>Equipo OLES en LASA 2025</title>
-      <link>www.oles.cl/post/2025-05-26/</link>
+      <link>https://www.oles.cl/post/2025-05-26/</link>
       <pubDate>Mon, 26 May 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-05-26/</guid>
+      <guid>https://www.oles.cl/post/2025-05-26/</guid>
       <description>
 
 
@@ -98,9 +123,9 @@
     
     <item>
       <title>Taller “Policía y Márgenes Urbanos: Perspectivas interseccionales de investigación”</title>
-      <link>www.oles.cl/post/2025-04-09/</link>
+      <link>https://www.oles.cl/post/2025-04-09/</link>
       <pubDate>Wed, 09 Apr 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-04-09/</guid>
+      <guid>https://www.oles.cl/post/2025-04-09/</guid>
       <description>
 
 
@@ -117,9 +142,9 @@
     
     <item>
       <title>Jornada OLES y proyecciones 2025</title>
-      <link>www.oles.cl/post/2025-01-28/</link>
+      <link>https://www.oles.cl/post/2025-01-28/</link>
       <pubDate>Tue, 28 Jan 2025 10:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-01-28/</guid>
+      <guid>https://www.oles.cl/post/2025-01-28/</guid>
       <description>
 
 
@@ -134,9 +159,9 @@
     
     <item>
       <title>Investigación sobre el empoderamiento de las policías en Chile: Simposio liderado por la Dra. Mónica Gerber</title>
-      <link>www.oles.cl/post/2025-01-23/</link>
+      <link>https://www.oles.cl/post/2025-01-23/</link>
       <pubDate>Wed, 22 Jan 2025 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2025-01-23/</guid>
+      <guid>https://www.oles.cl/post/2025-01-23/</guid>
       <description>
 
 
@@ -149,9 +174,9 @@
     
     <item>
       <title>Asistentes de Investigación de OLES obtienen Beca de Doctorado FullBright 📢</title>
-      <link>www.oles.cl/post/2024-12-04/</link>
+      <link>https://www.oles.cl/post/2024-12-04/</link>
       <pubDate>Wed, 04 Dec 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-12-04/</guid>
+      <guid>https://www.oles.cl/post/2024-12-04/</guid>
       <description>
 
 
@@ -164,9 +189,9 @@
     
     <item>
       <title>Investigador OLES participa de la V Jornada de Investigadoras/es Jóvenes en Temáticas sobre Desigualdades y Cohesión Social 🌟</title>
-      <link>www.oles.cl/post/2024-08-29/</link>
+      <link>https://www.oles.cl/post/2024-08-29/</link>
       <pubDate>Thu, 29 Aug 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-08-29/</guid>
+      <guid>https://www.oles.cl/post/2024-08-29/</guid>
       <description>
 
 
@@ -183,9 +208,9 @@
     
     <item>
       <title>Investigadoras/es OLES se adjudican fondo MaxiCOES 🙌</title>
-      <link>www.oles.cl/post/2024-08-27/</link>
+      <link>https://www.oles.cl/post/2024-08-27/</link>
       <pubDate>Tue, 27 Aug 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-08-27/</guid>
+      <guid>https://www.oles.cl/post/2024-08-27/</guid>
       <description>
 
 
@@ -196,9 +221,9 @@
     
     <item>
       <title>Dra. Macarena Orchard imparte seminario doctoral acerda de sus estudios sobre respeto</title>
-      <link>www.oles.cl/post/2024-07-23/</link>
+      <link>https://www.oles.cl/post/2024-07-23/</link>
       <pubDate>Mon, 22 Jul 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-07-23/</guid>
+      <guid>https://www.oles.cl/post/2024-07-23/</guid>
       <description>
 
 
@@ -210,9 +235,9 @@
     
     <item>
       <title>Convocatoria OLES: Práctica Electiva Interdisciplinaria Legitimidad de las policías en Chile: empoderamiento, violencia y corrupción desde datos administrativos</title>
-      <link>www.oles.cl/post/2024-07-15/</link>
+      <link>https://www.oles.cl/post/2024-07-15/</link>
       <pubDate>Thu, 11 Jul 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-07-15/</guid>
+      <guid>https://www.oles.cl/post/2024-07-15/</guid>
       <description>
 
 
@@ -284,9 +309,9 @@ bivariado en Rstudio)&lt;/li&gt;
     
     <item>
       <title>OLES participa en el Encuentro anual del ISPP</title>
-      <link>www.oles.cl/post/2024-07-12/</link>
+      <link>https://www.oles.cl/post/2024-07-12/</link>
       <pubDate>Thu, 11 Jul 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-07-12/</guid>
+      <guid>https://www.oles.cl/post/2024-07-12/</guid>
       <description>
 
 
@@ -306,9 +331,9 @@ bivariado en Rstudio)&lt;/li&gt;
     
     <item>
       <title>Nuestra directora Mónica Gerber participa de Anatomia del caos (Podcast Chile 21)</title>
-      <link>www.oles.cl/post/2024-06-24/</link>
+      <link>https://www.oles.cl/post/2024-06-24/</link>
       <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-06-24/</guid>
+      <guid>https://www.oles.cl/post/2024-06-24/</guid>
       <description>
 
 
@@ -320,9 +345,9 @@ bivariado en Rstudio)&lt;/li&gt;
     
     <item>
       <title>OLES publica columna de opinión sobre los hallazgos de ESEP, ola 0</title>
-      <link>www.oles.cl/post/2024-06-07/</link>
+      <link>https://www.oles.cl/post/2024-06-07/</link>
       <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-06-07/</guid>
+      <guid>https://www.oles.cl/post/2024-06-07/</guid>
       <description>
 
 
@@ -336,9 +361,9 @@ bivariado en Rstudio)&lt;/li&gt;
     
     <item>
       <title>¡Equipo OLES publica nuevo artículo! Significados atribuidos a la investigación en estudiantes de pregrado. la experiencia de participación en un observatorio de investigación universitario</title>
-      <link>www.oles.cl/post/2024-05-14/</link>
+      <link>https://www.oles.cl/post/2024-05-14/</link>
       <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-05-14/</guid>
+      <guid>https://www.oles.cl/post/2024-05-14/</guid>
       <description>
 
 
@@ -354,9 +379,9 @@ bivariado en Rstudio)&lt;/li&gt;
     
     <item>
       <title>OLES en el XII Congreso chileno de sociología 2024</title>
-      <link>www.oles.cl/post/2024-05-06/</link>
+      <link>https://www.oles.cl/post/2024-05-06/</link>
       <pubDate>Mon, 06 May 2024 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2024-05-06/</guid>
+      <guid>https://www.oles.cl/post/2024-05-06/</guid>
       <description>
 
 
@@ -417,9 +442,9 @@ perspectiva interdisciplinaria y multimétodo.&lt;/p&gt;
     
     <item>
       <title>Investigador Luciano Sáez fue entrevistado por la Universidad Diego Portales</title>
-      <link>www.oles.cl/post/2024-01-04/</link>
+      <link>https://www.oles.cl/post/2024-01-04/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 -0100</pubDate>
-      <guid>www.oles.cl/post/2024-01-04/</guid>
+      <guid>https://www.oles.cl/post/2024-01-04/</guid>
       <description>
 
 
@@ -431,9 +456,9 @@ perspectiva interdisciplinaria y multimétodo.&lt;/p&gt;
     
     <item>
       <title>Investigadora Ana Figueiredo participa en Congreso de Psicología en Buenos Aires</title>
-      <link>www.oles.cl/post/2023-18-12/</link>
+      <link>https://www.oles.cl/post/2023-18-12/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 -0100</pubDate>
-      <guid>www.oles.cl/post/2023-18-12/</guid>
+      <guid>https://www.oles.cl/post/2023-18-12/</guid>
       <description>
 
 
@@ -445,25 +470,25 @@ perspectiva interdisciplinaria y multimétodo.&lt;/p&gt;
     
     <item>
       <title>Investigadoras e investigadores OLES participan de la X Conferencia anual de COES</title>
-      <link>www.oles.cl/post/2023-11-21/</link>
+      <link>https://www.oles.cl/post/2023-11-21/</link>
       <pubDate>Mon, 20 Nov 2023 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2023-11-21/</guid>
+      <guid>https://www.oles.cl/post/2023-11-21/</guid>
       <description>
 
 
 &lt;p&gt;CONFERENCIA| Durante los días 8, 9 y 10 de noviembre se realizó la X Conferencia Internacional de COES, titulado “La gran transformación: pasado, presente y futuro del conflicto y la cohesión social”. La conferencia buscó ser un espacio de reflexión y comunicación académica interdisciplinaria que actualice y ponga a disposición de la comunidad científica y el público en general, los conocimientos y herramientas con las que se están estudiando las transformaciones sociales recientes. En este escenario, el equipo del Observatorio de Violencia y Legitimidad Social participó coordinando la mesa de diálogo “Support vs. Resistance to social change: The role of ideologies and procedural justice”. Esta mesa fue moderada por la investigadora OLES Ana Figueiredo y contó con tres presentaciones.&lt;/p&gt;
 &lt;p&gt;La primera ponencia fue realizada por Danny Osborne (The University of Auckland) “The irony of (ideological) harmony: System justification increases well-being, but undermines support for social change”. El investigador neozelandés y colaborador del OLES presentó una investigación colectiva sobre la relación entre satisfacción de necesidades y la reducción en el apoyo al cambio social. Así a partir de los resultados de seis modelos de panel de intercepción aleatoria y retardo cruzado mostró cómo la justificación del sistema predijo sistemáticamente aumentos en el bienestar dentro de cada persona, pero disminuciones en el apoyo al cambio social a lo largo del tiempo.&lt;/p&gt;
-&lt;p&gt;Luego, presentó la directora de OLES y académica de la Universidad Diego Portales, &lt;a href=&#34;www.oles.cl/author/monica/&#34;&gt;Mónica Gerber&lt;/a&gt;, su estudio colaborativo “¿Por qué apoyan las personas la acción colectiva violenta? El papel de la experiencia de violencia policial, la injusticia procedimental policial y la identificación con los manifestantes”. La propuesta de la presentación apuntó a establecer un dialogo entre las teorías de justicia y la psicología sociales de los movimientos sociales para argumentar que la experiencia de violencia por parte de Carabineros durante las manifestaciones, la percepción de injusticia procedimental hacia manifestantes y la identificación con los manifestantes son antecedentes claves para entender el apoyo a la acción colectiva violenta después del estallido social. Así, la presentación buscó demostrar que haber experimentado violencia por parte de Carabineros predice mayores niveles de percepción de injusticia en el trato de Carabineros hacia manifestantes, una mayor identificación con los manifestantes y una mayor justificación de la acción colectiva violenta en el tiempo. Por tanto, dado que experimentar violencia policial (directa o vicaria) aumenta las percepciones de injusticia y la identificación con manifestantes (y no viceversa), la presentación concluyó discutiendo la importancia de considerar el efecto negativo que tiene la represión policial en la justificación de la violencia como forma de reivindicar el cambio social.&lt;/p&gt;
-&lt;p&gt;En esa misma instancia, &lt;a href=&#34;www.oles.cl/author/joaquin/&#34;&gt;Joaquín Bahamondes&lt;/a&gt;, investigador de OLES, presentó los resultados del estudio titulado “Hierarchy-enhancing, not (always) system-justifying: A large test of the non-linear association between social dominance orientation and system justification”. Este trabajo muestra como la Orientación Social Dominante (SDO), es decir, la creencia de que las jerarquías sociales y la dominación intergrupal son deseables, está asociada de forma no lineal con la justificación del statu quo. La presentación inspeccionó las interacciones estimadas entre niveles mostrando que la democracia a nivel de país modera la asociación no lineal entre el SDO y la justificación del statu quo. En conjunto, estos resultados apoyan la idea de que la dominación social refuerza la jerarquía, pero su papel justificador del sistema depende en gran medida del contexto.&lt;/p&gt;
-&lt;p&gt;Finalmente, el día viernes 10, &lt;a href=&#34;www.oles.cl/author/bruno_r&#34;&gt;Bruno Rojas&lt;/a&gt;, ayudante de investigación de OLES, participó en la mesa “Percepciones de seguridad y justificaciones de la violencia” donde expuso los resultados preliminares de una investigación cualitativa desarrollada por OLES, con un trabajo titulado “Autoritarismo, dignidad y eficacia. Exigencias de seguridad y gramáticas morales sobre el comportamiento policial”. En su presentación describió las expectativas y los puntos de vista normativos a partir de los cuales distintos grupos sociales evalúan subjetivamente y exigen seguridad a la institución policial en el caso de Carabineros. Así, poniendo en tensión la tesis que caracteriza a todas las exigencias de seguridad actuales en Chile como expresiones de populismo penal, la presentación buscó mostrar la heterogeneidad de valoraciones sociales tras los reclamos de seguridad y las diferencias cualitativas entre los puntos de vista críticos con el rol social y el funcionamiento de Carabineros&lt;/p&gt;
+&lt;p&gt;Luego, presentó la directora de OLES y académica de la Universidad Diego Portales, &lt;a href=&#34;https://www.oles.cl/author/monica/&#34;&gt;Mónica Gerber&lt;/a&gt;, su estudio colaborativo “¿Por qué apoyan las personas la acción colectiva violenta? El papel de la experiencia de violencia policial, la injusticia procedimental policial y la identificación con los manifestantes”. La propuesta de la presentación apuntó a establecer un dialogo entre las teorías de justicia y la psicología sociales de los movimientos sociales para argumentar que la experiencia de violencia por parte de Carabineros durante las manifestaciones, la percepción de injusticia procedimental hacia manifestantes y la identificación con los manifestantes son antecedentes claves para entender el apoyo a la acción colectiva violenta después del estallido social. Así, la presentación buscó demostrar que haber experimentado violencia por parte de Carabineros predice mayores niveles de percepción de injusticia en el trato de Carabineros hacia manifestantes, una mayor identificación con los manifestantes y una mayor justificación de la acción colectiva violenta en el tiempo. Por tanto, dado que experimentar violencia policial (directa o vicaria) aumenta las percepciones de injusticia y la identificación con manifestantes (y no viceversa), la presentación concluyó discutiendo la importancia de considerar el efecto negativo que tiene la represión policial en la justificación de la violencia como forma de reivindicar el cambio social.&lt;/p&gt;
+&lt;p&gt;En esa misma instancia, &lt;a href=&#34;https://www.oles.cl/author/joaquin/&#34;&gt;Joaquín Bahamondes&lt;/a&gt;, investigador de OLES, presentó los resultados del estudio titulado “Hierarchy-enhancing, not (always) system-justifying: A large test of the non-linear association between social dominance orientation and system justification”. Este trabajo muestra como la Orientación Social Dominante (SDO), es decir, la creencia de que las jerarquías sociales y la dominación intergrupal son deseables, está asociada de forma no lineal con la justificación del statu quo. La presentación inspeccionó las interacciones estimadas entre niveles mostrando que la democracia a nivel de país modera la asociación no lineal entre el SDO y la justificación del statu quo. En conjunto, estos resultados apoyan la idea de que la dominación social refuerza la jerarquía, pero su papel justificador del sistema depende en gran medida del contexto.&lt;/p&gt;
+&lt;p&gt;Finalmente, el día viernes 10, &lt;a href=&#34;https://www.oles.cl/author/bruno_r&#34;&gt;Bruno Rojas&lt;/a&gt;, ayudante de investigación de OLES, participó en la mesa “Percepciones de seguridad y justificaciones de la violencia” donde expuso los resultados preliminares de una investigación cualitativa desarrollada por OLES, con un trabajo titulado “Autoritarismo, dignidad y eficacia. Exigencias de seguridad y gramáticas morales sobre el comportamiento policial”. En su presentación describió las expectativas y los puntos de vista normativos a partir de los cuales distintos grupos sociales evalúan subjetivamente y exigen seguridad a la institución policial en el caso de Carabineros. Así, poniendo en tensión la tesis que caracteriza a todas las exigencias de seguridad actuales en Chile como expresiones de populismo penal, la presentación buscó mostrar la heterogeneidad de valoraciones sociales tras los reclamos de seguridad y las diferencias cualitativas entre los puntos de vista críticos con el rol social y el funcionamiento de Carabineros&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Equipo OLES organiza y participa en el Seminario: «Estrategias frente a la inseguridad en América Latina»</title>
-      <link>www.oles.cl/post/2023-08-28/</link>
+      <link>https://www.oles.cl/post/2023-08-28/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 -0100</pubDate>
-      <guid>www.oles.cl/post/2023-08-28/</guid>
+      <guid>https://www.oles.cl/post/2023-08-28/</guid>
       <description>
 
 
@@ -477,9 +502,9 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>Investigadoras OLES presentan ponencias en Congresos internacionales ISPP &amp; ISA</title>
-      <link>www.oles.cl/post/2023-08-01/</link>
+      <link>https://www.oles.cl/post/2023-08-01/</link>
       <pubDate>Tue, 01 Aug 2023 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2023-08-01/</guid>
+      <guid>https://www.oles.cl/post/2023-08-01/</guid>
       <description>
 
 
@@ -493,9 +518,9 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>Investigadoras e investigadores OLES se adjudican un Proyecto de Exploración 2022, dos Proyectos Fondecyt de iniciación y una Beca Nacional de Doctorado ANID</title>
-      <link>www.oles.cl/post/2023-03-13/</link>
+      <link>https://www.oles.cl/post/2023-03-13/</link>
       <pubDate>Mon, 13 Mar 2023 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2023-03-13/</guid>
+      <guid>https://www.oles.cl/post/2023-03-13/</guid>
       <description>
 
 
@@ -543,9 +568,9 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>Macarena Orchard participó en el podcast &#39;Hay algo allá afuera&#39; con Alfredo Joignant, en el capítulo titulado &#39;¿Qué es la autoridad?&#39;</title>
-      <link>www.oles.cl/post/2022-10-13/</link>
+      <link>https://www.oles.cl/post/2022-10-13/</link>
       <pubDate>Thu, 03 Nov 2022 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2022-10-13/</guid>
+      <guid>https://www.oles.cl/post/2022-10-13/</guid>
       <description>
 
 
@@ -555,9 +580,9 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>Macarena Orchard participó en el podcast &#39;Hay algo allá afuera&#39; con Alfredo Joignant, en el capítulo titulado &#39;¿Qué es la autoridad?&#39;</title>
-      <link>www.oles.cl/post/2022-11-03/</link>
+      <link>https://www.oles.cl/post/2022-11-03/</link>
       <pubDate>Thu, 03 Nov 2022 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2022-11-03/</guid>
+      <guid>https://www.oles.cl/post/2022-11-03/</guid>
       <description>
 
 
@@ -567,9 +592,9 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>Felicitamos a nuestros investigadores Monica Gerber, Macarena Orchard , Loreto Quiroz, Joaquín Bahamondes, Luciano Sáez por la adjudicación de fondos del Centro COES</title>
-      <link>www.oles.cl/post/2022-09-12/</link>
+      <link>https://www.oles.cl/post/2022-09-12/</link>
       <pubDate>Mon, 12 Sep 2022 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2022-09-12/</guid>
+      <guid>https://www.oles.cl/post/2022-09-12/</guid>
       <description>
 
 
@@ -579,9 +604,9 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>Macarena Orchard analiza la primera Encuesta Nacional de Autoridad y dice: Chile tiene una crisis en el ejercicio de la autoridad</title>
-      <link>www.oles.cl/post/2022-09-06/</link>
+      <link>https://www.oles.cl/post/2022-09-06/</link>
       <pubDate>Tue, 06 Sep 2022 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2022-09-06/</guid>
+      <guid>https://www.oles.cl/post/2022-09-06/</guid>
       <description>
 
 
@@ -591,9 +616,9 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>La Dra. Monica Gerber asume como Directora del Grupo de Evaluación de Sociología y Ciencias de la Comunicación de Fondecyt</title>
-      <link>www.oles.cl/post/2022-06-03/</link>
+      <link>https://www.oles.cl/post/2022-06-03/</link>
       <pubDate>Fri, 03 Jun 2022 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2022-06-03/</guid>
+      <guid>https://www.oles.cl/post/2022-06-03/</guid>
       <description>
 
 
@@ -602,9 +627,9 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>La Dra. Gerber es nombrada como parte del comité de expertos de la Comisión Nacional de Respuesta Pandémica</title>
-      <link>www.oles.cl/post/2022-03-22/</link>
+      <link>https://www.oles.cl/post/2022-03-22/</link>
       <pubDate>Tue, 22 Mar 2022 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2022-03-22/</guid>
+      <guid>https://www.oles.cl/post/2022-03-22/</guid>
       <description>
 
 
@@ -613,79 +638,79 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
     
     <item>
       <title>Profesora Monica Gerber se adjudica Fondecyt Regular “From compliance to resistance: How do citizens in Chile relate to and position themselves towards the police?”</title>
-      <link>www.oles.cl/post/2022-01-17/</link>
+      <link>https://www.oles.cl/post/2022-01-17/</link>
       <pubDate>Mon, 17 Jan 2022 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2022-01-17/</guid>
+      <guid>https://www.oles.cl/post/2022-01-17/</guid>
       <description>
-&lt;script src=&#34;www.oles.cl/post/2022-01-17/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.oles.cl/post/2022-01-17/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p class=&#34;cta-btns&#34; align=&#34;right&#34;&gt;
 &lt;a href=&#34;https://psicologia.udp.cl/tres-fondecyt-y-dos-fondos-internos-de-investigacion-son-adjudicados-a-docentes-de-psicologia-udp-para-periodo-2022/&#34; style=&#34;text-decoration:none&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Ir a la noticia&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;Los trabajos de &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt;, Elisa Ansoleaga, Stefanella Costa, Claudio Martínez y Lorena Contreras, abordarán temáticas como la relación de los chilenos con las policías; los liderazgos destructivos en las organizaciones de salud pública; la primera infancia y los apegos para evitar el maltrato; la experiencia corporal de personas Trans; y el abuso sexual infantil en residencias de protección.&lt;/p&gt;
+&lt;p&gt;Los trabajos de &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt;, Elisa Ansoleaga, Stefanella Costa, Claudio Martínez y Lorena Contreras, abordarán temáticas como la relación de los chilenos con las policías; los liderazgos destructivos en las organizaciones de salud pública; la primera infancia y los apegos para evitar el maltrato; la experiencia corporal de personas Trans; y el abuso sexual infantil en residencias de protección.&lt;/p&gt;
 &lt;p&gt;La convocatoria 2022 de Fondecyt, que tiene como objetivo promover la investigación de base científico-tecnológica y la producción de conocimiento, dio a conocer recientemente los resultados en sus distintas modalidades, en las cuales tres académicas de la Facultad de Psicología lograron adjudicarse fondos para sus investigaciones en los ámbitos de psicología social, organizacional/laboral y clínica.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;La investigación de &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt; que aborda la relación de los ciudadanos chilenos con la policía participó y se adjudicó un Fondecyt Regular. El objetivo de este proyecto de investigación es explorar y rastrear a lo largo del tiempo la legitimidad percibida, las posturas motivacionales y la justicia procesal percibida de la policía en Chile. Asimismo, examinará un modelo para predecir las percepciones de legitimidad de los individuos y las posturas de compromiso y desafío hacia la policía en términos de justicia procesal percibida y miedo a la policía; y describirá cómo diferentes grupos sociales expresan diferentes niveles de legitimidad y despliegan diferentes posturas hacia la policía en Chile.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;La investigación de &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt; que aborda la relación de los ciudadanos chilenos con la policía participó y se adjudicó un Fondecyt Regular. El objetivo de este proyecto de investigación es explorar y rastrear a lo largo del tiempo la legitimidad percibida, las posturas motivacionales y la justicia procesal percibida de la policía en Chile. Asimismo, examinará un modelo para predecir las percepciones de legitimidad de los individuos y las posturas de compromiso y desafío hacia la policía en términos de justicia procesal percibida y miedo a la policía; y describirá cómo diferentes grupos sociales expresan diferentes niveles de legitimidad y despliegan diferentes posturas hacia la policía en Chile.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Convocatoria a participar en OLES</title>
-      <link>www.oles.cl/post/2021-06-18/</link>
+      <link>https://www.oles.cl/post/2021-06-18/</link>
       <pubDate>Wed, 31 Mar 2021 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2021-06-18/</guid>
+      <guid>https://www.oles.cl/post/2021-06-18/</guid>
       <description>
-&lt;script src=&#34;www.oles.cl/post/2021-06-18/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.oles.cl/post/2021-06-18/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p class=&#34;cta-btns&#34; align=&#34;right&#34;&gt;
 &lt;a href=&#34;https://socialesehistoria.udp.cl/macaren-orchard-participo-en-foro-sobre-violencias-en-la-movilizacion-social-y-la-protesta/&#34; style=&#34;text-decoration:none&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Ir a la noticia&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;Te invitamos a conocer OLES “Observatorio de Violencia y Legitimidad Social” un proyecto a cargo de &lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Macarena Orchard&lt;/a&gt;, &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt; y &lt;a href=&#34;www.oles.cl/author/ana-figuereido/&#34;&gt;Ana Figuereido&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Te invitamos a conocer OLES “Observatorio de Violencia y Legitimidad Social” un proyecto a cargo de &lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Macarena Orchard&lt;/a&gt;, &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt; y &lt;a href=&#34;https://www.oles.cl/author/ana-figuereido/&#34;&gt;Ana Figuereido&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Macarena Orchard participó en foro sobre violencias en la movilización social y protesta</title>
-      <link>www.oles.cl/post/2021-03-31/</link>
+      <link>https://www.oles.cl/post/2021-03-31/</link>
       <pubDate>Wed, 31 Mar 2021 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2021-03-31/</guid>
+      <guid>https://www.oles.cl/post/2021-03-31/</guid>
       <description>
-&lt;script src=&#34;www.oles.cl/post/2021-03-31/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.oles.cl/post/2021-03-31/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p class=&#34;cta-btns&#34; align=&#34;right&#34;&gt;
 &lt;a href=&#34;https://socialesehistoria.udp.cl/macaren-orchard-participo-en-foro-sobre-violencias-en-la-movilizacion-social-y-la-protesta/&#34; style=&#34;text-decoration:none&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Ir a la noticia&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Macarena Orchard&lt;/a&gt;, académica de la Escuela de Sociología e investigadora ICSO UDP, participó en «Debate a fondo: Mitos y realidades sobre las violencias en la movilización social y la protesta», instancia que tuvo por objetivo conversar sobre las diferentes violencias en el contexto de las manifestaciones sociales y la protesta.&lt;/p&gt;
-&lt;p&gt;En su exposición, &lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt;, destacó que en el último tiempo uno de los cambios relevantes ha sido que se instaló una conversación sobre la violencia en una escala relevante que nunca se había visto. «Hoy día todos los actores políticos y públicos se ven obligados a posicionarse en el debate sobre la violencia y eso es nuevo. Esto es interesante porque es un debate muy complejo, que te obliga a tener posturas normativas y decir si la violencia es buena o mala, y en qué contexto es mala (…) Hay una conversación instalada que es es muy importante y da una oportunidad para que todos reflexionemos sistemáticamente sobre este tema», detalló.&lt;/p&gt;
-&lt;p&gt;En la cita, &lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt; expuso sobre la investigación “Legitimidad de Carabineros: violencia, derechos humanos y control social”, proyecto interfacultades de la Universidad Diego Portales y en el que participa &lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt;, el cual generará información valiosa en el tiempo acerca de la vinculación entre Carabineros y ciudadanía y servirá de barómetro para evaluar el desarrollo de la vinculación entre la policía y la ciudadanía.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;«Se sabe, por diversos estudios, que la confianza de Carabineros ha ido bajando en el tiempo, pero en términos de legitimidad no hay bastantes datos para verlo con claridad. En el proyecto estamos haciendo una encuesta panel, la cual, en su primera medición en enero y donde contestaron 2717 personas, arrojó que un 70% de las personas consideran que tienen la obligación de obedecer a Carabineros, mientras que un 30% dijo que no. Que un 30% diga que no, muestra que algo está pasando en el vínculo entre ciudadanía y Carabineros, además esta cifra aumenta en los grupos más jóvenes donde el 40% de las personas entre 18 y 24 años cree que no está obligado a obedecer a Carabineros»&lt;/em&gt;, explicó &lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Macarena Orchard&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Respecto a las razones que podrían explicar los resultados, &lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt; comentó que hay diversas hipótesis tales como la percepción de eficacia de la Institución y el concepto de justicia procedimental– percepción que las personas tienen respecto a cuán justo son los procedimiento que utiliza Carabineros y cuán justo es el trato que la dan a las personas). Según &lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt;, la justicia procedimental es el concepto clave y que «la literatura ha demostrado de manera muy consistente que es lo que en gran medida afecta y explica que haya una percepción de legitimidad en la autoridad».&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Macarena Orchard&lt;/a&gt;, académica de la Escuela de Sociología e investigadora ICSO UDP, participó en «Debate a fondo: Mitos y realidades sobre las violencias en la movilización social y la protesta», instancia que tuvo por objetivo conversar sobre las diferentes violencias en el contexto de las manifestaciones sociales y la protesta.&lt;/p&gt;
+&lt;p&gt;En su exposición, &lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt;, destacó que en el último tiempo uno de los cambios relevantes ha sido que se instaló una conversación sobre la violencia en una escala relevante que nunca se había visto. «Hoy día todos los actores políticos y públicos se ven obligados a posicionarse en el debate sobre la violencia y eso es nuevo. Esto es interesante porque es un debate muy complejo, que te obliga a tener posturas normativas y decir si la violencia es buena o mala, y en qué contexto es mala (…) Hay una conversación instalada que es es muy importante y da una oportunidad para que todos reflexionemos sistemáticamente sobre este tema», detalló.&lt;/p&gt;
+&lt;p&gt;En la cita, &lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt; expuso sobre la investigación “Legitimidad de Carabineros: violencia, derechos humanos y control social”, proyecto interfacultades de la Universidad Diego Portales y en el que participa &lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt;, el cual generará información valiosa en el tiempo acerca de la vinculación entre Carabineros y ciudadanía y servirá de barómetro para evaluar el desarrollo de la vinculación entre la policía y la ciudadanía.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;«Se sabe, por diversos estudios, que la confianza de Carabineros ha ido bajando en el tiempo, pero en términos de legitimidad no hay bastantes datos para verlo con claridad. En el proyecto estamos haciendo una encuesta panel, la cual, en su primera medición en enero y donde contestaron 2717 personas, arrojó que un 70% de las personas consideran que tienen la obligación de obedecer a Carabineros, mientras que un 30% dijo que no. Que un 30% diga que no, muestra que algo está pasando en el vínculo entre ciudadanía y Carabineros, además esta cifra aumenta en los grupos más jóvenes donde el 40% de las personas entre 18 y 24 años cree que no está obligado a obedecer a Carabineros»&lt;/em&gt;, explicó &lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Macarena Orchard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Respecto a las razones que podrían explicar los resultados, &lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt; comentó que hay diversas hipótesis tales como la percepción de eficacia de la Institución y el concepto de justicia procedimental– percepción que las personas tienen respecto a cuán justo son los procedimiento que utiliza Carabineros y cuán justo es el trato que la dan a las personas). Según &lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Orchard&lt;/a&gt;, la justicia procedimental es el concepto clave y que «la literatura ha demostrado de manera muy consistente que es lo que en gran medida afecta y explica que haya una percepción de legitimidad en la autoridad».&lt;/p&gt;
 &lt;p&gt;El foro fue organizado por el Centro de Estudios de Conflicto y Cohesión Social (COES) y el Fondo de Cultura Económica. &lt;a href=&#34;https://www.facebook.com/watch/live/?v=1693275540874436&amp;amp;ref=watch_permalink&#34;&gt;Revisa la participación de Orchard acá.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mitos y realidades sobre las violencias en la movilización social y la protesta</title>
-      <link>www.oles.cl/post/2021-03-30/</link>
+      <link>https://www.oles.cl/post/2021-03-30/</link>
       <pubDate>Tue, 30 Mar 2021 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2021-03-30/</guid>
+      <guid>https://www.oles.cl/post/2021-03-30/</guid>
       <description>
 
 
 &lt;p class=&#34;cta-btns&#34; align=&#34;right&#34;&gt;
 &lt;a href=&#34;https://socialesehistoria.udp.cl/macaren-orchard-participo-en-foro-sobre-violencias-en-la-movilizacion-social-y-la-protesta/&#34; style=&#34;text-decoration:none&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Ir a la noticia&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;www.oles.cl/author/macarena-orchard/&#34;&gt;Macarena Orchard&lt;/a&gt; partició en &lt;strong&gt;#DebateAFondo&lt;/strong&gt; del Fondo de Cultura Económica (FCE Chile). En el &lt;a href=&#34;https://youtu.be/P7ueK2xfe0c&#34;&gt;canal de youtube&lt;/a&gt; se puede revivir la conversación que contó con la participación de Nicolás Angelcos, Isidora Iñigo, Daniel Miranda, y nuestra investigadora &lt;strong&gt;Macarena Orchard&lt;/strong&gt;. La actividad contó con la moderación de Rafael López y Sol Alé, editora de &lt;strong&gt;Saltar el torniquete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oles.cl/author/macarena-orchard/&#34;&gt;Macarena Orchard&lt;/a&gt; partició en &lt;strong&gt;#DebateAFondo&lt;/strong&gt; del Fondo de Cultura Económica (FCE Chile). En el &lt;a href=&#34;https://youtu.be/P7ueK2xfe0c&#34;&gt;canal de youtube&lt;/a&gt; se puede revivir la conversación que contó con la participación de Nicolás Angelcos, Isidora Iñigo, Daniel Miranda, y nuestra investigadora &lt;strong&gt;Macarena Orchard&lt;/strong&gt;. La actividad contó con la moderación de Rafael López y Sol Alé, editora de &lt;strong&gt;Saltar el torniquete&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Proyecto con fondo VRA de Monica Gerber analizará la experiencia de aprendizaje de estudiantes que participan en proyectos de investigación</title>
-      <link>www.oles.cl/post/2021-03-26/</link>
+      <link>https://www.oles.cl/post/2021-03-26/</link>
       <pubDate>Fri, 26 Mar 2021 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2021-03-26/</guid>
+      <guid>https://www.oles.cl/post/2021-03-26/</guid>
       <description>
 
 
@@ -693,38 +718,53 @@ Contó con la participación de los/as académicos/as Claudio Fuentes (UDP); Luc
 &lt;a href=&#34;https://psicologia.udp.cl/proyecto-con-fondo-vra-de-monica-gerber-analizara-la-experiencia-de-aprendizaje-de-estudiantes-que-participan-en-proyectos-de-investigacion/&#34; style=&#34;text-decoration:none&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Ir a la noticia&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;La iniciativa busca explorar la relevancia de esta experiencia durante el año académico 2021 como una estrategia de enseñanza-aprendizaje de valor en el proceso formativo. Se aplicará a alumnos de las facultades de Psicología y Ciencias Sociales e Historia y apunta a aportar a la reflexión y actualización de las prácticas pedagógicas actuales. &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;En 2020, el proyecto “Legitimidad de Carabineros: violencia, derechos humanos y control social” financiado por el Centro de Estudios de Conflicto y Cohesión (COES) y la Universidad Diego Portales, abordó una de las temáticas más discutidas y controvertidas desde el estallido social de octubre de 2019. Como tal, se convirtió en una oportunidad para desarrollar diversas instancias y estrategias de vinculación con estudiantes, entre las que se incluyeron charlas y diversas tareas de investigación, cada una con una muy alta convocatoria. Este escenario fue el punto inicial y el campo de estudio para la investigación liderada por la académica de la Facultad de Psicología &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt;, que se adjudicó el fondo de Investigación en Docencia de la VRA para 2021.&lt;/p&gt;
+&lt;p&gt;En 2020, el proyecto “Legitimidad de Carabineros: violencia, derechos humanos y control social” financiado por el Centro de Estudios de Conflicto y Cohesión (COES) y la Universidad Diego Portales, abordó una de las temáticas más discutidas y controvertidas desde el estallido social de octubre de 2019. Como tal, se convirtió en una oportunidad para desarrollar diversas instancias y estrategias de vinculación con estudiantes, entre las que se incluyeron charlas y diversas tareas de investigación, cada una con una muy alta convocatoria. Este escenario fue el punto inicial y el campo de estudio para la investigación liderada por la académica de la Facultad de Psicología &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt;, que se adjudicó el fondo de Investigación en Docencia de la VRA para 2021.&lt;/p&gt;
 &lt;p&gt;“Evaluación de los aprendizajes en investigación en estudiantes de las Facultades de Psicología y Ciencias Sociales e Historia. La experiencia del proyecto Legitimidad de Carabineros: violencia, derechos humanos y control social” es el nombre de la iniciativa que tiene como finalidad explorar estas instancias surgidas en la academia como una estrategia de enseñanza-aprendizaje relevante en el proceso formativo de los estudiantes.&lt;/p&gt;
-&lt;p&gt;“El objetivo general consiste en evaluar la experiencia de aprendizajes en investigación en estudiantes participantes de este proyecto, que lleva a cabo la Facultad de Psicología y la Facultad de Ciencias Sociales e Historia. Y busca dar continuidad y ampliación al ejercicio de desarrollo de habilidades investigativas a través de la participación en un proyecto de esta índole”, explica &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;“El objetivo general consiste en evaluar la experiencia de aprendizajes en investigación en estudiantes participantes de este proyecto, que lleva a cabo la Facultad de Psicología y la Facultad de Ciencias Sociales e Historia. Y busca dar continuidad y ampliación al ejercicio de desarrollo de habilidades investigativas a través de la participación en un proyecto de esta índole”, explica &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Para ello, se utilizará un enfoque metodológico cualitativo, de carácter descriptivo, que contempla la realización de dos instrumentos de recolección de datos en dos etapas distintas de la implementación. Esto permitirá captar los significados atribuidos a la experiencia a lo largo de la implementación del proyecto en que los alumnos están trabajando actualmente.&lt;/p&gt;
-&lt;p&gt;“Una de las principales debilidades a nivel nacional e internacional es que existen pocas investigaciones que sistematizan experiencias de adquisición de habilidades de investigación. El fondo otorgado por la Universidad permite superar esa brecha y pone en relieve la importancia de investigar, reflexionar y actualizar nuestras prácticas pedagógicas, necesarias en tiempos de cambio”, sostiene &lt;a href=&#34;www.oles.cl/author/luciano-saez/&#34;&gt;Luciano Sáez&lt;/a&gt;, asistente de investigación de la iniciativa.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt; plantea que la principal motivación de llevar a cabo este proyecto es dar cuenta de la importancia de fomentar estas formas de generación de conocimiento compartido en la actividad académica. “En términos generales, hace un tiempo hemos venido promoviendo la idea de generar instancias abiertas de investigación, vinculando a estudiantes en diversas tareas con el fin de democratizar el acceso a estas experiencias. Desde las nociones de &lt;strong&gt;Ciencia Abierta&lt;/strong&gt;, un elemento fundamental es poner a disposición del público general, investigadores/es y estudiantes los resultados de los procesos de investigación. En ese contexto, también consideramos necesario no sólo socializar, sino invitar a las y los estudiantes a participar en tareas extracurriculares, con el fin de aproximarlos a instancias que ahonden en temas de alta relevancia como el proyecto bajo el cual se sustenta esta experiencia”, explica.&lt;/p&gt;
+&lt;p&gt;“Una de las principales debilidades a nivel nacional e internacional es que existen pocas investigaciones que sistematizan experiencias de adquisición de habilidades de investigación. El fondo otorgado por la Universidad permite superar esa brecha y pone en relieve la importancia de investigar, reflexionar y actualizar nuestras prácticas pedagógicas, necesarias en tiempos de cambio”, sostiene &lt;a href=&#34;https://www.oles.cl/author/luciano-saez/&#34;&gt;Luciano Sáez&lt;/a&gt;, asistente de investigación de la iniciativa.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt; plantea que la principal motivación de llevar a cabo este proyecto es dar cuenta de la importancia de fomentar estas formas de generación de conocimiento compartido en la actividad académica. “En términos generales, hace un tiempo hemos venido promoviendo la idea de generar instancias abiertas de investigación, vinculando a estudiantes en diversas tareas con el fin de democratizar el acceso a estas experiencias. Desde las nociones de &lt;strong&gt;Ciencia Abierta&lt;/strong&gt;, un elemento fundamental es poner a disposición del público general, investigadores/es y estudiantes los resultados de los procesos de investigación. En ese contexto, también consideramos necesario no sólo socializar, sino invitar a las y los estudiantes a participar en tareas extracurriculares, con el fin de aproximarlos a instancias que ahonden en temas de alta relevancia como el proyecto bajo el cual se sustenta esta experiencia”, explica.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Profesora Monica Gerber se adjudica fondo asociativo UDP 2020 como investigadora principal</title>
-      <link>www.oles.cl/post/2020-09-22/</link>
+      <link>https://www.oles.cl/post/2020-09-22/</link>
       <pubDate>Tue, 22 Sep 2020 21:13:14 -0500</pubDate>
-      <guid>www.oles.cl/post/2020-09-22/</guid>
+      <guid>https://www.oles.cl/post/2020-09-22/</guid>
       <description>
-&lt;script src=&#34;www.oles.cl/post/2020-09-22/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.oles.cl/post/2020-09-22/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p class=&#34;cta-btns&#34; align=&#34;right&#34;&gt;
 &lt;a href=&#34;https://psicologia.udp.cl/profesora-monica-gerber-se-adjudica-fondo-asociativo-udp-2020-como-investigadora-principal/&#34; style=&#34;text-decoration:none&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Ir a la noticia&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Con el proyecto “Legitimidad de Carabineros: violencia, derechos humanos y control social”, la académica de nuestra facultad obtuvo este fondo; cuyo propósito es incentivar el trabajo colaborativo entre investigadores/as de distintas facultades y escuelas de la Universidad.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;En el contexto de una baja en la confianza que la ciudadanía tiene hacia Carabineros de Chile, este proyecto de investigación, liderado por &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt;, busca medir de manera sistemática a lo largo del tiempo la legitimidad de la mencionada institución policial; así como evaluar distintos antecedentes y consecuencias de dicha legitimidad.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“En particular, nos interesa evaluar las percepciones que la ciudadanía tiene sobre la manera en que son tratados por Carabineros y si estas percepciones se vinculan al apoyo a medidas de control social represivo o punitivo, así como a la justificación de la violencia como forma de reivindicar derechos sociales”&lt;/em&gt;, explica la profesora &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En el contexto de una baja en la confianza que la ciudadanía tiene hacia Carabineros de Chile, este proyecto de investigación, liderado por &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt;, busca medir de manera sistemática a lo largo del tiempo la legitimidad de la mencionada institución policial; así como evaluar distintos antecedentes y consecuencias de dicha legitimidad.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“En particular, nos interesa evaluar las percepciones que la ciudadanía tiene sobre la manera en que son tratados por Carabineros y si estas percepciones se vinculan al apoyo a medidas de control social represivo o punitivo, así como a la justificación de la violencia como forma de reivindicar derechos sociales”&lt;/em&gt;, explica la profesora &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Dependiente de la Vicerrectoría de Investigación y Desarrollo, el Fondo Asociativo 2020 busca fomentar la producción del conocimiento entre las distintas disciplinas impartidas por la Universidad Diego Portales.&lt;/p&gt;
-&lt;p&gt;De esta forma, el proyecto que lidera la profesora &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt; &lt;strong&gt;“Legitimidad de Carabineros: violencia, derechos humanos y control social”&lt;/strong&gt; contará con la participación, como investigadores/a asociados/a, de Álvaro Jiménez (Psicología), &lt;a href=&#34;(/author/macarena-orchard/)&#34;&gt;Macarena Orchard&lt;/a&gt; (Ciencias Sociales e Historia) y Javier Couso (Derecho).&lt;/p&gt;
+&lt;p&gt;De esta forma, el proyecto que lidera la profesora &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt; &lt;strong&gt;“Legitimidad de Carabineros: violencia, derechos humanos y control social”&lt;/strong&gt; contará con la participación, como investigadores/a asociados/a, de Álvaro Jiménez (Psicología), &lt;a href=&#34;(/author/macarena-orchard/)&#34;&gt;Macarena Orchard&lt;/a&gt; (Ciencias Sociales e Historia) y Javier Couso (Derecho).&lt;/p&gt;
 &lt;p&gt;“Este proyecto generará información valiosa en el tiempo acerca de la vinculación entre Carabineros y ciudadanía. De esta forma, servirá como un barómetro para evaluar el desarrollo de la vinculación (policía – ciudadanos)“, sostiene la también directora del Magíster en Psicología mención Psicología Social.&lt;/p&gt;
-&lt;p&gt;La profesora &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt; ahonda en que, de la misma manera, “esta investigación permitirá generar recomendaciones que aporten a mejorar las relaciones entre Carabineros y ciudadanos, así como a reflexionar en torno a temas relevantes para eventuales procesos de reestructuración de la institución”.&lt;/p&gt;
+&lt;p&gt;La profesora &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Gerber&lt;/a&gt; ahonda en que, de la misma manera, “esta investigación permitirá generar recomendaciones que aporten a mejorar las relaciones entre Carabineros y ciudadanos, así como a reflexionar en torno a temas relevantes para eventuales procesos de reestructuración de la institución”.&lt;/p&gt;
 &lt;p&gt;En palabras de Maite De Cea, directora general de Investigación y Doctorados, este Fondo Asociativo busca “incentivar el trabajo colaborativo entre investigadores e investigadoras de distintas facultades y escuelas de la Universidad, donde trabajen en responder a un problema de investigación desde distintas ópticas, metodológicas y teóricas”.&lt;/p&gt;
-&lt;p&gt;Sobre lo mismo, &lt;a href=&#34;www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt; profundiza en que el estudio de la legitimidad de Carabineros y la justificación de la violencia requiere de una mirada interdisciplinaria: “esperamos incentivar el diálogo entre la sociología, la psicología y el derecho para estudiar la vinculación entre instituciones estatales de orden y seguridad, la violencia, represión y políticas punitivas como formas de control social y la violencia como forma de reivindicar derechos en el marco de protestas”.&lt;/p&gt;
+&lt;p&gt;Sobre lo mismo, &lt;a href=&#34;https://www.oles.cl/author/monica-gerber/&#34;&gt;Monica Gerber&lt;/a&gt; profundiza en que el estudio de la legitimidad de Carabineros y la justificación de la violencia requiere de una mirada interdisciplinaria: “esperamos incentivar el diálogo entre la sociología, la psicología y el derecho para estudiar la vinculación entre instituciones estatales de orden y seguridad, la violencia, represión y políticas punitivas como formas de control social y la violencia como forma de reivindicar derechos en el marco de protestas”.&lt;/p&gt;
 &lt;p&gt;En este sentido, “valoramos que la UDP promueva proyectos asociativos que nos estimulan a abrir diálogos entre disciplinas que claramente tienen aportes relevantes que hacer a este tema”, finaliza la académica de nuestra Escuela.&lt;/p&gt;
 &lt;p&gt;Cabe mencionar que en octubre próximo se abrirán nuevamente las convocatorias a este fondo y en noviembre el del Fondo de Inserción o enlace de investigación. La información completa está disponible &lt;a href=&#34;https://investigacioneinnovacion.udp.cl/&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigador OLES Claudio Fuentes asiste a CNN Chile</title>
+      <link>https://www.oles.cl/post/2025-10-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.oles.cl/post/2025-10-10/</guid>
+      <description>
+
+
+&lt;p&gt;El día 7 de octubre de 2025, Claudio Fuentes—investigador OLES y director del ICSO-UDP—fue a Tolerancia Cero (CNN Chile) para analizar la carrera presidencial.&lt;/p&gt;
+&lt;p&gt;Con datos de la Encuesta ICSO-UDP, describió un escenario con Jeannette Jara (27%) y José Antonio Kast (25%) a la cabeza, seguidos por Evelyn Matthei (12%), Johannes Kaiser (9%), Franco Parisi (9%) y Harold Mayne-Nicholls (5%); Eduardo Artés y Marco Enríquez-Ominami alcanzan 1%. Proyectó que “lo más probable” es un gobierno de derecha y subrayó que, aunque el apoyo de Kast se mantiene estable (≈27–30%), cambió su composición: parte de los segmentos D/E habría migrado hacia Kaiser y Parisi. Agregó que Jara sostiene respaldo femenino sin crecimiento marcado, evaluó la campaña de Matthei como errática y destacó un dato novedoso: la juventud se divide entre Kast y Jara, algo inédito en Chile.&lt;/p&gt;
+&lt;p&gt;Sobre los temores vitales, el investigador OLES explicó que son miedos cotidianos y materiales (delincuencia, perder el empleo, dificultades económicas) que se consolidaron tras el estallido social y el proceso constituyente. Estos temores empujan a una parte del electorado hacia opciones de derecha y, en particular, ultraderecha, donde mensajes de orden y seguridad encuentran terreno fértil. En ese marco, debates como “Chao préstamo” y la propuesta de ajuste fiscal por US$ 6.000 millones en 18 meses han reordenado preferencias en sectores populares y medios. Fuentes añadió que, a diferencia de 2021, hoy “se le perdió el miedo” a Kast, a quien parte del electorado percibe más establecimiento y moderado que Kaiser.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;foto1.jpg&#34; width=&#34;700&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

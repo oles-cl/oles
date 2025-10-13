@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OLES</title>
-    <link>www.oles.cl/study/</link>
-      <atom:link href="www.oles.cl/study/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.oles.cl/study/</link>
+      <atom:link href="https://www.oles.cl/study/index.xml" rel="self" type="application/rss+xml" />
     <description>OLES</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright>
     <image>
-      <url>/www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
+      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
       <title>OLES</title>
-      <link>www.oles.cl/study/</link>
+      <link>https://www.oles.cl/study/</link>
     </image>
     
   </channel>

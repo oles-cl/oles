@@ -5,14 +5,14 @@
   "theme_color": "#3F3351",
   "background_color": "#3F3351",
   "icons": [{
-    "src": "/www.oles.cl/media/icon_hue19b0f37a8c43e58355cdd1a327c5569_28355_192x192_fill_lanczos_center_2.png",
+    "src": "/media/icon_hue19b0f37a8c43e58355cdd1a327c5569_28355_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/www.oles.cl/media/icon_hue19b0f37a8c43e58355cdd1a327c5569_28355_512x512_fill_lanczos_center_2.png",
+    "src": "/media/icon_hue19b0f37a8c43e58355cdd1a327c5569_28355_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/www.oles.cl/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

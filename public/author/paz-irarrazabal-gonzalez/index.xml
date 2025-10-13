@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paz Irarrázabal González | OLES</title>
-    <link>www.oles.cl/author/paz-irarrazabal-gonzalez/</link>
-      <atom:link href="www.oles.cl/author/paz-irarrazabal-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.oles.cl/author/paz-irarrazabal-gonzalez/</link>
+      <atom:link href="https://www.oles.cl/author/paz-irarrazabal-gonzalez/index.xml" rel="self" type="application/rss+xml" />
     <description>Paz Irarrázabal González</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright>
     <image>
-      <url>/www.oles.cl/author/paz-irarrazabal-gonzalez/avatar_hu488da03776c972d4bf70101220410d6d_150222_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://www.oles.cl/author/paz-irarrazabal-gonzalez/avatar_hu488da03776c972d4bf70101220410d6d_150222_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Paz Irarrázabal González</title>
-      <link>www.oles.cl/author/paz-irarrazabal-gonzalez/</link>
+      <link>https://www.oles.cl/author/paz-irarrazabal-gonzalez/</link>
     </image>
     
   </channel>
