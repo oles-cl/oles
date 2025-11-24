@@ -2,16 +2,63 @@
 type: widget_page
 ---
 
-## Estudio Panel de Percepciones de Seguridad y Policías en Chile  (2024-2026)
+## Estudio Panel de Percepciones de Seguridad y Policías en Chile  (2024-2025)
 
 
 
-## Informe EPSEP: Ola 1 a ola 4.
+### Informe EPSEP: Ola 1 a ola 4.
 
-<div style="display: flex; justify-content: center;">
-  <iframe width="800" height="400" marginheight="0" marginwidth="0" src="https://olescl.quarto.pub/informe_v4/#/title-slide"></iframe>
-</div>
+<div>
 
+
+<html>
+  <head>
+    <title> Informe EPSEP 2024 - 2025 </title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .button {
+        display: inline-block;
+        padding: 4px 10px;
+        text-align: left;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #9D44C0;
+        border-radius: 4px;
+        outline: none;
+        transition: 0.3s;
+        border: 2px solid transparent;
+      }
+
+      .button:hover,
+      .button:focus {
+        background-color: #c2c7c7;
+        border-color: #7aa8b7;
+      }
+
+      .icon {
+        margin-right: 5px; /* Add some space between the icon and text */
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://olescl.quarto.pub/informe_v4/#/title-slide" aria-label="Learn about the HTML button tag" target="_blank">
+      <span class="icon">📊</span>
+      <span>Ver Informe EPSEP 2024 - 2025 </span>
+    </a>
+  </body>
+</html>
+
+<div>
+
+
+### Manual Metodológico Encuesta EPSEP
 
 
 
