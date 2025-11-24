@@ -2,106 +2,27 @@
 type: widget_page
 ---
 
-## Estudio Panel de Percepciones de Seguridad y Policías en Chile  (2024-2025)
+# Estudio Panel de Percepciones de Seguridad y Policías en Chile (2024–2025)
 
+Primer Informe. Análisis de Tendencias 2024–2025  
 
+<div class="epsep-buttons">
 
-### Informe EPSEP: Ola 1 a ola 4.
+  <a class="epsep-btn epsep-btn-primary"
+     href="https://olescl.quarto.pub/informe_v4/#/title-slide"
+     target="_blank">
+    <span>📊</span>
+    <span>Ver Informe EPSEP 2024–2025</span>
+  </a>
 
-<div>
+  <a class="epsep-btn epsep-btn-secondary"
+     href="2025_epsep_informe_w01-w04.pdf"
+     download>
+    <span>📄</span>
+    <span>Descargar Informe (PDF)</span>
+  </a>
 
+</div>
 
-<html>
-  <head>
-    <title> Informe EPSEP 2024 - 2025 </title>
-    <style>
-      body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-      }
+*Nota: Próximamente se publicarán el manual metodológico y la base de datos.*
 
-      .button {
-        display: inline-block;
-        padding: 4px 10px;
-        text-align: left;
-        text-decoration: none;
-        color: #ffffff;
-        background-color: #9D44C0;
-        border-radius: 4px;
-        outline: none;
-        transition: 0.3s;
-        border: 2px solid transparent;
-      }
-
-      .button:hover,
-      .button:focus {
-        background-color: #c2c7c7;
-        border-color: #7aa8b7;
-      }
-
-      .icon {
-        margin-right: 5px; /* Add some space between the icon and text */
-      }
-    </style>
-  </head>
-  <body>
-    <a class="button" href="https://olescl.quarto.pub/informe_v4/#/title-slide" aria-label="Learn about the HTML button tag" target="_blank">
-      <span class="icon">📊</span>
-      <span>Ver Informe EPSEP 2024 - 2025 </span>
-    </a>
-  </body>
-</html>
-
-<div>
-
-
-### Manual Metodológico Encuesta EPSEP
-
-
-
-<html>
-  <head>
-    <title>Manual Metodologico</title>
-    <style>
-      body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-      }
-
-      .button {
-        display: inline-block;
-        padding: 4px 10px;
-        text-align: left;
-        text-decoration: none;
-        color: #ffffff;
-        background-color: #9D44C0;
-        border-radius: 4px;
-        outline: none;
-        transition: 0.3s;
-        border: 2px solid transparent;
-      }
-
-      .button:hover,
-      .button:focus {
-        background-color: #c2c7c7;
-        border-color: #7aa8b7;
-      }
-
-      .icon {
-        margin-right: 5px; /* Add some space between the icon and text */
-      }
-    </style>
-  </head>
-  <body>
-    <a class="button" href="https://support.heberjahiz.com/hc/article_attachments/21013076295570" aria-label="Learn about the HTML button tag" target="_blank">
-      <span class="icon">📖</span>
-      <span>Ver Manual Metodológico Encuesta EPSEP </span>
-    </a>
-  </body>
-</html>
