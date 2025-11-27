@@ -32,7 +32,7 @@ main:
     parent: repositorio
     url: esep
     weight: 48
-  - name: EPSEP 2024 - 2026
+  - name: EPSEP 2024 - 2025
     parent: repositorio
     url: epsep
     weight: 49    
