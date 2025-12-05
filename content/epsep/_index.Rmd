@@ -16,7 +16,7 @@ Primer Informe. Análisis de Tendencias 2024–2025
   </a>
 
   <a class="epsep-btn epsep-btn-secondary"
-     href="2025_epsep_informe_w01-w04.pdf"
+     href="2025_epsep_informe1.pdf"
      download>
     <span>📄</span>
     <span>Descargar Informe (PDF)</span>
