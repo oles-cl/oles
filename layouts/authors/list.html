@@ -12,11 +12,13 @@
 <section id="profile-page" class="pt-5">
   <div class="container">
     {{/* Show the About widget if an account exists for this user. */}}
-    {{ if .File }}
+    {{ if and .File (not .IsNode) }}
       {{ $widget := "widgets/about.html" }}
       {{ $username := (path.Base (path.Split .Path).Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
-      {{ $params := dict "root" $ "page" . "author" $username }}
-      {{ partial $widget $params }}
+      {{ if ne $username "authors" }}
+        {{ $params := dict "root" $ "page" . "author" $username }}
+        {{ partial $widget $params }}
+      {{ end }}
     {{end}}
 
     {{ $query := where .Pages ".IsNode" false }}

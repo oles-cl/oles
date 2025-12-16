@@ -1,67 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Líneas de trabajo | OLES</title>
-    <link>https://www.oles.cl/lineas/</link>
-      <atom:link href="https://www.oles.cl/lineas/index.xml" rel="self" type="application/rss+xml" />
-    <description>Líneas de trabajo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
-      <title>Líneas de trabajo</title>
-      <link>https://www.oles.cl/lineas/</link>
-    </image>
-    
-    <item>
-      <title>Policía y legitimidad</title>
-      <link>https://www.oles.cl/lineas/violencia/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/lineas/violencia/</guid>
-      <description>
-
-&lt;div id=&#34;TOC&#34;&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;En un contexto democratico, la policía requiere de apoyo público para funcionar adecuadamente, pues mientras en la sociedad exista la creencia de que esta institución tiene el derecho a ejercer la autoridad –esto es, la creencia de que la policía es legítima–, se facilita el cumplimiento de reglas y normas, así como la cooperación con los procedimientos que necesita realizar.&lt;/p&gt;
-&lt;p&gt;Durante los últimos años han ocurrido muchos eventos de violencia policial y violaciones a los derechos humanos a nivel global que comprometen la legitimidad de las policías. Chile no ha sido la excepción. Su principal fuerza policial, Carabineros, pasó de ser una de las instituciones mejor evaluadas por la ciudadanía a ser una de las más cuestionadas a partir de octubre de 2019. El uso excesivo de la fuerza durante el “estallido social”, pero también numerosos casos de corrupción y montajes policiales han puesto en debate la legitimidad policial. No obstante , en los últimos dos años, considerando la relevancia que ha adquirido el problema de la seguridad pública y la delincuencia en el país, pareciera que la situación ha cambiado. Las policías han recuperado crecientemente la confianza de la ciudadanía, así como en la sociedad chilena han tomado fuerza discursos autoritarios que exigen mayores recursos y mayor violencia policial contra la delincuencia Ésta cuestión, se ha vuelto un problema de política pública y un tema de creciente interés investigativo.&lt;/p&gt;
-&lt;p&gt;Considerando esta preocupación, la línea de Policía y Legitimidad Social explora los procesos de construcción de legitimidad social de las autoridades policiales, y las percepciones, posturas motivacionales y creencias asociadas con estas instituciones. Actualmente se desarrollan investigaciones que buscan explorar las razones por las que ocurren cambios en las percepciones de legitimidad de las policías en el tiempo, así como las actitudes hacia las policías que tienen distintos grupos sociales en Chile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Derechos humanos</title>
-      <link>https://www.oles.cl/lineas/ddhh/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/lineas/ddhh/</guid>
-      <description>
-
-&lt;div id=&#34;TOC&#34;&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Uno de los elementos centrales que promueven la legitimidad policial es la justicia procedimental, esto es, la percepción de que las policías actúan de manera adecuada, imparcial, respetuosa y equitativa con todos los miembros de la sociedad. En esta línea, el resguardo de los derechos humanos para a ser una cuestión fundamental para normar y limitar el actuar policial y hacer un uso adecuado de la fuerza. una de las instituciones conformadas internacionalmente para resguardar las arbitrariedades de las policías sobre los ciudadanos, se basan en los principios definidos y&lt;/p&gt;
-&lt;p&gt;En el caso chileno, Carabineros ha sido criticado por distintas instituciones nacionales e internacionales por uso excesivo de la fuerza, abuso policial y por cómo se relaciona con distintos grupos sociales. Como en otras partes del mundo, la evidencia señala que el trato policial difiere para distintos grupos socioeconómicos, étnicos y etarios. Esto es particularmente relevante entre los jóvenes populares, urbanos y varones. Al mismo tiempo, la desigualdad en la protección policial en detrimento de los barrios de bajos ingresos, se ha convertido en una condición estructural de su funcionamiento. La etnicidad es otro criterio de discriminación policial: diversos estudios en Chile muestran que las minorías indígenas (especialmente mapuche) y los migrantes reciben peores tratos. La desigualdad en el trato puede dañar la confianza general hacia las policías, o la relación entre estos grupos desaventajados y carabineros, lo que ha afectado fuertemente la legitimidad policial. Una novedad y aporte de este proyecto es profundizar en estas interacciones causales.&lt;/p&gt;
-&lt;p&gt;Pensando en el principio de imparcialidad que promulgan los Derechos humanos, en esta línea se están desarrollando estudios sobre las percepciones en torno a las vulneraciones de estos principios en el marco de procesos de violencia estatal y policial. Al mismo tiempo, se exploran los procesos de impunidad frente a formas violencia policial y su relación con la legitimidad de las instituciones policiales&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Protesta social y violencia</title>
-      <link>https://www.oles.cl/lineas/mmss/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/lineas/mmss/</guid>
-      <description>
-
-&lt;div id=&#34;TOC&#34;&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;El ideal de igualdad se ha establecido como una expectativa social en las sociedades humanas y su incumplimiento puede generar rabia y malestar. Las personas interpretan la injusticia como un indicador de rechazo y exclusión, pues sienten que la expectativa de igualdad que promueven sus instituciones se quiebra. Una vez que se produce este quiebre, la disposición de las personas a cooperar voluntariamente por el bienestar social disminuye, conformando un proceso de deslegitimación de las autoridades, lo que aumenta la percepción de que el uso de la violencia es necesario para lograr cambios. Otra condición relevante tiene que ver con la percepción de eficacia grupal, es decir, la creencia de que es posible lograr un cambio por medio de la acción colectiva. Cuando una movilización empieza a masificarse, el sentimiento de poder cambiar las cosas crece y lleva a la gente a manifestarse.
-Sin embargo, no es suficiente percibir injusticia y sentir rabia para movilizarse. También es necesario que se genere una identidad común en torno al problema y, si esta identidad se politiza, mayor es la probabilidad de que las personas quieran protestar. En el Chile de los últimos años, una ola de movimientos (No +AFP, movimientos por la educación y feministas, alza de precios, entre otros) han demostrado que la sensación de deprivación no se reduce a un grupo particular y que la rabia es compartida, permitiendo la politización de una identidad en torno al malestar. A partir de octubre de 2019 Chile se vuelve testigo de protestas que reflejan una cristalización de demandas sociales, pero también un sentimiento de rabia e injusticia que decanta en la justificación generalizada del uso de la violencia en la movilización.&lt;/p&gt;
-&lt;p&gt;En esta línea se exploran los procesos de construcción y los mecanismos de justificación de repertorios de acción normativos y no normativos, explorando la justificación de la violencia intergrupal en Chile. En un momento en el que erosiona la legitimidad de las autoridades, las y los investigadores de OLES levantan datos e interpretaciones que permiten comprender los motivos por los cuales la ciudadanía llega a legitimar la violencia como una opción viable de protesta, y el modo en que se organiza para mostrar su descontento.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Líneas de trabajo | OLES</title><link>https://www.oles.cl/lineas/</link><atom:link href="https://www.oles.cl/lineas/index.xml" rel="self" type="application/rss+xml"/><description>Líneas de trabajo</description><generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><image><url>https://www.oles.cl/media/logo_hu_2abfb0f8c617ebbe.png</url><title>Líneas de trabajo</title><link>https://www.oles.cl/lineas/</link></image><item><title>Policía y legitimidad</title><link>https://www.oles.cl/lineas/violencia/</link><pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate><guid>https://www.oles.cl/lineas/violencia/</guid><description>
+&lt;div id="TOC">
+&lt;/div>
+&lt;p>En un contexto democratico, la policía requiere de apoyo público para funcionar adecuadamente, pues mientras en la sociedad exista la creencia de que esta institución tiene el derecho a ejercer la autoridad –esto es, la creencia de que la policía es legítima–, se facilita el cumplimiento de reglas y normas, así como la cooperación con los procedimientos que necesita realizar.&lt;/p>
+&lt;p>Durante los últimos años han ocurrido muchos eventos de violencia policial y violaciones a los derechos humanos a nivel global que comprometen la legitimidad de las policías. Chile no ha sido la excepción. Su principal fuerza policial, Carabineros, pasó de ser una de las instituciones mejor evaluadas por la ciudadanía a ser una de las más cuestionadas a partir de octubre de 2019. El uso excesivo de la fuerza durante el “estallido social”, pero también numerosos casos de corrupción y montajes policiales han puesto en debate la legitimidad policial. No obstante , en los últimos dos años, considerando la relevancia que ha adquirido el problema de la seguridad pública y la delincuencia en el país, pareciera que la situación ha cambiado. Las policías han recuperado crecientemente la confianza de la ciudadanía, así como en la sociedad chilena han tomado fuerza discursos autoritarios que exigen mayores recursos y mayor violencia policial contra la delincuencia Ésta cuestión, se ha vuelto un problema de política pública y un tema de creciente interés investigativo.&lt;/p>
+&lt;p>Considerando esta preocupación, la línea de Policía y Legitimidad Social explora los procesos de construcción de legitimidad social de las autoridades policiales, y las percepciones, posturas motivacionales y creencias asociadas con estas instituciones. Actualmente se desarrollan investigaciones que buscan explorar las razones por las que ocurren cambios en las percepciones de legitimidad de las policías en el tiempo, así como las actitudes hacia las policías que tienen distintos grupos sociales en Chile.&lt;/p></description></item><item><title>Derechos humanos</title><link>https://www.oles.cl/lineas/ddhh/</link><pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate><guid>https://www.oles.cl/lineas/ddhh/</guid><description>
+&lt;div id="TOC">
+&lt;/div>
+&lt;p>Uno de los elementos centrales que promueven la legitimidad policial es la justicia procedimental, esto es, la percepción de que las policías actúan de manera adecuada, imparcial, respetuosa y equitativa con todos los miembros de la sociedad. En esta línea, el resguardo de los derechos humanos para a ser una cuestión fundamental para normar y limitar el actuar policial y hacer un uso adecuado de la fuerza. una de las instituciones conformadas internacionalmente para resguardar las arbitrariedades de las policías sobre los ciudadanos, se basan en los principios definidos y&lt;/p>
+&lt;p>En el caso chileno, Carabineros ha sido criticado por distintas instituciones nacionales e internacionales por uso excesivo de la fuerza, abuso policial y por cómo se relaciona con distintos grupos sociales. Como en otras partes del mundo, la evidencia señala que el trato policial difiere para distintos grupos socioeconómicos, étnicos y etarios. Esto es particularmente relevante entre los jóvenes populares, urbanos y varones. Al mismo tiempo, la desigualdad en la protección policial en detrimento de los barrios de bajos ingresos, se ha convertido en una condición estructural de su funcionamiento. La etnicidad es otro criterio de discriminación policial: diversos estudios en Chile muestran que las minorías indígenas (especialmente mapuche) y los migrantes reciben peores tratos. La desigualdad en el trato puede dañar la confianza general hacia las policías, o la relación entre estos grupos desaventajados y carabineros, lo que ha afectado fuertemente la legitimidad policial. Una novedad y aporte de este proyecto es profundizar en estas interacciones causales.&lt;/p>
+&lt;p>Pensando en el principio de imparcialidad que promulgan los Derechos humanos, en esta línea se están desarrollando estudios sobre las percepciones en torno a las vulneraciones de estos principios en el marco de procesos de violencia estatal y policial. Al mismo tiempo, se exploran los procesos de impunidad frente a formas violencia policial y su relación con la legitimidad de las instituciones policiales&lt;/p></description></item><item><title>Protesta social y violencia</title><link>https://www.oles.cl/lineas/mmss/</link><pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate><guid>https://www.oles.cl/lineas/mmss/</guid><description>
+&lt;div id="TOC">
+&lt;/div>
+&lt;p>El ideal de igualdad se ha establecido como una expectativa social en las sociedades humanas y su incumplimiento puede generar rabia y malestar. Las personas interpretan la injusticia como un indicador de rechazo y exclusión, pues sienten que la expectativa de igualdad que promueven sus instituciones se quiebra. Una vez que se produce este quiebre, la disposición de las personas a cooperar voluntariamente por el bienestar social disminuye, conformando un proceso de deslegitimación de las autoridades, lo que aumenta la percepción de que el uso de la violencia es necesario para lograr cambios. Otra condición relevante tiene que ver con la percepción de eficacia grupal, es decir, la creencia de que es posible lograr un cambio por medio de la acción colectiva. Cuando una movilización empieza a masificarse, el sentimiento de poder cambiar las cosas crece y lleva a la gente a manifestarse.
+Sin embargo, no es suficiente percibir injusticia y sentir rabia para movilizarse. También es necesario que se genere una identidad común en torno al problema y, si esta identidad se politiza, mayor es la probabilidad de que las personas quieran protestar. En el Chile de los últimos años, una ola de movimientos (No +AFP, movimientos por la educación y feministas, alza de precios, entre otros) han demostrado que la sensación de deprivación no se reduce a un grupo particular y que la rabia es compartida, permitiendo la politización de una identidad en torno al malestar. A partir de octubre de 2019 Chile se vuelve testigo de protestas que reflejan una cristalización de demandas sociales, pero también un sentimiento de rabia e injusticia que decanta en la justificación generalizada del uso de la violencia en la movilización.&lt;/p>
+&lt;p>En esta línea se exploran los procesos de construcción y los mecanismos de justificación de repertorios de acción normativos y no normativos, explorando la justificación de la violencia intergrupal en Chile. En un momento en el que erosiona la legitimidad de las autoridades, las y los investigadores de OLES levantan datos e interpretaciones que permiten comprender los motivos por los cuales la ciudadanía llega a legitimar la violencia como una opción viable de protesta, y el modo en que se organiza para mostrar su descontento.&lt;/p></description></item></channel></rss>

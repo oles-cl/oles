@@ -1,162 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Eventos recientes y próximos | OLES</title>
-    <link>https://www.oles.cl/event/</link>
-      <atom:link href="https://www.oles.cl/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Eventos recientes y próximos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Fri, 13 Dec 2024 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
-      <title>Eventos recientes y próximos</title>
-      <link>https://www.oles.cl/event/</link>
-    </image>
-    
-    <item>
-      <title>Seminario sobre la Justificación de la desigualdad. Antecedentes y Consecuencias</title>
-      <link>https://www.oles.cl/event/seminario_justificacion_desigualdad/</link>
-      <pubDate>Fri, 13 Dec 2024 13:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_justificacion_desigualdad/</guid>
-      <description>&lt;p&gt;Estimadas y estimados,&lt;/p&gt;
-&lt;p&gt;Les extendemos una cordial invitación al seminario &amp;ldquo;Justificación de la desigualdad: Antecedentes y Consecuencias&amp;rdquo;, organizado por el Observatorio de Violencia y Legitimidad Social (OLES), junto a la Universidad Diego Portales, la Universidad Católica del Norte y la Universidad Central.&lt;/p&gt;
-&lt;p&gt;En este seminario, reflexionaremos sobre los procesos y mecanismos sociales que legitiman y reproducen las desigualdades económicas y socioculturales en Chile. En esta instancia presentarán:&lt;/p&gt;
-&lt;p&gt;Joaquín Bahamondes (Universidad Católica del Norte y OLES)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eventos recientes y próximos | OLES</title><link>https://www.oles.cl/event/</link><atom:link href="https://www.oles.cl/event/index.xml" rel="self" type="application/rss+xml"/><description>Eventos recientes y próximos</description><generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Fri, 13 Dec 2024 13:00:00 +0000</lastBuildDate><image><url>https://www.oles.cl/media/logo_hu_2abfb0f8c617ebbe.png</url><title>Eventos recientes y próximos</title><link>https://www.oles.cl/event/</link></image><item><title>Seminario sobre la Justificación de la desigualdad. Antecedentes y Consecuencias</title><link>https://www.oles.cl/event/seminario_justificacion_desigualdad/</link><pubDate>Fri, 13 Dec 2024 13:00:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_justificacion_desigualdad/</guid><description>&lt;p>Estimadas y estimados,&lt;/p>
+&lt;p>Les extendemos una cordial invitación al seminario &amp;ldquo;Justificación de la desigualdad: Antecedentes y Consecuencias&amp;rdquo;, organizado por el Observatorio de Violencia y Legitimidad Social (OLES), junto a la Universidad Diego Portales, la Universidad Católica del Norte y la Universidad Central.&lt;/p>
+&lt;p>En este seminario, reflexionaremos sobre los procesos y mecanismos sociales que legitiman y reproducen las desigualdades económicas y socioculturales en Chile. En esta instancia presentarán:&lt;/p>
+&lt;p>Joaquín Bahamondes (Universidad Católica del Norte y OLES)
 Ismael Puga (Universidad Central y OLES)
-Héctor Carvacho (Pontificia Universidad Católica de Chile y COES)&lt;/p&gt;
-&lt;p&gt;La sesión será moderada por:&lt;/p&gt;
-&lt;p&gt;Mónica Gerber (Universidad Diego Portales, OLES y COES)
+Héctor Carvacho (Pontificia Universidad Católica de Chile y COES)&lt;/p>
+&lt;p>La sesión será moderada por:&lt;/p>
+&lt;p>Mónica Gerber (Universidad Diego Portales, OLES y COES)
 Fecha: Viernes 13 de diciembre
 Hora: 13:00 a 14:30 hrs
 Lugar: Sala 303, Facultad de Psicología, Universidad Diego Portales (Vergara 275, Santiago)
-Modalidad: Híbrida&lt;/p&gt;
-&lt;p&gt;Para quienes no puedan asistir presencialmente, será posible conectarse a través de &lt;a href=&#34;https://zoom.us/meeting/register/tJYsdeqvqTwiH9NPOF0N14cl3SXeV6_hwDFT#/registration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Les agradeceríamos mucho que puedan compartir esta invitación con posibles interesados/as.&lt;/p&gt;
-&lt;p&gt;Para cualquier consulta, pueden escribirnos a: &lt;a href=&#34;mailto:contacto.oles@gmail.com&#34;&gt;contacto.oles@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;¡Esperamos contar con su participación!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seminario Internacional Legitimacy under Scrutiny. Police and Society in Chile and Brazil</title>
-      <link>https://www.oles.cl/event/seminario_legitimacy_under_scrutiny/</link>
-      <pubDate>Thu, 12 Dec 2024 18:30:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_legitimacy_under_scrutiny/</guid>
-      <description>&lt;p&gt;Estimadas y estimados,&lt;/p&gt;
-&lt;p&gt;Les dejamos la invitación al seminario “Legitimacy under Scrutiny: Police and Society in Chile and Brazil”. En este seminario expondrán Viviane Cubas y Frederico Castelo del Centro de Estudios de Violencia de la Universidad de Sao Paolo, además de Claudio Fuentes y Monica Gerber (Observatorio de Violencia y Legitimidad Social y UDP).  Este evento se realiza en el marco de visitas internacionales que recibe OLES este año. El seminario se llevará a cabo el día jueves 12 de diciembre a las 18.30 horas en el Auditorio de la Facultad de Psicología de la UDP (Vergara 275, Santiago). El seminario terminará con un café para poder seguir compartiendo reflexiones.&lt;/p&gt;
-&lt;p&gt;También será posible ver el seminario a través de Zoom. Las inscripciones para recibir el vínculo se realizan &lt;a href=&#34;https://zoom.us/meeting/register/tJAuf-igrzIpGNEA1tbq6hWduDERLLH_TsIS#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;¡Agradeceríamos que difundan entre posibles interesados/as!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mapuche en el sur. La CAM y la justificación de la violencia.</title>
-      <link>https://www.oles.cl/event/seminario_cep/</link>
-      <pubDate>Thu, 25 Jul 2024 18:30:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_cep/</guid>
-      <description>&lt;p&gt;Tenemos el agrado de invitarle al seminario «Mapuche en el sur: la CAM y la justificación de la violencia», que abordará capítulos del libro «Mapuche en el sur de Chile. Sociedad e identidad», editado por Aldo Mascareño y Carmen Le Foulon.&lt;/p&gt;
-&lt;p&gt;En este encuentro contaremos con las intervenciones de Mónica Gerber, doctora en sociología, académica UDP e investigadora COES, y Jorge Vergara, doctor en sociología y académico UdeC.&lt;/p&gt;
-&lt;p&gt;El evento se realizará el jueves 25 de julio, a las 18:30 horas en el auditorio del CEP (Monseñor Sótero Sanz 162, Providencia – Metro Pedro de Valdivia).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Congreso de Sociología de Chile (Pre-Alas) 2024</title>
-      <link>https://www.oles.cl/event/congreso_sociologia_2024/</link>
-      <pubDate>Thu, 02 May 2024 13:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/congreso_sociologia_2024/</guid>
-      <description>&lt;p&gt;📊📄 Les invitamos a asistir a las presentaciones que como equipo OLES vamos a realizar en el marco del XII Congreso chileno de sociología 2024. Estaremos con presentaciones a lo largo del día viernes 3 de mayo en la Universidad Alberto Hurtado y en la Universidad Diego Portales. Nuestro panel y presentaciones son:&lt;/p&gt;
-&lt;p&gt;🚓📊 Panel 14: Policías y sociedad en el Chile contemporáneo
+Modalidad: Híbrida&lt;/p>
+&lt;p>Para quienes no puedan asistir presencialmente, será posible conectarse a través de &lt;a href="https://zoom.us/meeting/register/tJYsdeqvqTwiH9NPOF0N14cl3SXeV6_hwDFT#/registration" target="_blank" rel="noopener">Zoom&lt;/a>.&lt;/p>
+&lt;p>Les agradeceríamos mucho que puedan compartir esta invitación con posibles interesados/as.&lt;/p>
+&lt;p>Para cualquier consulta, pueden escribirnos a: &lt;a href="mailto:contacto.oles@gmail.com">contacto.oles@gmail.com&lt;/a>&lt;/p>
+&lt;p>¡Esperamos contar con su participación!&lt;/p></description></item><item><title>Seminario Internacional Legitimacy under Scrutiny. Police and Society in Chile and Brazil</title><link>https://www.oles.cl/event/seminario_legitimacy_under_scrutiny/</link><pubDate>Thu, 12 Dec 2024 18:30:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_legitimacy_under_scrutiny/</guid><description>&lt;p>Estimadas y estimados,&lt;/p>
+&lt;p>Les dejamos la invitación al seminario “Legitimacy under Scrutiny: Police and Society in Chile and Brazil”. En este seminario expondrán Viviane Cubas y Frederico Castelo del Centro de Estudios de Violencia de la Universidad de Sao Paolo, además de Claudio Fuentes y Monica Gerber (Observatorio de Violencia y Legitimidad Social y UDP). Este evento se realiza en el marco de visitas internacionales que recibe OLES este año. El seminario se llevará a cabo el día jueves 12 de diciembre a las 18.30 horas en el Auditorio de la Facultad de Psicología de la UDP (Vergara 275, Santiago). El seminario terminará con un café para poder seguir compartiendo reflexiones.&lt;/p>
+&lt;p>También será posible ver el seminario a través de Zoom. Las inscripciones para recibir el vínculo se realizan &lt;a href="https://zoom.us/meeting/register/tJAuf-igrzIpGNEA1tbq6hWduDERLLH_TsIS#/" target="_blank" rel="noopener">aquí&lt;/a>.&lt;/p>
+&lt;p>¡Agradeceríamos que difundan entre posibles interesados/as!&lt;/p></description></item><item><title>Mapuche en el sur. La CAM y la justificación de la violencia.</title><link>https://www.oles.cl/event/seminario_cep/</link><pubDate>Thu, 25 Jul 2024 18:30:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_cep/</guid><description>&lt;p>Tenemos el agrado de invitarle al seminario «Mapuche en el sur: la CAM y la justificación de la violencia», que abordará capítulos del libro «Mapuche en el sur de Chile. Sociedad e identidad», editado por Aldo Mascareño y Carmen Le Foulon.&lt;/p>
+&lt;p>En este encuentro contaremos con las intervenciones de Mónica Gerber, doctora en sociología, académica UDP e investigadora COES, y Jorge Vergara, doctor en sociología y académico UdeC.&lt;/p>
+&lt;p>El evento se realizará el jueves 25 de julio, a las 18:30 horas en el auditorio del CEP (Monseñor Sótero Sanz 162, Providencia – Metro Pedro de Valdivia).&lt;/p></description></item><item><title>Congreso de Sociología de Chile (Pre-Alas) 2024</title><link>https://www.oles.cl/event/congreso_sociologia_2024/</link><pubDate>Thu, 02 May 2024 13:00:00 +0000</pubDate><guid>https://www.oles.cl/event/congreso_sociologia_2024/</guid><description>&lt;p>📊📄 Les invitamos a asistir a las presentaciones que como equipo OLES vamos a realizar en el marco del XII Congreso chileno de sociología 2024. Estaremos con presentaciones a lo largo del día viernes 3 de mayo en la Universidad Alberto Hurtado y en la Universidad Diego Portales. Nuestro panel y presentaciones son:&lt;/p>
+&lt;p>🚓📊 Panel 14: Policías y sociedad en el Chile contemporáneo
 17:15 – Sala E46, Universidad Alberto Hurtado.
-Presentadoras/es: Mónica Gerber (UDP), Macarena Orchard (UDP), Ana Figueiredo (UOH) y Luciano Sáez (UDP)&lt;/p&gt;
-&lt;p&gt;🗃️📊 GT18: Estados y violencias
+Presentadoras/es: Mónica Gerber (UDP), Macarena Orchard (UDP), Ana Figueiredo (UOH) y Luciano Sáez (UDP)&lt;/p>
+&lt;p>🗃️📊 GT18: Estados y violencias
 9:00 – Sala B31, Universidad Diego Portales.
 Presentación: Exceso y ausencia policial: percepciones sobre violencia y trato diferencial de Carabineros a diferentes grupos de la sociedad chilena
-Presentador: Luciano Sáez (UDP)&lt;/p&gt;
-&lt;p&gt;📄🗃️ GT18: Estados y violencia
+Presentador: Luciano Sáez (UDP)&lt;/p>
+&lt;p>📄🗃️ GT18: Estados y violencia
 12:30 – Sala B31, Universidad Diego Portales
 Presentación: La politización de la inseguridad en Antofagasta. Sectores populares y su relación con la política ante el crimen y la migración.
-Presentador: Bruno Rojas (Uchile)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seminario Internacional. Estrategias frente a la inseguridad en América Latina. Entre la gestión pública y la privada de la violencia</title>
-      <link>https://www.oles.cl/event/seminario_inseguridad_latam/</link>
-      <pubDate>Thu, 17 Aug 2023 13:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_inseguridad_latam/</guid>
-      <description>&lt;p&gt;Este seminario busca generar un debate académico respecto a las diversas percepciones y respuestas adoptadas por la ciudadanía frente a la problemática de la inseguridad y las percepciones de impunidad en los sistemas de justicia en América Latina, así como examinar las relaciones entre dichas respuestas y las políticas públicas de seguridad fomentadas por los estados en la región. A partir de las presentaciones de destacadas académicas y académicos en la materia, este seminario propone explorar cuestiones más específicas, como las formas de politización de la inseguridad y la victimización, discutir las formas de vigilantismo desde sus expresiones más orgánicas a las más inorgánicas, examinar las tensiones existentes entre los anhelos de dignidad y el enfoque punitivo tras las demandas ciudadanas, identificar las prácticas de cuidado que están emergiendo en la sociedad para enfrentar el crimen y la violencia, así como abordar las complejidades y tensiones tras la creciente legitimidad de la violencia policial en un contexto de creciente miedo al crimen.&lt;/p&gt;
-&lt;p&gt;La entrada es gratuita, pero los cupos son limitados, por lo que les pedimos que se registren en los siguientes enlaces, dependiendo de si su asistencia será de forma presencial o en línea:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://zoom.us/meeting/register/tJMldu-srzsvE9Due81QsUrvMCCQVLb3wsjm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://forms.gle/e6uAb1xT9E1NGXog9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Presencial&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;El programa es el siguiente:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bienvenida al seminario&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mónica Gerber (UDP). Duración máxima 15 min.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Mesa de expositores:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Modera: Loreto Quiroz (Universidad de O&amp;rsquo;Higgins)&lt;/p&gt;
-&lt;p&gt;Expositores:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Claudio Fuentes (Escuela de Ciencia Política, UDP)&lt;/li&gt;
-&lt;li&gt;Lucía Dammert (USACH)&lt;/li&gt;
-&lt;li&gt;Leandro Gamallo (Instituto de Investigaciones Gino Germani UBA)&lt;/li&gt;
-&lt;li&gt;Alejandra Luneke (Departamento de sociología, UAH, COES y Viodemos)&lt;/li&gt;
-&lt;li&gt;Antonio Fuentes Díaz (Instituto de Ciencias Sociales y Humanidades de la Benemérita Universidad Autónoma de Puebla (BUAP).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Duración máxima 1 hora y 45 min.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Café de cierre&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Duración 30 min.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discursos sobre la intervención y destrucción de monumentos. Activistas, vándalos, soñadores y desalmados.</title>
-      <link>https://www.oles.cl/event/seminario_manuela_badilla/</link>
-      <pubDate>Fri, 25 Nov 2022 13:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_manuela_badilla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Justicia procedimental, confianza y cooperación con la policía de Sao Pablo.</title>
-      <link>https://www.oles.cl/event/seminario_efrain_garcia/</link>
-      <pubDate>Fri, 21 Oct 2022 13:30:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_efrain_garcia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emociones de batalla y ceremonias de degradación sobre las relaciones entre linchamientos y derecho.</title>
-      <link>https://www.oles.cl/event/seminario_loreto_quiroz/</link>
-      <pubDate>Fri, 07 Oct 2022 13:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_loreto_quiroz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>¿Quién justifica qué? El rol del sentido de injusticia en las justificaciones de violencia en contexto de protesta</title>
-      <link>https://www.oles.cl/event/seminario_martin_venegas/</link>
-      <pubDate>Fri, 30 Sep 2022 13:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_martin_venegas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Esa no es la forma. análisis de las coberturas televisivas de la revuelta social</title>
-      <link>https://www.oles.cl/event/seminario_orchard_x_jimenez_c_y_herrada_n/</link>
-      <pubDate>Fri, 23 Sep 2022 13:00:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/seminario_orchard_x_jimenez_c_y_herrada_n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lanzamiento OLES</title>
-      <link>https://www.oles.cl/event/lanzamiento/</link>
-      <pubDate>Fri, 26 Aug 2022 13:30:00 +0000</pubDate>
-      <guid>https://www.oles.cl/event/lanzamiento/</guid>
-      <description>&lt;p&gt;El 9 de septiembre será la inauguración de la página del &lt;strong&gt;Observatorio Violencia y Legitimidad Social&lt;/strong&gt; (OLES).&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+Presentador: Bruno Rojas (Uchile)&lt;/p></description></item><item><title>Seminario Internacional. Estrategias frente a la inseguridad en América Latina. Entre la gestión pública y la privada de la violencia</title><link>https://www.oles.cl/event/seminario_inseguridad_latam/</link><pubDate>Thu, 17 Aug 2023 13:00:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_inseguridad_latam/</guid><description>&lt;p>Este seminario busca generar un debate académico respecto a las diversas percepciones y respuestas adoptadas por la ciudadanía frente a la problemática de la inseguridad y las percepciones de impunidad en los sistemas de justicia en América Latina, así como examinar las relaciones entre dichas respuestas y las políticas públicas de seguridad fomentadas por los estados en la región. A partir de las presentaciones de destacadas académicas y académicos en la materia, este seminario propone explorar cuestiones más específicas, como las formas de politización de la inseguridad y la victimización, discutir las formas de vigilantismo desde sus expresiones más orgánicas a las más inorgánicas, examinar las tensiones existentes entre los anhelos de dignidad y el enfoque punitivo tras las demandas ciudadanas, identificar las prácticas de cuidado que están emergiendo en la sociedad para enfrentar el crimen y la violencia, así como abordar las complejidades y tensiones tras la creciente legitimidad de la violencia policial en un contexto de creciente miedo al crimen.&lt;/p>
+&lt;p>La entrada es gratuita, pero los cupos son limitados, por lo que les pedimos que se registren en los siguientes enlaces, dependiendo de si su asistencia será de forma presencial o en línea:&lt;/p>
+&lt;p>&lt;a href="https://zoom.us/meeting/register/tJMldu-srzsvE9Due81QsUrvMCCQVLb3wsjm" target="_blank" rel="noopener">Online&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://forms.gle/e6uAb1xT9E1NGXog9" target="_blank" rel="noopener">Presencial&lt;/a>&lt;/p>
+&lt;p>El programa es el siguiente:&lt;/p>
+&lt;p>&lt;strong>Bienvenida al seminario&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mónica Gerber (UDP). Duración máxima 15 min.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Mesa de expositores:&lt;/strong>&lt;/p>
+&lt;p>Modera: Loreto Quiroz (Universidad de O&amp;rsquo;Higgins)&lt;/p>
+&lt;p>Expositores:&lt;/p>
+&lt;ul>
+&lt;li>Claudio Fuentes (Escuela de Ciencia Política, UDP)&lt;/li>
+&lt;li>Lucía Dammert (USACH)&lt;/li>
+&lt;li>Leandro Gamallo (Instituto de Investigaciones Gino Germani UBA)&lt;/li>
+&lt;li>Alejandra Luneke (Departamento de sociología, UAH, COES y Viodemos)&lt;/li>
+&lt;li>Antonio Fuentes Díaz (Instituto de Ciencias Sociales y Humanidades de la Benemérita Universidad Autónoma de Puebla (BUAP).&lt;/li>
+&lt;/ul>
+&lt;p>Duración máxima 1 hora y 45 min.&lt;/p>
+&lt;p>&lt;strong>Café de cierre&lt;/strong>&lt;/p>
+&lt;p>Duración 30 min.&lt;/p></description></item><item><title>Discursos sobre la intervención y destrucción de monumentos. Activistas, vándalos, soñadores y desalmados.</title><link>https://www.oles.cl/event/seminario_manuela_badilla/</link><pubDate>Fri, 25 Nov 2022 13:00:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_manuela_badilla/</guid><description/></item><item><title>Justicia procedimental, confianza y cooperación con la policía de Sao Pablo.</title><link>https://www.oles.cl/event/seminario_efrain_garcia/</link><pubDate>Fri, 21 Oct 2022 13:30:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_efrain_garcia/</guid><description/></item><item><title>Emociones de batalla y ceremonias de degradación sobre las relaciones entre linchamientos y derecho.</title><link>https://www.oles.cl/event/seminario_loreto_quiroz/</link><pubDate>Fri, 07 Oct 2022 13:00:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_loreto_quiroz/</guid><description/></item><item><title>¿Quién justifica qué? El rol del sentido de injusticia en las justificaciones de violencia en contexto de protesta</title><link>https://www.oles.cl/event/seminario_martin_venegas/</link><pubDate>Fri, 30 Sep 2022 13:00:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_martin_venegas/</guid><description/></item><item><title>Esa no es la forma. análisis de las coberturas televisivas de la revuelta social</title><link>https://www.oles.cl/event/seminario_orchard_x_jimenez_c_y_herrada_n/</link><pubDate>Fri, 23 Sep 2022 13:00:00 +0000</pubDate><guid>https://www.oles.cl/event/seminario_orchard_x_jimenez_c_y_herrada_n/</guid><description/></item><item><title>Lanzamiento OLES</title><link>https://www.oles.cl/event/lanzamiento/</link><pubDate>Fri, 26 Aug 2022 13:30:00 +0000</pubDate><guid>https://www.oles.cl/event/lanzamiento/</guid><description>&lt;p>El 9 de septiembre será la inauguración de la página del &lt;strong>Observatorio Violencia y Legitimidad Social&lt;/strong> (OLES).&lt;/p></description></item></channel></rss>

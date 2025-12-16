@@ -1,126 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Prensa | OLES</title>
-    <link>https://www.oles.cl/tag/prensa/</link>
-      <atom:link href="https://www.oles.cl/tag/prensa/index.xml" rel="self" type="application/rss+xml" />
-    <description>Prensa</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Thu, 11 Jul 2024 21:13:14 -0500</lastBuildDate>
-    <image>
-      <url>https://www.oles.cl/media/logo_hud5651eda9fc30916f5e80eead078350f_17375_300x300_fit_lanczos_2.png</url>
-      <title>Prensa</title>
-      <link>https://www.oles.cl/tag/prensa/</link>
-    </image>
-    
-    <item>
-      <title>Convocatoria OLES: Práctica Electiva Interdisciplinaria Legitimidad de las policías en Chile: empoderamiento, violencia y corrupción desde datos administrativos</title>
-      <link>https://www.oles.cl/post/2024-07-15/</link>
-      <pubDate>Thu, 11 Jul 2024 21:13:14 -0500</pubDate>
-      <guid>https://www.oles.cl/post/2024-07-15/</guid>
-      <description>
-
-
-&lt;div id=&#34;resumen&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Resumen&lt;/h2&gt;
-&lt;p&gt;El objetivo general del proyecto es analizar diferentes factores que pueden influir la percepción de los niveles de legitimidad y justicia procedimental de las fuerzas policiales. Considerando el contexto
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prensa | OLES</title><link>https://www.oles.cl/tag/prensa/</link><atom:link href="https://www.oles.cl/tag/prensa/index.xml" rel="self" type="application/rss+xml"/><description>Prensa</description><generator>Wowchemy (https://wowchemy.com)</generator><language>es-cl</language><copyright>© 2025 OLES</copyright><lastBuildDate>Thu, 11 Jul 2024 21:13:14 -0500</lastBuildDate><image><url>https://www.oles.cl/media/logo_hu_2abfb0f8c617ebbe.png</url><title>Prensa</title><link>https://www.oles.cl/tag/prensa/</link></image><item><title>Convocatoria OLES: Práctica Electiva Interdisciplinaria Legitimidad de las policías en Chile: empoderamiento, violencia y corrupción desde datos administrativos</title><link>https://www.oles.cl/post/2024-07-15/index.en/</link><pubDate>Thu, 11 Jul 2024 21:13:14 -0500</pubDate><guid>https://www.oles.cl/post/2024-07-15/index.en/</guid><description>
+&lt;div id="resumen" class="section level2">
+&lt;h2>Resumen&lt;/h2>
+&lt;p>El objetivo general del proyecto es analizar diferentes factores que pueden influir la percepción de los niveles de legitimidad y justicia procedimental de las fuerzas policiales. Considerando el contexto
 actual marcado por el incremento de las percepciones de inseguridad ciudadana y los llamados a un
 mayor empoderamiento policial es clave examinar cómo diferentes eventos, como casos de
 corrupción, abusos policiales y reformas legales pueden afectar el aumento o disminución sobre
-dichas percepciones.&lt;/p&gt;
-&lt;p&gt;Para lograrlo, esta práctica propone analizar estos eventos desde el análisis de un variado corpus de
+dichas percepciones.&lt;/p>
+&lt;p>Para lograrlo, esta práctica propone analizar estos eventos desde el análisis de un variado corpus de
 datos administrativos producidos por diferentes entidades estatales (datos legislativos, policiales,
 judiciales), así como de organizaciones de la sociedad civil (ong’s, fundaciones, entre otras). Con
 ello, se busca reflexionar sobre el rol y naturaleza de datos administrativos para el análisis de
 las prácticas policiales. Esta investigación se enmarca en el Observatorio de Violencia y
-Legitimidad Social (OLES).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Objetivos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Analizar&lt;/strong&gt; los factores que influyen en la percepción de la legitimidad y justicia procedimental
+Legitimidad Social (OLES).&lt;/p>
+&lt;/div>
+&lt;div id="objetivos" class="section level2">
+&lt;h2>Objetivos&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Analizar&lt;/strong> los factores que influyen en la percepción de la legitimidad y justicia procedimental
 de las fuerzas policiales, utilizando datos administrativos en el contexto de creciente
-inseguridad ciudadana y demandas de empoderamiento policial.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Evaluar&lt;/strong&gt; el impacto de eventos específicos, como casos de corrupción, abusos policiales y
-reformas legales, en la percepción pública de la seguridad y el empoderamiento policial.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Explorar&lt;/strong&gt; el uso de datos administrativos de diversas entidades estatales y organizaciones de
-la sociedad civil para el análisis de las prácticas policiales.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;perfil-requerido&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Perfil requerido&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ser estudiante regular de la Universidad Diego Portales cursando 5° semestre o superior de la
-carrera de Sociología o Ciencia Política.&lt;/li&gt;
-&lt;li&gt;Tener aprobado cursos de Metodología de la Investigación social (o equivalentes) con buenas
-evaluaciones (nota superior a 5,0 en cursos).&lt;/li&gt;
-&lt;li&gt;Poseer conocimiento práctico en técnicas cualitativas y/p cuantitativas (deseable conocimiento de
+inseguridad ciudadana y demandas de empoderamiento policial.&lt;/li>
+&lt;li>&lt;strong>Evaluar&lt;/strong> el impacto de eventos específicos, como casos de corrupción, abusos policiales y
+reformas legales, en la percepción pública de la seguridad y el empoderamiento policial.&lt;/li>
+&lt;li>&lt;strong>Explorar&lt;/strong> el uso de datos administrativos de diversas entidades estatales y organizaciones de
+la sociedad civil para el análisis de las prácticas policiales.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="perfil-requerido" class="section level2">
+&lt;h2>Perfil requerido&lt;/h2>
+&lt;ul>
+&lt;li>Ser estudiante regular de la Universidad Diego Portales cursando 5° semestre o superior de la
+carrera de Sociología o Ciencia Política.&lt;/li>
+&lt;li>Tener aprobado cursos de Metodología de la Investigación social (o equivalentes) con buenas
+evaluaciones (nota superior a 5,0 en cursos).&lt;/li>
+&lt;li>Poseer conocimiento práctico en técnicas cualitativas y/p cuantitativas (deseable conocimiento de
 estrategias básica de codificación y análisis cualitativo y/o de estrategia de análisis estadístico
-bivariado en Rstudio)&lt;/li&gt;
-&lt;li&gt;Ser capaz de leer textos de Ciencias Sociales en español e inglés de manera autónoma.&lt;/li&gt;
-&lt;li&gt;Poseer capacidades para la planificación y el levantamiento de información.&lt;/li&gt;
-&lt;li&gt;Poseer capacidades de comunicación efectiva de información.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;para-la-elección-se-considerará&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Para la elección se considerará&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Antecedentes académicos: 50%&lt;/li&gt;
-&lt;li&gt;Carta de Motivación: 30% (dirigida a Luciano Sáez)&lt;/li&gt;
-&lt;li&gt;Entrevista: 20%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;etapas-del-proceso&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Etapas del proceso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Postular adjuntando registro de notas y carta de motivación al correo
-&lt;a href=&#34;mailto:contacto.oles@gmail.com&#34;&gt;contacto.oles@gmail.com&lt;/a&gt; con copia (cc) al mail &lt;a href=&#34;milto:luciano.saez@mail.udp.cl&#34;&gt;luciano.saez@mail.udp.cl&lt;/a&gt; con el asunto
-“Práctica Electiva Legitimidad de las policías”&lt;/li&gt;
-&lt;li&gt;Período de postulación: desde el viernes 12 de julio hasta el martes 23 de julio a las 23.59&lt;/li&gt;
-&lt;li&gt;Entrevistas: jueves 25 y viernes 26 de julio&lt;/li&gt;
-&lt;li&gt;Resultados: lunes 30 de Julio&lt;/li&gt;
-&lt;li&gt;Inicio de la práctica: Agosto&lt;/li&gt;
-&lt;li&gt;Consultas al mail &lt;a href=&#34;mailto:contacto.oles@gmail.com&#34;&gt;contacto.oles@gmal.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;convocatoria.pdf&#34;&gt;Conovocatoria en PDF&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OLES participa en el Encuentro anual del ISPP</title>
-      <link>https://www.oles.cl/post/2024-07-12/</link>
-      <pubDate>Thu, 11 Jul 2024 21:13:14 -0500</pubDate>
-      <guid>https://www.oles.cl/post/2024-07-12/</guid>
-      <description>
-
-
-&lt;p&gt;Del 4 al 6 de julio tuvo lugar en Santiago el Annual Scientific Meeting realizado por el International Society of Political Psychology (ISPP). Este importante congreso internacional tuvo como centro temático las raíces psicológicas de los conflictos relacionados con el creciente autoritarismo y su impacto en las sociedades democráticas. Con el título de ‘Dismantling Democracy: Insecurity, Emotions and Authoritarian Populism’, a lo largo de tres días, se presentaron 13 paneles y más de 80 ponencias en las que participaron investigadoras e investigadores provenientes de distintas disciplinas, como la psicología social, la ciencia política y la sociología, entre otras.&lt;/p&gt;
-&lt;p&gt;Investigadoras e investigadores del equipo OLES participaron activamente en este congreso, presentando avances de sus más recientes investigaciones.&lt;/p&gt;
-&lt;p&gt;La investigadora Ana Figueiredo (UOH), además de participar en la organización del congreso, presentó en dos paneles y participó como discussant en otras mesas. En términos de sus presentaciones, participó primero en el Panel 76: Insecurity and Distance from Democracy in Majorities and Minorities during Global Crisis and Uncertainty. En este panel, la investigadora presentó su trabajo titulado: “Distrust in democratic processes of change among the Mapuche people in Chile: an analysis of the 2020-2022 constitutional process”. Su presentación se centró en la desconfianza y la distancia del Estado que han desarrollado los grupos minoritarios, en particular el pueblo Mapuche, durante el proceso de cambio constitucional del Estado chileno.&lt;/p&gt;
-&lt;p&gt;Luego, participó en el Panel 97: Double Standards in Migration, Ethnicity and Intergroup Relations. En este panel, presentó su ponencia “Double standards in intergroup relations: a theoretical reflection on coloniality and racialized communities”. Esta presentación teórica abordó el concepto de colonialidad y su impacto en las comunidades racializadas a nivel global, destacando los dobles estándares que privilegian a ciertos grupos sobre otros. La investigadora ilustró su argumento en el caso de la violencia estructural y sistémica contra el pueblo Mapuche en Chile para mostrar cómo las relaciones intergrupales se ven afectadas por matrices de dominación y opresión. Por último, la investigadora participó como discussant en dos paneles: “Political Resistance in Authoritarian Contexts. Part 2: Repression and Resistance” y “Towards a Comprehensive Account of Neo-Colonial Ideological Phenomena: Predictors and Impact on Longstanding Colonial Inequalities”, aportando en la discusión sobre resistencia política y los fenómenos ideológicos neocoloniales.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;ana_ispp.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;La directora del observatorio y académica de la UDP, Mónica Gerber, presentó la ponencia titulada “Police use of force promotes protester violence: the mediating role of social identity and perceived procedural justice in the context of police-protester relationships.” En su trabajo mostró cómo la experiencia de violencia policial incide en la percepción de justicia procedimental y en la identificación de las personas con los manifestantes, y cómo esto tiene un efecto en la justificación de la violencia de los manifestantes hacia la policía. Utilizando en conjunto el enfoque de la Justicia Procedimental y el Elaborated Social Identity Model, su trabajo avanza en la comprensión de los mecanismos detrás de la acción colectiva.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;monica_ispp.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Joaquín Bahamondes, profesor de la escuela de psicología de la Universidad Católica del Norte, presentó en el Panel 84: “Towards a comprehensive account of neocolonial ideological phenomena: Predictors and impact on longstanding colonial inequalities”. En este panel, el investigador del equipo OLES presentó su ponencia “Postcolonial ideology in the Chilean constitutional process: Historical negation predicts distrust and opposition to constitutional change among the Mapuche”. En este trabajo, el autor analizó en qué medida las personas Mapuche internalizaron los discursos críticos con las políticas de reconocimiento indígena llevadas a cabo en el proceso de cambio constitucional. Para eso analizó específicamente si las creencias que minimizan las historias de injusticia que enfrentan los Mapuche y los imperativos por reparación, junto a las afirmaciones de la exclusión de los símbolos Mapuche de la identidad nacional, podían predecir oposición al cambio constitucional del 2019 y desconfianza en la asamblea constitucional durante 2022. Sus resultados destacaron el rol de la negación histórica en predecir oposición y desconfianza en el cambio constitucional, lo que se alineó con una concepción consensual de la ideología como una manifestación de falsa conciencia que mina el apoyo a los intereses del grupo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;joaquin_ispp.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Finalmente, Luciano Sáez, estudiante y académico de la Universidad Diego Portales, presentó la ponencia “Compromiso, resistencia y evitación: ¿Cómo se vincula la ciudadanía con las policías en Chile?”. En su trabajo analizó cómo diversos grupos sociales (derecha, izquierda, indígenas, inmigrantes y manifestantes) expresan diferentes niveles de legitimidad y despliegan diferentes posturas hacia la policía en Chile. Dialogando con los estudios sobre legitimidad policial, justicia procedimental y posturas motivacionales, el investigador profundizó en las experiencias de vinculación con la policía, explorando tres posturas motivacionales para comprender la distancia que las personas en Chile movilizan frente a Carabineros: el compromiso, la resistencia y la evitación.&lt;/p&gt;
-&lt;p&gt;De esta forma, las investigadoras e investigadores de OLES hicieron contribuciones significativas al desarrollo de la psicología política a través de sus presentaciones. Este congreso no solo resaltó las agendas de investigación que se desarrollan al interior de nuestro observatorio, sino que también abrió nuevos caminos para la colaboración interdisciplinaria, fortaleciendo la psicología política como campo esencial para abordar los desafíos democráticos contemporáneos.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nuestra directora Mónica Gerber participa de Anatomia del caos (Podcast Chile 21)</title>
-      <link>https://www.oles.cl/post/2024-06-24/</link>
-      <pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate>
-      <guid>https://www.oles.cl/post/2024-06-24/</guid>
-      <description>
-
-
-&lt;p&gt;Puedes revisar su participación aquí 👇🏻&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tYuPSJnTc4Q&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
-&lt;/iframe&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+bivariado en Rstudio)&lt;/li>
+&lt;li>Ser capaz de leer textos de Ciencias Sociales en español e inglés de manera autónoma.&lt;/li>
+&lt;li>Poseer capacidades para la planificación y el levantamiento de información.&lt;/li>
+&lt;li>Poseer capacidades de comunicación efectiva de información.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="para-la-elección-se-considerará" class="section level2">
+&lt;h2>Para la elección se considerará&lt;/h2>
+&lt;ul>
+&lt;li>Antecedentes académicos: 50%&lt;/li>
+&lt;li>Carta de Motivación: 30% (dirigida a Luciano Sáez)&lt;/li>
+&lt;li>Entrevista: 20%&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="etapas-del-proceso" class="section level2">
+&lt;h2>Etapas del proceso&lt;/h2>
+&lt;ul>
+&lt;li>Postular adjuntando registro de notas y carta de motivación al correo
+&lt;a href="mailto:contacto.oles@gmail.com">contacto.oles@gmail.com&lt;/a> con copia (cc) al mail &lt;a href="milto:luciano.saez@mail.udp.cl">luciano.saez@mail.udp.cl&lt;/a> con el asunto
+“Práctica Electiva Legitimidad de las policías”&lt;/li>
+&lt;li>Período de postulación: desde el viernes 12 de julio hasta el martes 23 de julio a las 23.59&lt;/li>
+&lt;li>Entrevistas: jueves 25 y viernes 26 de julio&lt;/li>
+&lt;li>Resultados: lunes 30 de Julio&lt;/li>
+&lt;li>Inicio de la práctica: Agosto&lt;/li>
+&lt;li>Consultas al mail &lt;a href="mailto:contacto.oles@gmail.com">contacto.oles@gmal.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="convocatoria.pdf">Conovocatoria en PDF&lt;/a>&lt;/p>
+&lt;/div></description></item><item><title>OLES participa en el Encuentro anual del ISPP</title><link>https://www.oles.cl/post/2024-07-12/index.en/</link><pubDate>Thu, 11 Jul 2024 21:13:14 -0500</pubDate><guid>https://www.oles.cl/post/2024-07-12/index.en/</guid><description>
+&lt;p>Del 4 al 6 de julio tuvo lugar en Santiago el Annual Scientific Meeting realizado por el International Society of Political Psychology (ISPP). Este importante congreso internacional tuvo como centro temático las raíces psicológicas de los conflictos relacionados con el creciente autoritarismo y su impacto en las sociedades democráticas. Con el título de ‘Dismantling Democracy: Insecurity, Emotions and Authoritarian Populism’, a lo largo de tres días, se presentaron 13 paneles y más de 80 ponencias en las que participaron investigadoras e investigadores provenientes de distintas disciplinas, como la psicología social, la ciencia política y la sociología, entre otras.&lt;/p>
+&lt;p>Investigadoras e investigadores del equipo OLES participaron activamente en este congreso, presentando avances de sus más recientes investigaciones.&lt;/p>
+&lt;p>La investigadora Ana Figueiredo (UOH), además de participar en la organización del congreso, presentó en dos paneles y participó como discussant en otras mesas. En términos de sus presentaciones, participó primero en el Panel 76: Insecurity and Distance from Democracy in Majorities and Minorities during Global Crisis and Uncertainty. En este panel, la investigadora presentó su trabajo titulado: “Distrust in democratic processes of change among the Mapuche people in Chile: an analysis of the 2020-2022 constitutional process”. Su presentación se centró en la desconfianza y la distancia del Estado que han desarrollado los grupos minoritarios, en particular el pueblo Mapuche, durante el proceso de cambio constitucional del Estado chileno.&lt;/p>
+&lt;p>Luego, participó en el Panel 97: Double Standards in Migration, Ethnicity and Intergroup Relations. En este panel, presentó su ponencia “Double standards in intergroup relations: a theoretical reflection on coloniality and racialized communities”. Esta presentación teórica abordó el concepto de colonialidad y su impacto en las comunidades racializadas a nivel global, destacando los dobles estándares que privilegian a ciertos grupos sobre otros. La investigadora ilustró su argumento en el caso de la violencia estructural y sistémica contra el pueblo Mapuche en Chile para mostrar cómo las relaciones intergrupales se ven afectadas por matrices de dominación y opresión. Por último, la investigadora participó como discussant en dos paneles: “Political Resistance in Authoritarian Contexts. Part 2: Repression and Resistance” y “Towards a Comprehensive Account of Neo-Colonial Ideological Phenomena: Predictors and Impact on Longstanding Colonial Inequalities”, aportando en la discusión sobre resistencia política y los fenómenos ideológicos neocoloniales.&lt;/p>
+&lt;p>&lt;img src="ana_ispp.jpg" />&lt;/p>
+&lt;p>La directora del observatorio y académica de la UDP, Mónica Gerber, presentó la ponencia titulada “Police use of force promotes protester violence: the mediating role of social identity and perceived procedural justice in the context of police-protester relationships.” En su trabajo mostró cómo la experiencia de violencia policial incide en la percepción de justicia procedimental y en la identificación de las personas con los manifestantes, y cómo esto tiene un efecto en la justificación de la violencia de los manifestantes hacia la policía. Utilizando en conjunto el enfoque de la Justicia Procedimental y el Elaborated Social Identity Model, su trabajo avanza en la comprensión de los mecanismos detrás de la acción colectiva.&lt;/p>
+&lt;p>&lt;img src="monica_ispp.jpg" />&lt;/p>
+&lt;p>Joaquín Bahamondes, profesor de la escuela de psicología de la Universidad Católica del Norte, presentó en el Panel 84: “Towards a comprehensive account of neocolonial ideological phenomena: Predictors and impact on longstanding colonial inequalities”. En este panel, el investigador del equipo OLES presentó su ponencia “Postcolonial ideology in the Chilean constitutional process: Historical negation predicts distrust and opposition to constitutional change among the Mapuche”. En este trabajo, el autor analizó en qué medida las personas Mapuche internalizaron los discursos críticos con las políticas de reconocimiento indígena llevadas a cabo en el proceso de cambio constitucional. Para eso analizó específicamente si las creencias que minimizan las historias de injusticia que enfrentan los Mapuche y los imperativos por reparación, junto a las afirmaciones de la exclusión de los símbolos Mapuche de la identidad nacional, podían predecir oposición al cambio constitucional del 2019 y desconfianza en la asamblea constitucional durante 2022. Sus resultados destacaron el rol de la negación histórica en predecir oposición y desconfianza en el cambio constitucional, lo que se alineó con una concepción consensual de la ideología como una manifestación de falsa conciencia que mina el apoyo a los intereses del grupo.&lt;/p>
+&lt;p>&lt;img src="joaquin_ispp.jpg" />&lt;/p>
+&lt;p>Finalmente, Luciano Sáez, estudiante y académico de la Universidad Diego Portales, presentó la ponencia “Compromiso, resistencia y evitación: ¿Cómo se vincula la ciudadanía con las policías en Chile?”. En su trabajo analizó cómo diversos grupos sociales (derecha, izquierda, indígenas, inmigrantes y manifestantes) expresan diferentes niveles de legitimidad y despliegan diferentes posturas hacia la policía en Chile. Dialogando con los estudios sobre legitimidad policial, justicia procedimental y posturas motivacionales, el investigador profundizó en las experiencias de vinculación con la policía, explorando tres posturas motivacionales para comprender la distancia que las personas en Chile movilizan frente a Carabineros: el compromiso, la resistencia y la evitación.&lt;/p>
+&lt;p>De esta forma, las investigadoras e investigadores de OLES hicieron contribuciones significativas al desarrollo de la psicología política a través de sus presentaciones. Este congreso no solo resaltó las agendas de investigación que se desarrollan al interior de nuestro observatorio, sino que también abrió nuevos caminos para la colaboración interdisciplinaria, fortaleciendo la psicología política como campo esencial para abordar los desafíos democráticos contemporáneos.&lt;/p></description></item><item><title>Nuestra directora Mónica Gerber participa de Anatomia del caos (Podcast Chile 21)</title><link>https://www.oles.cl/post/2024-06-24/index.en/</link><pubDate>Mon, 13 May 2024 21:13:14 -0500</pubDate><guid>https://www.oles.cl/post/2024-06-24/index.en/</guid><description>
+&lt;p>Puedes revisar su participación aquí 👇🏻&lt;/p>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tYuPSJnTc4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+&lt;/iframe></description></item></channel></rss>
